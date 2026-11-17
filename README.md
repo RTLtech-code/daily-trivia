@@ -14,7 +14,8 @@ One question a day in three categories (Yellowstone, National Parks, Road Trips)
 ## Rules
 1. **Append only.** Questions play in file order, one per day from Nov 17, 2026 (day 1). Never reorder or delete questions, or every later day shifts. To retire a bad question, fix its text in place.
 2. **Sources:** NPS first, otherwise another official source (FHWA, Parks Canada, USGS, state DOTs and tourism offices, the Smithsonian). No blogs. Road Trip Locals' own trips are fine, but verify the facts independently.
-3. Run `node tools/check.js` and then `node tools/build.js` after every change.
+3. **Difficulty:** every question has `d` set to easy, medium or hard. New batches are placed by `tools/schedule.js` (balanced mix: spread evenly, never two hard days in a row). Aim batches at about 40% easy until easy questions are at least 2 in every 7.
+4. Run `node tools/check.js` and then `node tools/build.js` after every change.
 
 ## Accessibility
 Built to WCAG 2.2 AA. Text contrast is at least 4.5:1 and controls are at least 3:1. The tabs work with the keyboard (arrow keys, Home and End). Right and wrong answers use text and symbols, not just color. Results are announced to screen readers, there is a visible focus outline, and touch targets are at least 44px. axe-core found 0 violations (Nov 17, 2026).

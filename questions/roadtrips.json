@@ -12,410 +12,8 @@
    ],
    "f": "It's the only place in the U.S. where four states meet at one point.",
    "s": "NOAA National Geodetic Survey",
-   "u": "https://www.ngs.noaa.gov/INFO/fourcorners.shtml"
-  },
-  {
-   "id": "rt-002",
-   "q": "At its northern end, California's Highway 1 meets US 101 near which small town?",
-   "a": "Leggett",
-   "w": [
-    "Eureka",
-    "Crescent City",
-    "Mendocino"
-   ],
-   "f": "The Pacific Coast Highway runs as Route 1 from southern Orange County all the way up the coast to Leggett.",
-   "s": "Federal Highway Administration: Pacific Coast Highway Byway",
-   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/byway/12744"
-  },
-  {
-   "id": "rt-003",
-   "q": "Utah's Scenic Byway 12 links Bryce Canyon with which other national park?",
-   "a": "Capitol Reef",
-   "w": [
-    "Zion",
-    "Arches",
-    "Canyonlands"
-   ],
-   "f": "Watch for the Hogback, a narrow ridge with steep drop-offs on both sides of the road.",
-   "s": "Visit Utah (Utah Office of Tourism)",
-   "u": "https://www.visitutah.com/articles/the-all-american-road-scenic-byway-12"
-  },
-  {
-   "id": "rt-004",
-   "q": "Avenue of the Giants is a scenic drive through which trees?",
-   "a": "Coast redwoods",
-   "w": [
-    "Giant sequoias",
-    "Douglas firs",
-    "Ponderosa pines"
-   ],
-   "f": "The 32-mile drive through Humboldt Redwoods State Park follows the old route of Highway 101.",
-   "s": "California State Parks",
-   "u": "https://www.parks.ca.gov/pages/425/files/HumboldtRedwoodsFinalWebLayout2017.pdf"
-  },
-  {
-   "id": "rt-005",
-   "q": "Which glacier can you see right from the Icefields Parkway?",
-   "a": "Athabasca Glacier",
-   "w": [
-    "Grinnell Glacier",
-    "Mendenhall Glacier",
-    "Emmons Glacier"
-   ],
-   "f": "It flows from the Columbia Icefield, the largest mass of glacial ice in the Canadian Rockies. Don't walk on it without a guide, because crevasses can be deadly.",
-   "s": "Parks Canada: Travelling the Icefields Parkway",
-   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/promenadedesglaciers-icefieldsparkway"
-  },
-  {
-   "id": "rt-006",
-   "q": "Road Trip Locals' 'Grand Trifecta' connects Grand Teton, Yellowstone and which other national park?",
-   "a": "Glacier",
-   "w": [
-    "Rocky Mountain",
-    "Badlands",
-    "Banff"
-   ],
-   "f": "We recommend 10 to 14 days. Fly into Bozeman, head north from Grand Teton through Yellowstone, and finish in Glacier.",
-   "s": "Road Trip Locals: The Grand Trifecta",
-   "u": "https://www.roadtriplocals.com/blog/grand-teton-yellowstone-glacier-road-trip"
-  },
-  {
-   "id": "rt-007",
-   "q": "What does your vehicle need to drive the Icefields Parkway from November 1 to March 31?",
-   "a": "Snow tires or chains",
-   "w": [
-    "Four-wheel drive",
-    "A permit from the RCMP",
-    "A satellite phone"
-   ],
-   "f": "You also need a valid national parks pass to drive the parkway at any time of year.",
-   "s": "Parks Canada: Icefields Parkway in Winter",
-   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/experience/hiver-winter/pcghiver-ipwinter"
-  },
-  {
-   "id": "rt-008",
-   "q": "In what year was Jack Kerouac's road trip novel 'On the Road' published?",
-   "a": "1957",
-   "w": [
-    "1939",
-    "1949",
-    "1968"
-   ],
-   "f": "Kerouac typed the first full draft in April 1951 on sheets taped into a scroll about 120 feet long.",
-   "s": "New York Public Library",
-   "u": "https://www.nypl.org/press/beatific-soul-jack-kerouac-road"
-  },
-  {
-   "id": "rt-009",
-   "q": "Work on the Blue Ridge Parkway began in 1935. When was it declared complete?",
-   "a": "1987",
-   "w": [
-    "1941",
-    "1956",
-    "1972"
-   ],
-   "f": "The dedication on September 11, 1987 ended a 14-mile detour around Grandfather Mountain.",
-   "s": "National Park Service: History of the Linn Cove Viaduct",
-   "u": "https://www.nps.gov/blri/learn/historyculture/linn-cove-viaduct.htm"
-  },
-  {
-   "id": "rt-010",
-   "q": "Glacier's Going-to-the-Sun Road crosses the Continental Divide at which pass?",
-   "a": "Logan Pass",
-   "w": [
-    "Marias Pass",
-    "Sylvan Pass",
-    "Rogers Pass"
-   ],
-   "f": "There's no set opening date, because it depends on snow. The road is usually fully open by early July.",
-   "s": "National Park Service: Going-to-the-Sun Road",
-   "u": "https://www.nps.gov/glac/planyourvisit/gtsrinfo.htm"
-  },
-  {
-   "id": "rt-011",
-   "q": "The Natchez Trace Parkway runs from Natchez, Mississippi to near which city?",
-   "a": "Nashville, Tennessee",
-   "w": [
-    "Memphis, Tennessee",
-    "Birmingham, Alabama",
-    "Louisville, Kentucky"
-   ],
-   "f": "The parkway is 444 miles long, with mileposts running from 0 at Natchez to 444 near Nashville.",
-   "s": "National Park Service: Natchez Trace Parkway",
-   "u": "https://www.nps.gov/natr/index.htm"
-  },
-  {
-   "id": "rt-012",
-   "q": "Trail Ridge Road links Estes Park with which Colorado town?",
-   "a": "Grand Lake",
-   "w": [
-    "Boulder",
-    "Breckenridge",
-    "Steamboat Springs"
-   ],
-   "f": "The 48-mile drive crosses Rocky Mountain National Park and tops out at 12,183 feet.",
-   "s": "National Park Service: Trail Ridge Road",
-   "u": "https://www.nps.gov/romo/planyourvisit/trail_ridge_road.htm"
-  },
-  {
-   "id": "rt-013",
-   "q": "Route 66 originally ran between which two cities?",
-   "a": "Chicago and Santa Monica",
-   "w": [
-    "New York and San Francisco",
-    "St. Louis and Los Angeles",
-    "Chicago and Seattle"
-   ],
-   "f": "Route 66 got its number in 1926. Back then, almost none of it was paved.",
-   "s": "National Park Service: Route 66 Overview",
-   "u": "https://www.nps.gov/articles/route-66-overview.htm"
-  },
-  {
-   "id": "rt-014",
-   "q": "Which was the most visited site in the entire National Park System in 2025?",
-   "a": "Blue Ridge Parkway",
-   "w": [
-    "Great Smoky Mountains",
-    "Golden Gate National Recreation Area",
-    "Grand Canyon"
-   ],
-   "f": "The Parkway recorded more than 16.5 million recreation visits, just ahead of Golden Gate.",
-   "s": "National Park Service: 2025 Visitation Statistics",
-   "u": "https://home.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm"
-  },
-  {
-   "id": "rt-015",
-   "q": "Why was the Alaska Highway built in 1942?",
-   "a": "As a military route in World War II",
-   "w": [
-    "The Klondike Gold Rush",
-    "Oil pipeline access",
-    "Tourism"
-   ],
-   "f": "Army engineers built the road from Dawson Creek, British Columbia, to Delta Junction, Alaska, in about eight months.",
-   "s": "Federal Highway Administration: Alaska Highway Fact Sheet",
-   "u": "https://www.fhwa.dot.gov/candc/factsheets/alaskahighway.pdf"
-  },
-  {
-   "id": "rt-016",
-   "q": "The Icefields Parkway links Lake Louise with which town?",
-   "a": "Jasper",
-   "w": [
-    "Banff",
-    "Canmore",
-    "Golden"
-   ],
-   "f": "The parkway (Highway 93 North) runs 232 km (144 miles), and there's only one gas station along the whole drive.",
-   "s": "Parks Canada: Travelling the Icefields Parkway",
-   "u": "https://parks.canada.ca/pn-np/ab/banff/visit/promenadedesglaciers-icefieldsparkway"
-  },
-  {
-   "id": "rt-017",
-   "q": "The Beartooth Highway (US-212) runs from Red Lodge, Montana to which Yellowstone entrance?",
-   "a": "Northeast Entrance",
-   "w": [
-    "North Entrance",
-    "East Entrance",
-    "West Entrance"
-   ],
-   "f": "The road is about 68 miles long and was built between 1932 and 1936. It's usually open from Memorial Day weekend to mid-October.",
-   "s": "U.S. Forest Service: Beartooth Highway",
-   "u": "https://www.fs.usda.gov/r01/custergallatin/recreation/us-hwy-212-corridor-beartooth-highway"
-  },
-  {
-   "id": "rt-018",
-   "q": "In the 1964 Alaska earthquake, what happened to 20 miles of the Seward Highway?",
-   "a": "It sank 5 to 9 feet",
-   "w": [
-    "It split in half lengthwise",
-    "It was buried by a glacier",
-    "It rose 20 feet"
-   ],
-   "f": "The sunken road ended up below the high-water mark of Turnagain Arm.",
-   "s": "Alaska DOT&PF: Seward Highway",
-   "u": "https://dot.alaska.gov/dmio/scenic/byways-seward.shtml"
-  },
-  {
-   "id": "rt-019",
-   "q": "In what year was Glacier's Going-to-the-Sun Road dedicated at Logan Pass?",
-   "a": "1933",
-   "w": [
-    "1916",
-    "1951",
-    "1972"
-   ],
-   "f": "The first car crossed the whole road in late 1932, and the dedication ceremony was held on July 15, 1933.",
-   "s": "National Park Service: Going-to-the-Sun Road 75th Anniversary",
-   "u": "https://www.nps.gov/glac/learn/news/going-to-the-sun-road-75th-anniversary.htm"
-  },
-  {
-   "id": "rt-020",
-   "q": "Iron Mountain Road is famous for 'pigtail bridges.' What do they do?",
-   "a": "Loop the road a full 360 degrees",
-   "w": [
-    "Swing open for boats",
-    "Cross the same creek twice",
-    "Carry cars and trains together"
-   ],
-   "f": "The road has three of these corkscrew bridges, which climb steep slopes in a tight spiral.",
-   "s": "U.S. Forest Service: Black Hills FAQs",
-   "u": "https://www.fs.usda.gov/r02/blackhills/about-area/faqs"
-  },
-  {
-   "id": "rt-021",
-   "q": "The Blue Ridge Parkway connects which two national parks?",
-   "a": "Shenandoah and Great Smoky Mountains",
-   "w": [
-    "Acadia and Shenandoah",
-    "Mammoth Cave and Great Smoky Mountains",
-    "Congaree and Shenandoah"
-   ],
-   "f": "The Parkway is 469 miles long. Its mileposts start at 0 near Shenandoah and end at 469 in the Smokies.",
-   "s": "National Park Service: Blue Ridge Parkway Auto Touring",
-   "u": "https://www.nps.gov/blri/planyourvisit/auto-touring.htm"
-  },
-  {
-   "id": "rt-022",
-   "q": "Which Oregon road, built from 1913 to 1922, is often called America's first scenic highway?",
-   "a": "Historic Columbia River Highway",
-   "w": [
-    "Pacific Coast Highway",
-    "McKenzie Pass Highway",
-    "Crater Lake Highway"
-   ],
-   "f": "Sam Hill and Samuel Lancaster built it to show off the Columbia River Gorge's waterfalls and cliffs.",
-   "s": "U.S. Forest Service: Historic Columbia River Highway",
-   "u": "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/historic-columbia-river-highway"
-  },
-  {
-   "id": "rt-023",
-   "q": "Yosemite's Tioga Road tops out at Tioga Pass at about what elevation?",
-   "a": "9,945 feet",
-   "w": [
-    "6,781 feet",
-    "8,400 feet",
-    "11,200 feet"
-   ],
-   "f": "It's the highest highway crossing of the Sierra Nevada in California, and snow usually closes it from about November to late May or June.",
-   "s": "National Park Service: Tioga Pass Entrance",
-   "u": "https://www.nps.gov/places/000/tioga-pass-entrance.htm"
-  },
-  {
-   "id": "rt-024",
-   "q": "Colorado's 'Million Dollar Highway' (US 550) runs between Ouray and which town?",
-   "a": "Silverton",
-   "w": [
-    "Telluride",
-    "Durango",
-    "Aspen"
-   ],
-   "f": "It's part of the San Juan Skyway, a loop of about 236 miles that's designated an All-American Road.",
-   "s": "Colorado Department of Transportation: San Juan Skyway",
-   "u": "https://www.codot.gov/travel/coloradobyways/southwest/san-juan-skyway"
-  },
-  {
-   "id": "rt-025",
-   "q": "Alaska's Dalton Highway ends at which oilfield camp near the Arctic Ocean?",
-   "a": "Deadhorse",
-   "w": [
-    "Nome",
-    "Barrow",
-    "Coldfoot"
-   ],
-   "f": "The road runs 414 miles, mostly on gravel, and crosses the Arctic Circle at milepost 115.",
-   "s": "Bureau of Land Management: Dalton Highway",
-   "u": "https://www.blm.gov/learn/interpretive-centers/arctic-interagency-visitor-center/dalton-highway-recreation"
-  },
-  {
-   "id": "rt-026",
-   "q": "Yellowstone's Grand Loop Road is shaped like what?",
-   "a": "A figure eight",
-   "w": [
-    "A circle",
-    "A horseshoe",
-    "A triangle"
-   ],
-   "f": "The Grand Loop is 142 miles long, with a 70-mile upper loop and a 96-mile lower loop.",
-   "s": "National Park Service: Yellowstone & Grand Teton Map",
-   "u": "https://www.nps.gov/yell/planyourvisit/upload/YELL-GRTE-Tear-Off-Map-2023-web.pdf"
-  },
-  {
-   "id": "rt-027",
-   "q": "What kind of traffic is NOT allowed on the Blue Ridge Parkway?",
-   "a": "Commercial traffic",
-   "w": [
-    "Motorcycles",
-    "Bicycles",
-    "Tour buses"
-   ],
-   "f": "The speed limit is 45 mph unless posted otherwise. There are no gas stations on the Parkway itself.",
-   "s": "National Park Service: Getting Around the Blue Ridge Parkway",
-   "u": "https://www.nps.gov/blri/planyourvisit/gettingaround.htm"
-  },
-  {
-   "id": "rt-028",
-   "q": "The Corn Palace, decorated with murals made from corn, is in which town?",
-   "a": "Mitchell, South Dakota",
-   "w": [
-    "Des Moines, Iowa",
-    "Omaha, Nebraska",
-    "Salina, Kansas"
-   ],
-   "f": "The murals change every year, unless drought or a poor harvest gets in the way.",
-   "s": "Corn Palace (City of Mitchell)",
-   "u": "https://cornpalace.com/FAQ.aspx?QID=65"
-  },
-  {
-   "id": "rt-029",
-   "q": "The Hāna Highway leads to the Kīpahulu District of which national park?",
-   "a": "Haleakalā",
-   "w": [
-    "Hawaiʻi Volcanoes",
-    "Kalaupapa",
-    "Puʻuhonua o Hōnaunau"
-   ],
-   "f": "Kīpahulu is 12 miles past the town of Hāna, and there's no gas in the park, so fill up in Pāʻia.",
-   "s": "National Park Service: Kīpahulu District",
-   "u": "https://www.nps.gov/hale/planyourvisit/kipahulu.htm"
-  },
-  {
-   "id": "rt-030",
-   "q": "The Dalton Highway crosses the Brooks Range and the Continental Divide at which pass?",
-   "a": "Atigun Pass",
-   "w": [
-    "Thompson Pass",
-    "Isabel Pass",
-    "Chilkoot Pass"
-   ],
-   "f": "North of the pass, rivers flow to the Arctic Ocean. To the south, they flow toward the Pacific and the Bering Sea.",
-   "s": "Bureau of Land Management: Atigun Pass",
-   "u": "https://www.blm.gov/visit/atigun-pass"
-  },
-  {
-   "id": "rt-031",
-   "q": "Route 66 celebrates which birthday in 2026?",
-   "a": "Its 100th",
-   "w": [
-    "Its 50th",
-    "Its 75th",
-    "Its 125th"
-   ],
-   "f": "The Mother Road got its number in 1926, so its centennial falls in the same year as America's 250th birthday.",
-   "s": "National Park Service: Route 66 Corridor Preservation Program",
-   "u": "https://www.nps.gov/orgs/1453/rosi.htm"
-  },
-  {
-   "id": "rt-032",
-   "q": "The Seward Highway runs from Anchorage along which inlet famous for beluga whales?",
-   "a": "Turnagain Arm",
-   "w": [
-    "Resurrection Bay",
-    "Cook Inlet's Knik Arm",
-    "Prince William Sound"
-   ],
-   "f": "The highway is an All-American Road, the top designation for a U.S. scenic byway.",
-   "s": "Alaska DOT&PF: Seward Highway",
-   "u": "https://dot.alaska.gov/dmio/scenic/byways-seward.shtml"
+   "u": "https://www.ngs.noaa.gov/INFO/fourcorners.shtml",
+   "d": "easy"
   },
   {
    "id": "rt-033",
@@ -428,736 +26,8 @@
    ],
    "f": "About 400 miles of the Mother Road cross Oklahoma, from Quapaw to Texola.",
    "s": "Oklahoma Department of Transportation",
-   "u": "https://oklahoma.gov/odot/about-us/newsroom/2021/march/finding-your-kicks-on-route-66--new-signs-will-point-the-way-to-.html"
-  },
-  {
-   "id": "rt-034",
-   "q": "The Cabot Trail, a famous coastal loop, is in which Canadian province?",
-   "a": "Nova Scotia",
-   "w": [
-    "Newfoundland",
-    "New Brunswick",
-    "Prince Edward Island"
-   ],
-   "f": "The loop is nearly 300 km around northern Cape Breton Island, and about a third of it runs through Cape Breton Highlands National Park.",
-   "s": "Parks Canada: Cape Breton Highlands Directions",
-   "u": "https://parks.canada.ca/pn-np/ns/cbreton/visit/directions"
-  },
-  {
-   "id": "rt-035",
-   "q": "Road Trip Locals' Grand Trifecta itinerary suggests flying into which city?",
-   "a": "Bozeman, Montana",
-   "w": [
-    "Denver, Colorado",
-    "Salt Lake City, Utah",
-    "Spokane, Washington"
-   ],
-   "f": "From Bozeman it's about 5 hours to Grand Teton, and about 6.5 hours from Yellowstone to Glacier.",
-   "s": "Road Trip Locals: The Grand Trifecta",
-   "u": "https://www.roadtriplocals.com/blog/grand-teton-yellowstone-glacier-road-trip"
-  },
-  {
-   "id": "rt-036",
-   "q": "Which road is the highest paved road in North America?",
-   "a": "Mount Blue Sky Scenic Byway",
-   "w": [
-    "Trail Ridge Road",
-    "Pikes Peak Highway",
-    "Beartooth Highway"
-   ],
-   "f": "The road climbs to about 14,130 feet. The mountain was called Mount Evans until 2023.",
-   "s": "Colorado Department of Transportation",
-   "u": "https://www.codot.gov/travel/coloradobyways/north-central/mount-evans"
-  },
-  {
-   "id": "rt-037",
-   "q": "The Great River Road follows which river through 10 states?",
-   "a": "Mississippi",
-   "w": [
-    "Missouri",
-    "Ohio",
-    "Columbia"
-   ],
-   "f": "The byway runs from northern Minnesota to the Gulf of Mexico.",
-   "s": "Federal Highway Administration: America's Byways",
-   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/byway/2279"
-  },
-  {
-   "id": "rt-038",
-   "q": "Which bridge carries US 93 over the Colorado River next to Hoover Dam?",
-   "a": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
-   "w": [
-    "Navajo Bridge",
-    "Glen Canyon Bridge",
-    "Bixby Creek Bridge"
-   ],
-   "f": "The bridge opened in 2010 and stands nearly 900 feet above the river.",
-   "s": "Federal Highway Administration: Public Roads",
-   "u": "https://fhwa.dot.gov/publications/publicroads/11marapr/01.cfm"
-  },
-  {
-   "id": "rt-039",
-   "q": "Who planned South Dakota's Needles Highway, walking and riding horseback over the route himself?",
-   "a": "Governor Peter Norbeck",
-   "w": [
-    "Gutzon Borglum",
-    "Theodore Roosevelt",
-    "Doane Robinson"
-   ],
-   "f": "The highway was finished in 1922 and squeezes through the narrow Needles Eye Tunnel.",
-   "s": "South Dakota Game, Fish & Parks: Custer State Park Scenic Drives",
-   "u": "https://gfp.sd.gov/csp-scenic-drives/"
-  },
-  {
-   "id": "rt-040",
-   "q": "'America the Beautiful' was inspired by the view from which mountain?",
-   "a": "Pikes Peak",
-   "w": [
-    "Mount Rainier",
-    "Longs Peak",
-    "Mount Washington"
-   ],
-   "f": "Katharine Lee Bates rode a wagon to the summit in 1893 and wrote the first draft back at her hotel.",
-   "s": "National Park Service: Places of Katharine Lee Bates",
-   "u": "https://www.nps.gov/articles/000/places-of-katharine-lee-bates-and-america-the-beautiful.htm"
-  },
-  {
-   "id": "rt-041",
-   "q": "Which highway, announced in 1913, ran from Times Square in New York to Lincoln Park in San Francisco?",
-   "a": "Lincoln Highway",
-   "w": [
-    "Route 66",
-    "Dixie Highway",
-    "National Road"
-   ],
-   "f": "The first route was 3,389 miles long, and less than half of it was improved road.",
-   "s": "Federal Highway Administration: The Lincoln Highway",
-   "u": "https://highways.dot.gov/highway-history/general-highway-history/lincoln-highway"
-  },
-  {
-   "id": "rt-042",
-   "q": "New Hampshire's Kancamagus Highway (Route 112) runs between Lincoln and which town?",
-   "a": "Conway",
-   "w": [
-    "North Conway",
-    "Littleton",
-    "Bretton Woods"
-   ],
-   "f": "The highway runs through the White Mountain National Forest, with campgrounds and historic sites along the way.",
-   "s": "U.S. Forest Service: Russell-Colbath Historic Site",
-   "u": "https://www.fs.usda.gov/r09/whitemountain/recreation/russell-colbath-historic-site"
-  },
-  {
-   "id": "rt-043",
-   "q": "In 1919, a young Dwight Eisenhower joined the Army's first cross-country motor convoy on which road?",
-   "a": "Lincoln Highway",
-   "w": [
-    "Route 66",
-    "The Oregon Trail",
-    "US 1"
-   ],
-   "f": "The convoy drove from Washington, DC, to San Francisco. Later, Eisenhower said the trip shaped his support for better highways.",
-   "s": "Federal Highway Administration: The Lincoln Highway",
-   "u": "https://highways.dot.gov/highway-history/general-highway-history/lincoln-highway"
-  },
-  {
-   "id": "rt-044",
-   "q": "In what year was Route 66 decommissioned as a federal highway?",
-   "a": "1985",
-   "w": [
-    "1956",
-    "1970",
-    "1999"
-   ],
-   "f": "Five different Interstates replaced it.",
-   "s": "National Park Service: Route 66 Overview",
-   "u": "https://www.nps.gov/articles/route-66-overview.htm"
-  },
-  {
-   "id": "rt-045",
-   "q": "Burma-Shave's famous rhyming roadside signs advertised what?",
-   "a": "Shaving cream",
-   "w": [
-    "Motor oil",
-    "Root beer",
-    "Sunglasses"
-   ],
-   "f": "The signs ran from 1926 to 1963. At their peak, there were 7,000 sets in 45 states.",
-   "s": "Smithsonian National Museum of American History",
-   "u": "https://americanhistory.si.edu/collections/object/nmah_1313589"
-  },
-  {
-   "id": "rt-046",
-   "q": "Road Trip Locals' 'Grand Slam' road trip loops through which mountains?",
-   "a": "The Canadian Rockies",
-   "w": [
-    "The Sierra Nevada",
-    "The Appalachians",
-    "The Cascades"
-   ],
-   "f": "The 10-day loop starts and ends in Calgary, with stops in Banff, Lake Louise, the Icefields Parkway and Jasper.",
-   "s": "Road Trip Locals: The Grand Slam",
-   "u": "https://www.roadtriplocals.com/blog/canadian-rockies-road-trip"
-  },
-  {
-   "id": "rt-047",
-   "q": "Since 2023, how do you get to Moraine Lake near Lake Louise?",
-   "a": "By shuttle, transit or tour, not your own car",
-   "w": [
-    "Only on foot",
-    "Only by boat",
-    "With a timed-entry car permit"
-   ],
-   "f": "Parks Canada closed the road to personal vehicles because of congestion and safety concerns. Book shuttles ahead.",
-   "s": "Parks Canada: Visiting Lake Louise and Moraine Lake",
-   "u": "https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise"
-  },
-  {
-   "id": "rt-048",
-   "q": "Which highway did Life magazine call 'The Loneliest Road in America' in 1986?",
-   "a": "US 50 in Nevada",
-   "w": [
-    "US 93 in Idaho",
-    "I-80 in Wyoming",
-    "US 191 in Utah"
-   ],
-   "f": "Nevada embraced the name and created a 'survival guide' that travelers can get stamped along the route.",
-   "s": "Travel Nevada (State of Nevada)",
-   "u": "https://travelnevada.com/road-trips/loneliest-road-in-america/"
-  },
-  {
-   "id": "rt-049",
-   "q": "What was the last section of the Blue Ridge Parkway to be finished?",
-   "a": "The Linn Cove Viaduct",
-   "w": [
-    "The Natural Bridge Tunnel",
-    "The Mabry Mill Bridge",
-    "The Peaks of Otter Overlook"
-   ],
-   "f": "The viaduct wraps around Grandfather Mountain in North Carolina. It was built from the top down so no construction road had to be cut into the mountainside.",
-   "s": "National Park Service: History of the Linn Cove Viaduct",
-   "u": "https://www.nps.gov/blri/learn/historyculture/linn-cove-viaduct.htm"
-  },
-  {
-   "id": "rt-050",
-   "q": "The Florida Keys' Seven Mile Bridge carries which highway?",
-   "a": "US 1",
-   "w": [
-    "I-95",
-    "US 41",
-    "Florida A1A"
-   ],
-   "f": "Mile Marker 0 in Key West marks the southern end of US 1, which starts in Fort Kent, Maine.",
-   "s": "Federal Highway Administration: U.S. 1, Fort Kent to Key West",
-   "u": "https://highways.dot.gov/highway-history/general-highway-history/us-1-fort-kent-maine-key-west-florida"
-  },
-  {
-   "id": "rt-051",
-   "q": "Who called Route 66 'The Mother Road'?",
-   "a": "John Steinbeck",
-   "w": [
-    "Jack Kerouac",
-    "Mark Twain",
-    "Woody Guthrie"
-   ],
-   "f": "The nickname comes from his 1939 novel 'The Grapes of Wrath.'",
-   "s": "National Park Service: Route 66 Overview",
-   "u": "https://www.nps.gov/articles/route-66-overview.htm"
-  },
-  {
-   "id": "rt-052",
-   "q": "Who made the first cross-country trip by car, in 1903?",
-   "a": "Horatio Nelson Jackson",
-   "w": [
-    "Henry Ford",
-    "Carl Fisher",
-    "Louis Chevrolet"
-   ],
-   "f": "Jackson and mechanic Sewall Crocker drove from California to New York in 63 days. Their bulldog, Bud, wore goggles, which the Smithsonian now keeps.",
-   "s": "Smithsonian: America on the Move",
-   "u": "https://americanhistory.si.edu/explore/exhibitions/america-on-the-move/online/crossing-country"
-  },
-  {
-   "id": "rt-053",
-   "q": "In what year was Big Sur's famous Bixby Creek Bridge built?",
-   "a": "1932",
-   "w": [
-    "1909",
-    "1955",
-    "1971"
-   ],
-   "f": "Its 330-foot main span is the largest concrete arch span in California.",
-   "s": "Caltrans: Concrete Arch Bridges of California",
-   "u": "https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/env/concrete-arch-bridges-2004-a11y.pdf"
-  },
-  {
-   "id": "rt-054",
-   "q": "Construction of the Icefields Parkway started in 1931 as what kind of project?",
-   "a": "A Depression-era jobs project",
-   "w": [
-    "A wartime supply route",
-    "A railway conversion",
-    "A logging road"
-   ],
-   "f": "Canada hired 600 unemployed men, who built the road mostly by hand with horses. Each work crew was allowed only one tractor.",
-   "s": "Parks Canada: A Brief History of the Icefields Parkway",
-   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/promenadedesglaciers-icefieldsparkway/pghistoire-iphistory"
-  },
-  {
-   "id": "rt-055",
-   "q": "Why are the drivers of Glacier's historic red buses called 'jammers'?",
-   "a": "For the sound of jamming gears on steep grades",
-   "w": [
-    "They play music on tours",
-    "They pack in as many riders as possible",
-    "They clear traffic jams"
-   ],
-   "f": "The red buses have carried visitors over Going-to-the-Sun Road since the 1930s.",
-   "s": "National Park Service: Glacier Former Artists-in-Residence",
-   "u": "https://www.nps.gov/glac/getinvolved/former-artists-in-residence.htm"
-  },
-  {
-   "id": "rt-056",
-   "q": "Which South Dakota road's one-lane tunnels frame views of Mount Rushmore?",
-   "a": "Iron Mountain Road",
-   "w": [
-    "Needles Highway",
-    "Spearfish Canyon Byway",
-    "Wildlife Loop Road"
-   ],
-   "f": "The road's north entrance starts inside the Mount Rushmore National Memorial boundary.",
-   "s": "National Park Service: Iron Mountain Road",
-   "u": "https://www.nps.gov/places/iron-mountain-road-north-entrance.htm"
-  },
-  {
-   "id": "rt-057",
-   "q": "The Chain of Rocks Bridge, a Route 66 landmark over the Mississippi, is famous for what?",
-   "a": "A 30-degree bend in the middle",
-   "w": [
-    "Being made of glass",
-    "Being the first toll-free bridge",
-    "A drawbridge that lifts for barges"
-   ],
-   "f": "Weak bedrock under the straight route forced the bend. Today the bridge is open to walkers and cyclists.",
-   "s": "National Park Service: Chain of Rocks Bridge",
-   "u": "https://www.nps.gov/places/chain-of-rocks-bridge.htm"
-  },
-  {
-   "id": "rt-058",
-   "q": "How many people a day can win a permit to hike to The Wave near Kanab?",
-   "a": "64",
-   "w": [
-    "8",
-    "250",
-    "Unlimited"
-   ],
-   "f": "48 spots go through an advance lottery and 16 through a daily lottery, in groups of up to 6 people.",
-   "s": "Bureau of Land Management: The Wave",
-   "u": "https://www.blm.gov/programs/recreation/permits-and-passes/lotteries-and-permit-systems/arizona/coyote-buttes"
-  },
-  {
-   "id": "rt-059",
-   "q": "Coral Pink Sand Dunes, near Kanab, get their color from which eroding rock?",
-   "a": "Navajo Sandstone",
-   "w": [
-    "Granite",
-    "Limestone",
-    "Basalt"
-   ],
-   "f": "Wind speeds up through a notch between two mountains, picks up the sand, then drops it in the valley. The dunes can move up to 50 feet a year.",
-   "s": "Utah State Parks: Coral Pink Sand Dunes",
-   "u": "https://stateparks.utah.gov/parks/coral-pink/discover/"
-  },
-  {
-   "id": "rt-060",
-   "q": "The Natchez Trace Parkway's Double Arch Bridge, near Nashville, won what in 1995?",
-   "a": "A Presidential Award for Design Excellence",
-   "w": [
-    "The title of world's longest bridge",
-    "An Olympic architecture medal",
-    "A Pulitzer Prize"
-   ],
-   "f": "It spans Birdsong Hollow at milepost 438 and opened in 1994.",
-   "s": "National Park Service: Double Arch Bridge",
-   "u": "https://www.nps.gov/natr/learn/double-arch-bridge-at-birdsong-hollow.htm"
-  },
-  {
-   "id": "rt-061",
-   "q": "What closed the Denali Park Road at its midpoint in 2021?",
-   "a": "The Pretty Rocks landslide",
-   "w": [
-    "A wildfire",
-    "A glacier surge",
-    "A bridge collapse from a flood"
-   ],
-   "f": "A new bridge over the slide was finished in 2026, and buses are expected to reach the west end again in 2027.",
-   "s": "National Park Service: Denali Expands Visitor Access",
-   "u": "https://www.nps.gov/dena/learn/news/national-park-service-expands-visitor-access-at-denali-national-park-and-preserve.htm"
-  },
-  {
-   "id": "rt-062",
-   "q": "Yoho's Spiral Tunnels let trains loop inside which two mountains?",
-   "a": "Mount Ogden and Cathedral Mountain",
-   "w": [
-    "Mount Robson and Mount Edith Cavell",
-    "Mount Rundle and Cascade Mountain",
-    "Mount Temple and Mount Victoria"
-   ],
-   "f": "The tunnels opened in 1909 to cut the grade of the dangerous 'Big Hill' in half. You can watch trains from a pullout on the Trans-Canada Highway.",
-   "s": "Parks Canada: Spiral Tunnels",
-   "u": "https://parks.canada.ca/pn-np/bc/yoho/culture/kickinghorse/visit/spirale-spiral"
-  },
-  {
-   "id": "rt-063",
-   "q": "Canada's national park system began in 1885 with a reserve around what?",
-   "a": "Hot springs in Banff",
-   "w": [
-    "Niagara Falls",
-    "Lake Louise",
-    "The Columbia Icefield"
-   ],
-   "f": "Railway workers stumbled on the Cave and Basin springs in 1883, which led to Canada's first national park.",
-   "s": "Parks Canada: Cave and Basin",
-   "u": "https://parks.canada.ca/lhn-nhs/ab/caveandbasin/culture/heritage-legacy"
-  },
-  {
-   "id": "rt-064",
-   "q": "Which southern Utah town is nicknamed 'Little Hollywood' for all the westerns filmed there?",
-   "a": "Kanab",
-   "w": [
-    "Moab",
-    "Springdale",
-    "Escalante"
-   ],
-   "f": "Movies and TV shows like The Outlaw Josey Wales and Gunsmoke were filmed around Kanab.",
-   "s": "Kane County Office of Tourism",
-   "u": "https://www.visitsouthernutah.com/little-hollywood/"
-  },
-  {
-   "id": "rt-065",
-   "q": "In 1914, Massachusetts named which road a scenic tourist route?",
-   "a": "The Mohawk Trail",
-   "w": [
-    "The Kancamagus Highway",
-    "The Old King's Highway",
-    "The Merritt Parkway"
-   ],
-   "f": "It follows Route 2 through the Berkshires from Charlemont to North Adams.",
-   "s": "National Park Service: Mohawk Trail",
-   "u": "https://www.nps.gov/places/mohawk-trail.htm"
-  },
-  {
-   "id": "rt-066",
-   "q": "What is the highest point on the Icefields Parkway?",
-   "a": "Bow Summit",
-   "w": [
-    "Sunwapta Pass",
-    "Kicking Horse Pass",
-    "Athabasca Pass"
-   ],
-   "f": "Bow Summit is at about 2,070 m, near the famous Peyto Lake viewpoint.",
-   "s": "Parks Canada: Trails on the Icefields Parkway",
-   "u": "https://parks.canada.ca/pn-np/ab/banff/activ/randonnee-hiking/93n"
-  },
-  {
-   "id": "rt-067",
-   "q": "Which old gristmill at milepost 176 is one of the most photographed spots on the Blue Ridge Parkway?",
-   "a": "Mabry Mill",
-   "w": [
-    "Mingus Mill",
-    "Grist Mill at Peaks of Otter",
-    "Cades Cove Mill"
-   ],
-   "f": "Its slowly turning waterwheel and millpond draw several hundred thousand visitors a year.",
-   "s": "National Park Service: Mabry Mill",
-   "u": "https://www.nps.gov/places/mabry-mill.htm"
-  },
-  {
-   "id": "rt-068",
-   "q": "Cars and trains take turns in which Alaska tunnel, the longest highway tunnel in North America?",
-   "a": "The Whittier Tunnel",
-   "w": [
-    "The Seward Tunnel",
-    "The Chugach Tunnel",
-    "The Kenai Tunnel"
-   ],
-   "f": "The 2.5-mile Anton Anderson Memorial Tunnel is Whittier's only road link, and it's Alaska's only toll road.",
-   "s": "Alaska DOT&PF: Whittier Tunnel",
-   "u": "https://dot.alaska.gov/creg/whittiertunnel/history.shtml"
-  },
-  {
-   "id": "rt-069",
-   "q": "In 1913, the first car drove Alaska's Richardson Highway from Fairbanks to Valdez. How long did it take?",
-   "a": "59 hours",
-   "w": [
-    "9 hours",
-    "3 weeks",
-    "2 months"
-   ],
-   "f": "Robert Sheldon made the drive in a Ford Model T. The route began as a trail in the 1890s gold rush era.",
-   "s": "Alaska DOT&PF: Richardson Highway",
-   "u": "https://dot.alaska.gov/highways/richardson/"
-  },
-  {
-   "id": "rt-070",
-   "q": "What is the highest point on the entire Trans-Canada Highway?",
-   "a": "Kicking Horse Pass",
-   "w": [
-    "Rogers Pass",
-    "Bow Summit",
-    "Crowsnest Pass"
-   ],
-   "f": "At 1,627 m, the pass sits right on the border between Banff and Yoho national parks.",
-   "s": "Parks Canada: Spiral Tunnels",
-   "u": "https://parks.canada.ca/pn-np/bc/yoho/culture/kickinghorse/visit/spirale-spiral"
-  },
-  {
-   "id": "rt-071",
-   "q": "How far into Denali National Park can you drive your own car on the Park Road?",
-   "a": "Mile 15, at Savage River",
-   "w": [
-    "Mile 92, the end of the road",
-    "Mile 3, the visitor center",
-    "You can't drive in at all"
-   ],
-   "f": "The road is 92 miles long. Beyond Savage River you ride a bus.",
-   "s": "National Park Service: Denali Basic Information",
-   "u": "https://www.nps.gov/dena/planyourvisit/basicinfo.htm"
-  },
-  {
-   "id": "rt-072",
-   "q": "Acadia's Park Loop Road is how long?",
-   "a": "27 miles",
-   "w": [
-    "7 miles",
-    "45 miles",
-    "105 miles"
-   ],
-   "f": "It starts at Hulls Cove and reaches Sand Beach, Jordan Pond and Cadillac Mountain. Allow 3 to 4 hours with stops.",
-   "s": "National Park Service: Park Loop Road",
-   "u": "https://www.nps.gov/acad/planyourvisit/park-loop-road.htm"
-  },
-  {
-   "id": "rt-073",
-   "q": "Before the Parks Highway, which mostly gravel road was the only way to drive to Denali?",
-   "a": "The Denali Highway",
-   "w": [
-    "The Dalton Highway",
-    "The Seward Highway",
-    "The Glenn Highway"
-   ],
-   "f": "It runs 135 miles from Paxson to Cantwell and opened in 1957.",
-   "s": "Bureau of Land Management: Denali Highway",
-   "u": "https://www.blm.gov/visit/denali-highway"
-  },
-  {
-   "id": "rt-074",
-   "q": "Utah's Moki Dugway, a steep gravel switchback road, was built in the 1950s to haul what?",
-   "a": "Uranium ore",
-   "w": [
-    "Cattle",
-    "Timber",
-    "Mail"
-   ],
-   "f": "It climbs the edge of Cedar Mesa near Valley of the Gods. It's not recommended for trailers or big RVs.",
-   "s": "Bureau of Land Management: Valley of the Gods",
-   "u": "https://www.blm.gov/sites/blm.gov/files/documents/files/Utah_BENM_Valley-Of_Gods_Brochure.pdf"
-  },
-  {
-   "id": "rt-075",
-   "q": "Red Mountain Pass, on Colorado's Million Dollar Highway, sits at about what elevation?",
-   "a": "11,018 feet",
-   "w": [
-    "7,500 feet",
-    "9,200 feet",
-    "13,500 feet"
-   ],
-   "f": "It's on US 550 between Silverton and Ouray. Mudslides and snow can close it.",
-   "s": "Colorado Department of Transportation",
-   "u": "https://www.codot.gov/news/2012-news-releases/12-2012/cdot-ready-to-keep-mountain-passes-open"
-  },
-  {
-   "id": "rt-076",
-   "q": "Alaska's Sterling Highway ends at the 'End of the Road' on which spit?",
-   "a": "Homer Spit",
-   "w": [
-    "Seward Spit",
-    "Kenai Spit",
-    "Valdez Spit"
-   ],
-   "f": "Alaska calls the Homer Spit the second-longest natural spit in the world.",
-   "s": "Alaska DOT&PF: Sterling Highway",
-   "u": "https://dot.alaska.gov/dmio/scenic/byways-sterling-south.shtml"
-  },
-  {
-   "id": "rt-077",
-   "q": "Big Sur's McWay Falls drops 80 feet onto what?",
-   "a": "A beach",
-   "w": [
-    "A highway",
-    "A lake",
-    "A glacier"
-   ],
-   "f": "You can see it from an overlook, but the beach and falls are completely off limits.",
-   "s": "California State Parks: Julia Pfeiffer Burns",
-   "u": "https://www.parks.ca.gov/?page_id=578"
-  },
-  {
-   "id": "rt-078",
-   "q": "Vermont's Smugglers' Notch road (Route 108) does what every winter?",
-   "a": "Closes",
-   "w": [
-    "Becomes a toll road",
-    "Turns into a ski run",
-    "Switches to one-way"
-   ],
-   "f": "Tractor-trailers are banned year-round because they kept getting stuck between the boulders.",
-   "s": "Vermont State Parks: Smugglers' Notch",
-   "u": "https://www.vtstateparks.com/parks/smugglers-notch"
-  },
-  {
-   "id": "rt-079",
-   "q": "About how many miles of Route 66 run through Kansas?",
-   "a": "About 13",
-   "w": [
-    "About 100",
-    "About 300",
-    "None"
-   ],
-   "f": "It's the shortest state stretch, running through Galena, Riverton and Baxter Springs.",
-   "s": "National Park Service: Route 66 in Kansas",
-   "u": "https://ncptt.nps.gov/rt66/history-and-significance-of-us-route-66/kansas/kansascontext/"
-  },
-  {
-   "id": "rt-080",
-   "q": "Which pioneering architect designed Hearst Castle, just off Highway 1?",
-   "a": "Julia Morgan",
-   "w": [
-    "Frank Lloyd Wright",
-    "Robert Reamer",
-    "Mary Colter"
-   ],
-   "f": "She was California's first woman licensed as an architect, and she worked on the castle for nearly 30 years.",
-   "s": "California State Parks: Hearst San Simeon",
-   "u": "https://www.parks.ca.gov/hearstsansimeon"
-  },
-  {
-   "id": "rt-081",
-   "q": "Water from Snow Dome on the Columbia Icefield flows into how many oceans?",
-   "a": "Three",
-   "w": [
-    "One",
-    "Two",
-    "Four"
-   ],
-   "f": "It's a 'hydrological apex' whose meltwater drains to the Pacific, Atlantic and Arctic. You can see the icefield from the Icefields Parkway.",
-   "s": "Parks Canada: Glaciers and Icefields",
-   "u": "https://parks.canada.ca/pn-np/ab/jasper/nature/environment/ecosys/glaciers"
-  },
-  {
-   "id": "rt-082",
-   "q": "The Burr Trail's famous switchbacks climb about 800 feet over the Waterpocket Fold in how far?",
-   "a": "About half a mile",
-   "w": [
-    "About 5 miles",
-    "About 20 miles",
-    "About 50 feet"
-   ],
-   "f": "Inside Capitol Reef the road is graded dirt, and wet clay can make it impassable.",
-   "s": "National Park Service: Capitol Reef Roads",
-   "u": "https://www.nps.gov/care/planyourvisit/roads.htm"
-  },
-  {
-   "id": "rt-083",
-   "q": "In 1934, the summit of New Hampshire's Mount Washington recorded a wind gust of how many mph?",
-   "a": "231 mph",
-   "w": [
-    "98 mph",
-    "150 mph",
-    "310 mph"
-   ],
-   "f": "It was the fastest wind ever measured by people at a surface weather station. You can drive or take the Cog Railway to the top.",
-   "s": "NOAA: Mount Washington Observatory",
-   "u": "https://vlab.noaa.gov/web/nws-heritage/-/the-mount-washington-observatory"
-  },
-  {
-   "id": "rt-084",
-   "q": "What's the maximum vehicle length allowed on part of Glacier's Going-to-the-Sun Road?",
-   "a": "21 feet",
-   "w": [
-    "30 feet",
-    "40 feet",
-    "No limit"
-   ],
-   "f": "Vehicles also can't be wider than 8 feet between Avalanche Creek and Rising Sun. Bigger rigs can take the shuttle.",
-   "s": "National Park Service: Going-to-the-Sun Road",
-   "u": "https://www.nps.gov/glac/planyourvisit/gtsrinfo.htm"
-  },
-  {
-   "id": "rt-085",
-   "q": "Cape Cod's Old King's Highway (Route 6A) runs through what?",
-   "a": "America's largest historic district",
-   "w": [
-    "A national park",
-    "A military base",
-    "A tunnel under the bay"
-   ],
-   "f": "The 34-mile byway passes salt marshes, cranberry bogs and old sea captains' homes.",
-   "s": "Federal Highway Administration: Old King's Highway",
-   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81505"
-  },
-  {
-   "id": "rt-086",
-   "q": "Athabasca Falls, near the Jasper end of the Icefields Parkway, pours over a ledge of which hard rock?",
-   "a": "Quartzite",
-   "w": [
-    "Granite",
-    "Basalt",
-    "Marble"
-   ],
-   "f": "The 23-meter falls have carved potholes and a short canyon in the softer limestone below.",
-   "s": "Parks Canada: Athabasca Falls",
-   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/athabasca"
-  },
-  {
-   "id": "rt-087",
-   "q": "What's the speed limit on most of Shenandoah's Skyline Drive?",
-   "a": "35 mph",
-   "w": [
-    "25 mph",
-    "45 mph",
-    "55 mph"
-   ],
-   "f": "The road's design and the many deer and bears are why it's kept slow.",
-   "s": "National Park Service: Driving Skyline Drive",
-   "u": "https://home.nps.gov/shen/planyourvisit/driving-skyline-drive.htm"
-  },
-  {
-   "id": "rt-088",
-   "q": "Colorado's Independence Pass crosses the Continental Divide at what elevation?",
-   "a": "12,095 feet",
-   "w": [
-    "8,500 feet",
-    "10,200 feet",
-    "14,110 feet"
-   ],
-   "f": "It's the highest paved state highway in Colorado, and it closes every winter between Aspen and Twin Lakes.",
-   "s": "Colorado Department of Transportation",
-   "u": "https://www.codot.gov/news/2026/november2026news/co82-independencepass-close-for-winter"
-  },
-  {
-   "id": "rt-089",
-   "d": "medium",
-   "q": "On Custer State Park's Wildlife Loop Road, the burros that greet drivers descend from animals that once did what?",
-   "a": "Carried visitors up Black Elk Peak",
-   "w": [
-    "Pulled gold-mining carts",
-    "Delivered mail",
-    "Worked on Mount Rushmore"
-   ],
-   "f": "The park also has one of the largest public bison herds in the world, close to 1,400 animals.",
-   "s": "South Dakota Game, Fish & Parks: Scenic Drives",
-   "u": "https://gfp.sd.gov/csp-scenic-drives/"
+   "u": "https://oklahoma.gov/odot/about-us/newsroom/2021/march/finding-your-kicks-on-route-66--new-signs-will-point-the-way-to-.html",
+   "d": "medium"
   },
   {
    "id": "rt-090",
@@ -1174,46 +44,74 @@
    "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/sunwapta"
   },
   {
-   "id": "rt-091",
-   "d": "medium",
-   "q": "How tall is Multnomah Falls, along Oregon's Historic Columbia River Highway?",
-   "a": "620 feet",
+   "id": "rt-013",
+   "q": "Route 66 originally ran between which two cities?",
+   "a": "Chicago and Santa Monica",
    "w": [
-    "120 feet",
-    "308 feet",
-    "1,200 feet"
+    "New York and San Francisco",
+    "St. Louis and Los Angeles",
+    "Chicago and Seattle"
    ],
-   "f": "More than 2 million people visit it each year.",
-   "s": "U.S. Forest Service: Multnomah Falls",
-   "u": "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/multnomah-falls"
+   "f": "Route 66 got its number in 1926. Back then, almost none of it was paved.",
+   "s": "National Park Service: Route 66 Overview",
+   "u": "https://www.nps.gov/articles/route-66-overview.htm",
+   "d": "medium"
   },
   {
-   "id": "rt-092",
-   "d": "medium",
-   "q": "About how tall is Pigeon Point Lighthouse, south of San Francisco on Highway 1?",
-   "a": "About 115 feet",
+   "id": "rt-084",
+   "q": "What's the maximum vehicle length allowed on part of Glacier's Going-to-the-Sun Road?",
+   "a": "21 feet",
    "w": [
-    "About 40 feet",
-    "About 250 feet",
-    "About 400 feet"
+    "30 feet",
+    "40 feet",
+    "No limit"
    ],
-   "f": "It was first lit in 1872 and is one of the tallest lighthouses on the West Coast.",
-   "s": "California State Parks: Pigeon Point Light Station",
-   "u": "https://www.parks.ca.gov/PigeonPoint"
+   "f": "Vehicles also can't be wider than 8 feet between Avalanche Creek and Rising Sun. Bigger rigs can take the shuttle.",
+   "s": "National Park Service: Going-to-the-Sun Road",
+   "u": "https://www.nps.gov/glac/planyourvisit/gtsrinfo.htm",
+   "d": "hard"
   },
   {
-   "id": "rt-093",
-   "d": "medium",
-   "q": "Badlands Loop Road (SD 240) ends at the highest overlook in the park's North Unit. What is it called?",
-   "a": "Pinnacles Overlook",
+   "id": "rt-031",
+   "q": "Route 66 celebrates which birthday in 2026?",
+   "a": "Its 100th",
    "w": [
-    "Inspiration Point",
-    "Glacier Point",
-    "Artist Point"
+    "Its 50th",
+    "Its 75th",
+    "Its 125th"
    ],
-   "f": "The 30-mile paved loop has about a dozen overlooks between two I-90 exits.",
-   "s": "National Park Service: Badlands Loop Road",
-   "u": "https://www.nps.gov/thingstodo/badl-loop-road.htm"
+   "f": "The Mother Road got its number in 1926, so its centennial falls in the same year as America's 250th birthday.",
+   "s": "National Park Service: Route 66 Corridor Preservation Program",
+   "u": "https://www.nps.gov/orgs/1453/rosi.htm",
+   "d": "easy"
+  },
+  {
+   "id": "rt-003",
+   "q": "Utah's Scenic Byway 12 links Bryce Canyon with which other national park?",
+   "a": "Capitol Reef",
+   "w": [
+    "Zion",
+    "Arches",
+    "Canyonlands"
+   ],
+   "f": "Watch for the Hogback, a narrow ridge with steep drop-offs on both sides of the road.",
+   "s": "Visit Utah (Utah Office of Tourism)",
+   "u": "https://www.visitutah.com/articles/the-all-american-road-scenic-byway-12",
+   "d": "medium"
+  },
+  {
+   "id": "rt-081",
+   "q": "Water from Snow Dome on the Columbia Icefield flows into how many oceans?",
+   "a": "Three",
+   "w": [
+    "One",
+    "Two",
+    "Four"
+   ],
+   "f": "It's a 'hydrological apex' whose meltwater drains to the Pacific, Atlantic and Arctic. You can see the icefield from the Icefields Parkway.",
+   "s": "Parks Canada: Glaciers and Icefields",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/nature/environment/ecosys/glaciers",
+   "d": "hard"
   },
   {
    "id": "rt-094",
@@ -1230,46 +128,18 @@
    "u": "https://www.nps.gov/places/blue-swallow-motel.htm"
   },
   {
-   "id": "rt-095",
-   "d": "medium",
-   "q": "Utah's Highway 128 follows which river out of Moab?",
-   "a": "Colorado River",
+   "id": "rt-075",
+   "q": "Red Mountain Pass, on Colorado's Million Dollar Highway, sits at about what elevation?",
+   "a": "11,018 feet",
    "w": [
-    "Green River",
-    "San Juan River",
-    "Virgin River"
+    "7,500 feet",
+    "9,200 feet",
+    "13,500 feet"
    ],
-   "f": "About 21 miles in, a side road leads to the Fisher Towers hiking trail.",
-   "s": "Visit Utah: Upper Colorado Scenic Byway",
-   "u": "https://www.visitutah.com/things-to-do/road-cycling/highway-128-upper-colorado-scenic-byway"
-  },
-  {
-   "id": "rt-096",
-   "d": "medium",
-   "q": "Valley of Fire, near Las Vegas, is famous as Nevada's first what?",
-   "a": "State park",
-   "w": [
-    "National park",
-    "Ski resort",
-    "Toll road"
-   ],
-   "f": "It became a state park in 1935. Its red Aztec sandstone seems to glow at sunset.",
-   "s": "Nevada State Parks: Valley of Fire History",
-   "u": "https://parks.nv.gov/learn/park-histories/valley-of-fire-history"
-  },
-  {
-   "id": "rt-097",
-   "d": "hard",
-   "q": "Mount Locust, at milepost 15.5 on the Natchez Trace, was once what?",
-   "a": "An inn for travelers",
-   "w": [
-    "A fort",
-    "A gold mine",
-    "A lighthouse"
-   ],
-   "f": "Built around 1785, it's one of the oldest buildings in Mississippi.",
-   "s": "National Park Service: Mount Locust",
-   "u": "https://www.nps.gov/places/mount-locust-historic-house.htm"
+   "f": "It's on US 550 between Silverton and Ouray. Mudslides and snow can close it.",
+   "s": "Colorado Department of Transportation",
+   "u": "https://www.codot.gov/news/2012-news-releases/12-2012/cdot-ready-to-keep-mountain-passes-open",
+   "d": "hard"
   },
   {
    "id": "rt-098",
@@ -1286,6 +156,132 @@
    "u": "https://dot.alaska.gov/amhs/fleet/matanuska.shtml"
   },
   {
+   "id": "rt-102",
+   "d": "easy",
+   "q": "At the Wigwam Motel in Holbrook, Arizona, guests sleep in rooms shaped like what?",
+   "a": "Teepees",
+   "w": [
+    "Covered wagons",
+    "Igloos",
+    "Train cars"
+   ],
+   "f": "It opened in 1950 on Route 66 and is one of the last Wigwam Villages still standing.",
+   "s": "National Park Service: Wigwam Village #6",
+   "u": "https://www.nps.gov/places/wigwam-village-motel-6.htm"
+  },
+  {
+   "id": "rt-077",
+   "q": "Big Sur's McWay Falls drops 80 feet onto what?",
+   "a": "A beach",
+   "w": [
+    "A highway",
+    "A lake",
+    "A glacier"
+   ],
+   "f": "You can see it from an overlook, but the beach and falls are completely off limits.",
+   "s": "California State Parks: Julia Pfeiffer Burns",
+   "u": "https://www.parks.ca.gov/?page_id=578",
+   "d": "hard"
+  },
+  {
+   "id": "rt-096",
+   "d": "medium",
+   "q": "Valley of Fire, near Las Vegas, is famous as Nevada's first what?",
+   "a": "State park",
+   "w": [
+    "National park",
+    "Ski resort",
+    "Toll road"
+   ],
+   "f": "It became a state park in 1935. Its red Aztec sandstone seems to glow at sunset.",
+   "s": "Nevada State Parks: Valley of Fire History",
+   "u": "https://parks.nv.gov/learn/park-histories/valley-of-fire-history"
+  },
+  {
+   "id": "rt-008",
+   "q": "In what year was Jack Kerouac's road trip novel 'On the Road' published?",
+   "a": "1957",
+   "w": [
+    "1939",
+    "1949",
+    "1968"
+   ],
+   "f": "Kerouac typed the first full draft in April 1951 on sheets taped into a scroll about 120 feet long.",
+   "s": "New York Public Library",
+   "u": "https://www.nypl.org/press/beatific-soul-jack-kerouac-road",
+   "d": "medium"
+  },
+  {
+   "id": "rt-019",
+   "q": "In what year was Glacier's Going-to-the-Sun Road dedicated at Logan Pass?",
+   "a": "1933",
+   "w": [
+    "1916",
+    "1951",
+    "1972"
+   ],
+   "f": "The first car crossed the whole road in late 1932, and the dedication ceremony was held on July 15, 1933.",
+   "s": "National Park Service: Going-to-the-Sun Road 75th Anniversary",
+   "u": "https://www.nps.gov/glac/learn/news/going-to-the-sun-road-75th-anniversary.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-067",
+   "q": "Which old gristmill at milepost 176 is one of the most photographed spots on the Blue Ridge Parkway?",
+   "a": "Mabry Mill",
+   "w": [
+    "Mingus Mill",
+    "Grist Mill at Peaks of Otter",
+    "Cades Cove Mill"
+   ],
+   "f": "Its slowly turning waterwheel and millpond draw several hundred thousand visitors a year.",
+   "s": "National Park Service: Mabry Mill",
+   "u": "https://www.nps.gov/places/mabry-mill.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-052",
+   "q": "Who made the first cross-country trip by car, in 1903?",
+   "a": "Horatio Nelson Jackson",
+   "w": [
+    "Henry Ford",
+    "Carl Fisher",
+    "Louis Chevrolet"
+   ],
+   "f": "Jackson and mechanic Sewall Crocker drove from California to New York in 63 days. Their bulldog, Bud, wore goggles, which the Smithsonian now keeps.",
+   "s": "Smithsonian: America on the Move",
+   "u": "https://americanhistory.si.edu/explore/exhibitions/america-on-the-move/online/crossing-country",
+   "d": "hard"
+  },
+  {
+   "id": "rt-089",
+   "d": "medium",
+   "q": "On Custer State Park's Wildlife Loop Road, the burros that greet drivers descend from animals that once did what?",
+   "a": "Carried visitors up Black Elk Peak",
+   "w": [
+    "Pulled gold-mining carts",
+    "Delivered mail",
+    "Worked on Mount Rushmore"
+   ],
+   "f": "The park also has one of the largest public bison herds in the world, close to 1,400 animals.",
+   "s": "South Dakota Game, Fish & Parks: Scenic Drives",
+   "u": "https://gfp.sd.gov/csp-scenic-drives/"
+  },
+  {
+   "id": "rt-070",
+   "q": "What is the highest point on the entire Trans-Canada Highway?",
+   "a": "Kicking Horse Pass",
+   "w": [
+    "Rogers Pass",
+    "Bow Summit",
+    "Crowsnest Pass"
+   ],
+   "f": "At 1,627 m, the pass sits right on the border between Banff and Yoho national parks.",
+   "s": "Parks Canada: Spiral Tunnels",
+   "u": "https://parks.canada.ca/pn-np/bc/yoho/culture/kickinghorse/visit/spirale-spiral",
+   "d": "hard"
+  },
+  {
    "id": "rt-099",
    "d": "easy",
    "q": "British Columbia's Sea-to-Sky Highway connects Vancouver with which resort town?",
@@ -1300,46 +296,88 @@
    "u": "https://www.hellobc.com/places-to-go/sea-to-sky/"
   },
   {
-   "id": "rt-100",
-   "d": "easy",
-   "q": "Monument Valley's famous Mitten Buttes are in a park run by which nation?",
-   "a": "The Navajo Nation",
+   "id": "rt-011",
+   "q": "The Natchez Trace Parkway runs from Natchez, Mississippi to near which city?",
+   "a": "Nashville, Tennessee",
    "w": [
-    "The Hopi Tribe",
-    "The National Park Service",
-    "The State of Utah"
+    "Memphis, Tennessee",
+    "Birmingham, Alabama",
+    "Louisville, Kentucky"
    ],
-   "f": "A 17-mile dirt loop road winds between the buttes, but it's too rough for RVs.",
-   "s": "Navajo Nation Parks: Monument Valley",
-   "u": "https://navajonationparks.org/navajo-tribal-parks/monument-valley/"
+   "f": "The parkway is 444 miles long, with mileposts running from 0 at Natchez to 444 near Nashville.",
+   "s": "National Park Service: Natchez Trace Parkway",
+   "u": "https://www.nps.gov/natr/index.htm",
+   "d": "medium"
   },
   {
-   "id": "rt-101",
-   "d": "hard",
-   "q": "Who helped build the Big Sur stretch of Highway 1, finished in 1937?",
-   "a": "Prison inmates",
+   "id": "rt-086",
+   "q": "Athabasca Falls, near the Jasper end of the Icefields Parkway, pours over a ledge of which hard rock?",
+   "a": "Quartzite",
    "w": [
-    "Army soldiers",
-    "Railroad crews",
-    "College students"
+    "Granite",
+    "Basalt",
+    "Marble"
    ],
-   "f": "San Quentin set up road camps, and inmates earned shorter sentences for their work.",
-   "s": "Federal Highway Administration: Highway One",
-   "u": "https://www.fhwa.dot.gov/infrastructure/back0403.cfm"
+   "f": "The 23-meter falls have carved potholes and a short canyon in the softer limestone below.",
+   "s": "Parks Canada: Athabasca Falls",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/athabasca",
+   "d": "hard"
   },
   {
-   "id": "rt-102",
-   "d": "easy",
-   "q": "At the Wigwam Motel in Holbrook, Arizona, guests sleep in rooms shaped like what?",
-   "a": "Teepees",
+   "id": "rt-057",
+   "q": "The Chain of Rocks Bridge, a Route 66 landmark over the Mississippi, is famous for what?",
+   "a": "A 30-degree bend in the middle",
    "w": [
-    "Covered wagons",
-    "Igloos",
-    "Train cars"
+    "Being made of glass",
+    "Being the first toll-free bridge",
+    "A drawbridge that lifts for barges"
    ],
-   "f": "It opened in 1950 on Route 66 and is one of the last Wigwam Villages still standing.",
-   "s": "National Park Service: Wigwam Village #6",
-   "u": "https://www.nps.gov/places/wigwam-village-motel-6.htm"
+   "f": "Weak bedrock under the straight route forced the bend. Today the bridge is open to walkers and cyclists.",
+   "s": "National Park Service: Chain of Rocks Bridge",
+   "u": "https://www.nps.gov/places/chain-of-rocks-bridge.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-023",
+   "q": "Yosemite's Tioga Road tops out at Tioga Pass at about what elevation?",
+   "a": "9,945 feet",
+   "w": [
+    "6,781 feet",
+    "8,400 feet",
+    "11,200 feet"
+   ],
+   "f": "It's the highest highway crossing of the Sierra Nevada in California, and snow usually closes it from about November to late May or June.",
+   "s": "National Park Service: Tioga Pass Entrance",
+   "u": "https://www.nps.gov/places/000/tioga-pass-entrance.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-076",
+   "q": "Alaska's Sterling Highway ends at the 'End of the Road' on which spit?",
+   "a": "Homer Spit",
+   "w": [
+    "Seward Spit",
+    "Kenai Spit",
+    "Valdez Spit"
+   ],
+   "f": "Alaska calls the Homer Spit the second-longest natural spit in the world.",
+   "s": "Alaska DOT&PF: Sterling Highway",
+   "u": "https://dot.alaska.gov/dmio/scenic/byways-sterling-south.shtml",
+   "d": "medium"
+  },
+  {
+   "id": "rt-041",
+   "q": "Which highway, announced in 1913, ran from Times Square in New York to Lincoln Park in San Francisco?",
+   "a": "Lincoln Highway",
+   "w": [
+    "Route 66",
+    "Dixie Highway",
+    "National Road"
+   ],
+   "f": "The first route was 3,389 miles long, and less than half of it was improved road.",
+   "s": "Federal Highway Administration: The Lincoln Highway",
+   "u": "https://highways.dot.gov/highway-history/general-highway-history/lincoln-highway",
+   "d": "medium"
   },
   {
    "id": "rt-103",
@@ -1356,6 +394,300 @@
    "u": "https://www.nps.gov/places/richland-balsam-overlook.htm"
   },
   {
+   "id": "rt-100",
+   "d": "easy",
+   "q": "Monument Valley's famous Mitten Buttes are in a park run by which nation?",
+   "a": "The Navajo Nation",
+   "w": [
+    "The Hopi Tribe",
+    "The National Park Service",
+    "The State of Utah"
+   ],
+   "f": "A 17-mile dirt loop road winds between the buttes, but it's too rough for RVs.",
+   "s": "Navajo Nation Parks: Monument Valley",
+   "u": "https://navajonationparks.org/navajo-tribal-parks/monument-valley/"
+  },
+  {
+   "id": "rt-051",
+   "q": "Who called Route 66 'The Mother Road'?",
+   "a": "John Steinbeck",
+   "w": [
+    "Jack Kerouac",
+    "Mark Twain",
+    "Woody Guthrie"
+   ],
+   "f": "The nickname comes from his 1939 novel 'The Grapes of Wrath.'",
+   "s": "National Park Service: Route 66 Overview",
+   "u": "https://www.nps.gov/articles/route-66-overview.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-058",
+   "q": "How many people a day can win a permit to hike to The Wave near Kanab?",
+   "a": "64",
+   "w": [
+    "8",
+    "250",
+    "Unlimited"
+   ],
+   "f": "48 spots go through an advance lottery and 16 through a daily lottery, in groups of up to 6 people.",
+   "s": "Bureau of Land Management: The Wave",
+   "u": "https://www.blm.gov/programs/recreation/permits-and-passes/lotteries-and-permit-systems/arizona/coyote-buttes",
+   "d": "hard"
+  },
+  {
+   "id": "rt-029",
+   "q": "The Hāna Highway leads to the Kīpahulu District of which national park?",
+   "a": "Haleakalā",
+   "w": [
+    "Hawaiʻi Volcanoes",
+    "Kalaupapa",
+    "Puʻuhonua o Hōnaunau"
+   ],
+   "f": "Kīpahulu is 12 miles past the town of Hāna, and there's no gas in the park, so fill up in Pāʻia.",
+   "s": "National Park Service: Kīpahulu District",
+   "u": "https://www.nps.gov/hale/planyourvisit/kipahulu.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-069",
+   "q": "In 1913, the first car drove Alaska's Richardson Highway from Fairbanks to Valdez. How long did it take?",
+   "a": "59 hours",
+   "w": [
+    "9 hours",
+    "3 weeks",
+    "2 months"
+   ],
+   "f": "Robert Sheldon made the drive in a Ford Model T. The route began as a trail in the 1890s gold rush era.",
+   "s": "Alaska DOT&PF: Richardson Highway",
+   "u": "https://dot.alaska.gov/highways/richardson/",
+   "d": "hard"
+  },
+  {
+   "id": "rt-021",
+   "q": "The Blue Ridge Parkway connects which two national parks?",
+   "a": "Shenandoah and Great Smoky Mountains",
+   "w": [
+    "Acadia and Shenandoah",
+    "Mammoth Cave and Great Smoky Mountains",
+    "Congaree and Shenandoah"
+   ],
+   "f": "The Parkway is 469 miles long. Its mileposts start at 0 near Shenandoah and end at 469 in the Smokies.",
+   "s": "National Park Service: Blue Ridge Parkway Auto Touring",
+   "u": "https://www.nps.gov/blri/planyourvisit/auto-touring.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-062",
+   "q": "Yoho's Spiral Tunnels let trains loop inside which two mountains?",
+   "a": "Mount Ogden and Cathedral Mountain",
+   "w": [
+    "Mount Robson and Mount Edith Cavell",
+    "Mount Rundle and Cascade Mountain",
+    "Mount Temple and Mount Victoria"
+   ],
+   "f": "The tunnels opened in 1909 to cut the grade of the dangerous 'Big Hill' in half. You can watch trains from a pullout on the Trans-Canada Highway.",
+   "s": "Parks Canada: Spiral Tunnels",
+   "u": "https://parks.canada.ca/pn-np/bc/yoho/culture/kickinghorse/visit/spirale-spiral",
+   "d": "hard"
+  },
+  {
+   "id": "rt-092",
+   "d": "medium",
+   "q": "About how tall is Pigeon Point Lighthouse, south of San Francisco on Highway 1?",
+   "a": "About 115 feet",
+   "w": [
+    "About 40 feet",
+    "About 250 feet",
+    "About 400 feet"
+   ],
+   "f": "It was first lit in 1872 and is one of the tallest lighthouses on the West Coast.",
+   "s": "California State Parks: Pigeon Point Light Station",
+   "u": "https://www.parks.ca.gov/PigeonPoint"
+  },
+  {
+   "id": "rt-046",
+   "q": "Road Trip Locals' 'Grand Slam' road trip loops through which mountains?",
+   "a": "The Canadian Rockies",
+   "w": [
+    "The Sierra Nevada",
+    "The Appalachians",
+    "The Cascades"
+   ],
+   "f": "The 10-day loop starts and ends in Calgary, with stops in Banff, Lake Louise, the Icefields Parkway and Jasper.",
+   "s": "Road Trip Locals: The Grand Slam",
+   "u": "https://www.roadtriplocals.com/blog/canadian-rockies-road-trip",
+   "d": "easy"
+  },
+  {
+   "id": "rt-036",
+   "q": "Which road is the highest paved road in North America?",
+   "a": "Mount Blue Sky Scenic Byway",
+   "w": [
+    "Trail Ridge Road",
+    "Pikes Peak Highway",
+    "Beartooth Highway"
+   ],
+   "f": "The road climbs to about 14,130 feet. The mountain was called Mount Evans until 2023.",
+   "s": "Colorado Department of Transportation",
+   "u": "https://www.codot.gov/travel/coloradobyways/north-central/mount-evans",
+   "d": "hard"
+  },
+  {
+   "id": "rt-093",
+   "d": "medium",
+   "q": "Badlands Loop Road (SD 240) ends at the highest overlook in the park's North Unit. What is it called?",
+   "a": "Pinnacles Overlook",
+   "w": [
+    "Inspiration Point",
+    "Glacier Point",
+    "Artist Point"
+   ],
+   "f": "The 30-mile paved loop has about a dozen overlooks between two I-90 exits.",
+   "s": "National Park Service: Badlands Loop Road",
+   "u": "https://www.nps.gov/thingstodo/badl-loop-road.htm"
+  },
+  {
+   "id": "rt-091",
+   "d": "medium",
+   "q": "How tall is Multnomah Falls, along Oregon's Historic Columbia River Highway?",
+   "a": "620 feet",
+   "w": [
+    "120 feet",
+    "308 feet",
+    "1,200 feet"
+   ],
+   "f": "More than 2 million people visit it each year.",
+   "s": "U.S. Forest Service: Multnomah Falls",
+   "u": "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/multnomah-falls"
+  },
+  {
+   "id": "rt-061",
+   "q": "What closed the Denali Park Road at its midpoint in 2021?",
+   "a": "The Pretty Rocks landslide",
+   "w": [
+    "A wildfire",
+    "A glacier surge",
+    "A bridge collapse from a flood"
+   ],
+   "f": "A new bridge over the slide was finished in 2026, and buses are expected to reach the west end again in 2027.",
+   "s": "National Park Service: Denali Expands Visitor Access",
+   "u": "https://www.nps.gov/dena/learn/news/national-park-service-expands-visitor-access-at-denali-national-park-and-preserve.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-063",
+   "q": "Canada's national park system began in 1885 with a reserve around what?",
+   "a": "Hot springs in Banff",
+   "w": [
+    "Niagara Falls",
+    "Lake Louise",
+    "The Columbia Icefield"
+   ],
+   "f": "Railway workers stumbled on the Cave and Basin springs in 1883, which led to Canada's first national park.",
+   "s": "Parks Canada: Cave and Basin",
+   "u": "https://parks.canada.ca/lhn-nhs/ab/caveandbasin/culture/heritage-legacy",
+   "d": "medium"
+  },
+  {
+   "id": "rt-039",
+   "q": "Who planned South Dakota's Needles Highway, walking and riding horseback over the route himself?",
+   "a": "Governor Peter Norbeck",
+   "w": [
+    "Gutzon Borglum",
+    "Theodore Roosevelt",
+    "Doane Robinson"
+   ],
+   "f": "The highway was finished in 1922 and squeezes through the narrow Needles Eye Tunnel.",
+   "s": "South Dakota Game, Fish & Parks: Custer State Park Scenic Drives",
+   "u": "https://gfp.sd.gov/csp-scenic-drives/",
+   "d": "hard"
+  },
+  {
+   "id": "rt-048",
+   "q": "Which highway did Life magazine call 'The Loneliest Road in America' in 1986?",
+   "a": "US 50 in Nevada",
+   "w": [
+    "US 93 in Idaho",
+    "I-80 in Wyoming",
+    "US 191 in Utah"
+   ],
+   "f": "Nevada embraced the name and created a 'survival guide' that travelers can get stamped along the route.",
+   "s": "Travel Nevada (State of Nevada)",
+   "u": "https://travelnevada.com/road-trips/loneliest-road-in-america/",
+   "d": "medium"
+  },
+  {
+   "id": "rt-027",
+   "q": "What kind of traffic is NOT allowed on the Blue Ridge Parkway?",
+   "a": "Commercial traffic",
+   "w": [
+    "Motorcycles",
+    "Bicycles",
+    "Tour buses"
+   ],
+   "f": "The speed limit is 45 mph unless posted otherwise. There are no gas stations on the Parkway itself.",
+   "s": "National Park Service: Getting Around the Blue Ridge Parkway",
+   "u": "https://www.nps.gov/blri/planyourvisit/gettingaround.htm",
+   "d": "easy"
+  },
+  {
+   "id": "rt-038",
+   "q": "Which bridge carries US 93 over the Colorado River next to Hoover Dam?",
+   "a": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
+   "w": [
+    "Navajo Bridge",
+    "Glen Canyon Bridge",
+    "Bixby Creek Bridge"
+   ],
+   "f": "The bridge opened in 2010 and stands nearly 900 feet above the river.",
+   "s": "Federal Highway Administration: Public Roads",
+   "u": "https://fhwa.dot.gov/publications/publicroads/11marapr/01.cfm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-010",
+   "q": "Glacier's Going-to-the-Sun Road crosses the Continental Divide at which pass?",
+   "a": "Logan Pass",
+   "w": [
+    "Marias Pass",
+    "Sylvan Pass",
+    "Rogers Pass"
+   ],
+   "f": "There's no set opening date, because it depends on snow. The road is usually fully open by early July.",
+   "s": "National Park Service: Going-to-the-Sun Road",
+   "u": "https://www.nps.gov/glac/planyourvisit/gtsrinfo.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-030",
+   "q": "The Dalton Highway crosses the Brooks Range and the Continental Divide at which pass?",
+   "a": "Atigun Pass",
+   "w": [
+    "Thompson Pass",
+    "Isabel Pass",
+    "Chilkoot Pass"
+   ],
+   "f": "North of the pass, rivers flow to the Arctic Ocean. To the south, they flow toward the Pacific and the Bering Sea.",
+   "s": "Bureau of Land Management: Atigun Pass",
+   "u": "https://www.blm.gov/visit/atigun-pass",
+   "d": "hard"
+  },
+  {
+   "id": "rt-028",
+   "q": "The Corn Palace, decorated with murals made from corn, is in which town?",
+   "a": "Mitchell, South Dakota",
+   "w": [
+    "Des Moines, Iowa",
+    "Omaha, Nebraska",
+    "Salina, Kansas"
+   ],
+   "f": "The murals change every year, unless drought or a poor harvest gets in the way.",
+   "s": "Corn Palace (City of Mitchell)",
+   "u": "https://cornpalace.com/FAQ.aspx?QID=65",
+   "d": "medium"
+  },
+  {
    "id": "rt-104",
    "d": "hard",
    "q": "At Alaska's Hatcher Pass, Independence Mine was one of the state's biggest producers of what?",
@@ -1368,6 +700,762 @@
    "f": "It's now a state historical park, and the summit road is usually open only in midsummer.",
    "s": "Alaska State Parks: Hatcher Pass",
    "u": "https://dnr.alaska.gov/parks/aspunits/matsu/hatcherpassema.htm"
+  },
+  {
+   "id": "rt-050",
+   "q": "The Florida Keys' Seven Mile Bridge carries which highway?",
+   "a": "US 1",
+   "w": [
+    "I-95",
+    "US 41",
+    "Florida A1A"
+   ],
+   "f": "Mile Marker 0 in Key West marks the southern end of US 1, which starts in Fort Kent, Maine.",
+   "s": "Federal Highway Administration: U.S. 1, Fort Kent to Key West",
+   "u": "https://highways.dot.gov/highway-history/general-highway-history/us-1-fort-kent-maine-key-west-florida",
+   "d": "medium"
+  },
+  {
+   "id": "rt-080",
+   "q": "Which pioneering architect designed Hearst Castle, just off Highway 1?",
+   "a": "Julia Morgan",
+   "w": [
+    "Frank Lloyd Wright",
+    "Robert Reamer",
+    "Mary Colter"
+   ],
+   "f": "She was California's first woman licensed as an architect, and she worked on the castle for nearly 30 years.",
+   "s": "California State Parks: Hearst San Simeon",
+   "u": "https://www.parks.ca.gov/hearstsansimeon",
+   "d": "easy"
+  },
+  {
+   "id": "rt-014",
+   "q": "Which was the most visited site in the entire National Park System in 2025?",
+   "a": "Blue Ridge Parkway",
+   "w": [
+    "Great Smoky Mountains",
+    "Golden Gate National Recreation Area",
+    "Grand Canyon"
+   ],
+   "f": "The Parkway recorded more than 16.5 million recreation visits, just ahead of Golden Gate.",
+   "s": "National Park Service: 2025 Visitation Statistics",
+   "u": "https://home.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-043",
+   "q": "In 1919, a young Dwight Eisenhower joined the Army's first cross-country motor convoy on which road?",
+   "a": "Lincoln Highway",
+   "w": [
+    "Route 66",
+    "The Oregon Trail",
+    "US 1"
+   ],
+   "f": "The convoy drove from Washington, DC, to San Francisco. Later, Eisenhower said the trip shaped his support for better highways.",
+   "s": "Federal Highway Administration: The Lincoln Highway",
+   "u": "https://highways.dot.gov/highway-history/general-highway-history/lincoln-highway",
+   "d": "hard"
+  },
+  {
+   "id": "rt-083",
+   "q": "In 1934, the summit of New Hampshire's Mount Washington recorded a wind gust of how many mph?",
+   "a": "231 mph",
+   "w": [
+    "98 mph",
+    "150 mph",
+    "310 mph"
+   ],
+   "f": "It was the fastest wind ever measured by people at a surface weather station. You can drive or take the Cog Railway to the top.",
+   "s": "NOAA: Mount Washington Observatory",
+   "u": "https://vlab.noaa.gov/web/nws-heritage/-/the-mount-washington-observatory",
+   "d": "medium"
+  },
+  {
+   "id": "rt-073",
+   "q": "Before the Parks Highway, which mostly gravel road was the only way to drive to Denali?",
+   "a": "The Denali Highway",
+   "w": [
+    "The Dalton Highway",
+    "The Seward Highway",
+    "The Glenn Highway"
+   ],
+   "f": "It runs 135 miles from Paxson to Cantwell and opened in 1957.",
+   "s": "Bureau of Land Management: Denali Highway",
+   "u": "https://www.blm.gov/visit/denali-highway",
+   "d": "hard"
+  },
+  {
+   "id": "rt-068",
+   "q": "Cars and trains take turns in which Alaska tunnel, the longest highway tunnel in North America?",
+   "a": "The Whittier Tunnel",
+   "w": [
+    "The Seward Tunnel",
+    "The Chugach Tunnel",
+    "The Kenai Tunnel"
+   ],
+   "f": "The 2.5-mile Anton Anderson Memorial Tunnel is Whittier's only road link, and it's Alaska's only toll road.",
+   "s": "Alaska DOT&PF: Whittier Tunnel",
+   "u": "https://dot.alaska.gov/creg/whittiertunnel/history.shtml",
+   "d": "medium"
+  },
+  {
+   "id": "rt-082",
+   "q": "The Burr Trail's famous switchbacks climb about 800 feet over the Waterpocket Fold in how far?",
+   "a": "About half a mile",
+   "w": [
+    "About 5 miles",
+    "About 20 miles",
+    "About 50 feet"
+   ],
+   "f": "Inside Capitol Reef the road is graded dirt, and wet clay can make it impassable.",
+   "s": "National Park Service: Capitol Reef Roads",
+   "u": "https://www.nps.gov/care/planyourvisit/roads.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-078",
+   "q": "Vermont's Smugglers' Notch road (Route 108) does what every winter?",
+   "a": "Closes",
+   "w": [
+    "Becomes a toll road",
+    "Turns into a ski run",
+    "Switches to one-way"
+   ],
+   "f": "Tractor-trailers are banned year-round because they kept getting stuck between the boulders.",
+   "s": "Vermont State Parks: Smugglers' Notch",
+   "u": "https://www.vtstateparks.com/parks/smugglers-notch",
+   "d": "medium"
+  },
+  {
+   "id": "rt-002",
+   "q": "At its northern end, California's Highway 1 meets US 101 near which small town?",
+   "a": "Leggett",
+   "w": [
+    "Eureka",
+    "Crescent City",
+    "Mendocino"
+   ],
+   "f": "The Pacific Coast Highway runs as Route 1 from southern Orange County all the way up the coast to Leggett.",
+   "s": "Federal Highway Administration: Pacific Coast Highway Byway",
+   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/byway/12744",
+   "d": "hard"
+  },
+  {
+   "id": "rt-045",
+   "q": "Burma-Shave's famous rhyming roadside signs advertised what?",
+   "a": "Shaving cream",
+   "w": [
+    "Motor oil",
+    "Root beer",
+    "Sunglasses"
+   ],
+   "f": "The signs ran from 1926 to 1963. At their peak, there were 7,000 sets in 45 states.",
+   "s": "Smithsonian National Museum of American History",
+   "u": "https://americanhistory.si.edu/collections/object/nmah_1313589",
+   "d": "easy"
+  },
+  {
+   "id": "rt-012",
+   "q": "Trail Ridge Road links Estes Park with which Colorado town?",
+   "a": "Grand Lake",
+   "w": [
+    "Boulder",
+    "Breckenridge",
+    "Steamboat Springs"
+   ],
+   "f": "The 48-mile drive crosses Rocky Mountain National Park and tops out at 12,183 feet.",
+   "s": "National Park Service: Trail Ridge Road",
+   "u": "https://www.nps.gov/romo/planyourvisit/trail_ridge_road.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-053",
+   "q": "In what year was Big Sur's famous Bixby Creek Bridge built?",
+   "a": "1932",
+   "w": [
+    "1909",
+    "1955",
+    "1971"
+   ],
+   "f": "Its 330-foot main span is the largest concrete arch span in California.",
+   "s": "Caltrans: Concrete Arch Bridges of California",
+   "u": "https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/env/concrete-arch-bridges-2004-a11y.pdf",
+   "d": "hard"
+  },
+  {
+   "id": "rt-005",
+   "q": "Which glacier can you see right from the Icefields Parkway?",
+   "a": "Athabasca Glacier",
+   "w": [
+    "Grinnell Glacier",
+    "Mendenhall Glacier",
+    "Emmons Glacier"
+   ],
+   "f": "It flows from the Columbia Icefield, the largest mass of glacial ice in the Canadian Rockies. Don't walk on it without a guide, because crevasses can be deadly.",
+   "s": "Parks Canada: Travelling the Icefields Parkway",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/promenadedesglaciers-icefieldsparkway",
+   "d": "medium"
+  },
+  {
+   "id": "rt-049",
+   "q": "What was the last section of the Blue Ridge Parkway to be finished?",
+   "a": "The Linn Cove Viaduct",
+   "w": [
+    "The Natural Bridge Tunnel",
+    "The Mabry Mill Bridge",
+    "The Peaks of Otter Overlook"
+   ],
+   "f": "The viaduct wraps around Grandfather Mountain in North Carolina. It was built from the top down so no construction road had to be cut into the mountainside.",
+   "s": "National Park Service: History of the Linn Cove Viaduct",
+   "u": "https://www.nps.gov/blri/learn/historyculture/linn-cove-viaduct.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-032",
+   "q": "The Seward Highway runs from Anchorage along which inlet famous for beluga whales?",
+   "a": "Turnagain Arm",
+   "w": [
+    "Resurrection Bay",
+    "Cook Inlet's Knik Arm",
+    "Prince William Sound"
+   ],
+   "f": "The highway is an All-American Road, the top designation for a U.S. scenic byway.",
+   "s": "Alaska DOT&PF: Seward Highway",
+   "u": "https://dot.alaska.gov/dmio/scenic/byways-seward.shtml",
+   "d": "medium"
+  },
+  {
+   "id": "rt-034",
+   "q": "The Cabot Trail, a famous coastal loop, is in which Canadian province?",
+   "a": "Nova Scotia",
+   "w": [
+    "Newfoundland",
+    "New Brunswick",
+    "Prince Edward Island"
+   ],
+   "f": "The loop is nearly 300 km around northern Cape Breton Island, and about a third of it runs through Cape Breton Highlands National Park.",
+   "s": "Parks Canada: Cape Breton Highlands Directions",
+   "u": "https://parks.canada.ca/pn-np/ns/cbreton/visit/directions",
+   "d": "medium"
+  },
+  {
+   "id": "rt-059",
+   "q": "Coral Pink Sand Dunes, near Kanab, get their color from which eroding rock?",
+   "a": "Navajo Sandstone",
+   "w": [
+    "Granite",
+    "Limestone",
+    "Basalt"
+   ],
+   "f": "Wind speeds up through a notch between two mountains, picks up the sand, then drops it in the valley. The dunes can move up to 50 feet a year.",
+   "s": "Utah State Parks: Coral Pink Sand Dunes",
+   "u": "https://stateparks.utah.gov/parks/coral-pink/discover/",
+   "d": "hard"
+  },
+  {
+   "id": "rt-004",
+   "q": "Avenue of the Giants is a scenic drive through which trees?",
+   "a": "Coast redwoods",
+   "w": [
+    "Giant sequoias",
+    "Douglas firs",
+    "Ponderosa pines"
+   ],
+   "f": "The 32-mile drive through Humboldt Redwoods State Park follows the old route of Highway 101.",
+   "s": "California State Parks",
+   "u": "https://www.parks.ca.gov/pages/425/files/HumboldtRedwoodsFinalWebLayout2017.pdf",
+   "d": "easy"
+  },
+  {
+   "id": "rt-024",
+   "q": "Colorado's 'Million Dollar Highway' (US 550) runs between Ouray and which town?",
+   "a": "Silverton",
+   "w": [
+    "Telluride",
+    "Durango",
+    "Aspen"
+   ],
+   "f": "It's part of the San Juan Skyway, a loop of about 236 miles that's designated an All-American Road.",
+   "s": "Colorado Department of Transportation: San Juan Skyway",
+   "u": "https://www.codot.gov/travel/coloradobyways/southwest/san-juan-skyway",
+   "d": "medium"
+  },
+  {
+   "id": "rt-009",
+   "q": "Work on the Blue Ridge Parkway began in 1935. When was it declared complete?",
+   "a": "1987",
+   "w": [
+    "1941",
+    "1956",
+    "1972"
+   ],
+   "f": "The dedication on September 11, 1987 ended a 14-mile detour around Grandfather Mountain.",
+   "s": "National Park Service: History of the Linn Cove Viaduct",
+   "u": "https://www.nps.gov/blri/learn/historyculture/linn-cove-viaduct.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-017",
+   "q": "The Beartooth Highway (US-212) runs from Red Lodge, Montana to which Yellowstone entrance?",
+   "a": "Northeast Entrance",
+   "w": [
+    "North Entrance",
+    "East Entrance",
+    "West Entrance"
+   ],
+   "f": "The road is about 68 miles long and was built between 1932 and 1936. It's usually open from Memorial Day weekend to mid-October.",
+   "s": "U.S. Forest Service: Beartooth Highway",
+   "u": "https://www.fs.usda.gov/r01/custergallatin/recreation/us-hwy-212-corridor-beartooth-highway",
+   "d": "medium"
+  },
+  {
+   "id": "rt-088",
+   "q": "Colorado's Independence Pass crosses the Continental Divide at what elevation?",
+   "a": "12,095 feet",
+   "w": [
+    "8,500 feet",
+    "10,200 feet",
+    "14,110 feet"
+   ],
+   "f": "It's the highest paved state highway in Colorado, and it closes every winter between Aspen and Twin Lakes.",
+   "s": "Colorado Department of Transportation",
+   "u": "https://www.codot.gov/news/2026/november2026news/co82-independencepass-close-for-winter",
+   "d": "hard"
+  },
+  {
+   "id": "rt-056",
+   "q": "Which South Dakota road's one-lane tunnels frame views of Mount Rushmore?",
+   "a": "Iron Mountain Road",
+   "w": [
+    "Needles Highway",
+    "Spearfish Canyon Byway",
+    "Wildlife Loop Road"
+   ],
+   "f": "The road's north entrance starts inside the Mount Rushmore National Memorial boundary.",
+   "s": "National Park Service: Iron Mountain Road",
+   "u": "https://www.nps.gov/places/iron-mountain-road-north-entrance.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-085",
+   "q": "Cape Cod's Old King's Highway (Route 6A) runs through what?",
+   "a": "America's largest historic district",
+   "w": [
+    "A national park",
+    "A military base",
+    "A tunnel under the bay"
+   ],
+   "f": "The 34-mile byway passes salt marshes, cranberry bogs and old sea captains' homes.",
+   "s": "Federal Highway Administration: Old King's Highway",
+   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81505",
+   "d": "hard"
+  },
+  {
+   "id": "rt-074",
+   "q": "Utah's Moki Dugway, a steep gravel switchback road, was built in the 1950s to haul what?",
+   "a": "Uranium ore",
+   "w": [
+    "Cattle",
+    "Timber",
+    "Mail"
+   ],
+   "f": "It climbs the edge of Cedar Mesa near Valley of the Gods. It's not recommended for trailers or big RVs.",
+   "s": "Bureau of Land Management: Valley of the Gods",
+   "u": "https://www.blm.gov/sites/blm.gov/files/documents/files/Utah_BENM_Valley-Of_Gods_Brochure.pdf",
+   "d": "medium"
+  },
+  {
+   "id": "rt-007",
+   "q": "What does your vehicle need to drive the Icefields Parkway from November 1 to March 31?",
+   "a": "Snow tires or chains",
+   "w": [
+    "Four-wheel drive",
+    "A permit from the RCMP",
+    "A satellite phone"
+   ],
+   "f": "You also need a valid national parks pass to drive the parkway at any time of year.",
+   "s": "Parks Canada: Icefields Parkway in Winter",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/experience/hiver-winter/pcghiver-ipwinter",
+   "d": "easy"
+  },
+  {
+   "id": "rt-097",
+   "d": "hard",
+   "q": "Mount Locust, at milepost 15.5 on the Natchez Trace, was once what?",
+   "a": "An inn for travelers",
+   "w": [
+    "A fort",
+    "A gold mine",
+    "A lighthouse"
+   ],
+   "f": "Built around 1785, it's one of the oldest buildings in Mississippi.",
+   "s": "National Park Service: Mount Locust",
+   "u": "https://www.nps.gov/places/mount-locust-historic-house.htm"
+  },
+  {
+   "id": "rt-006",
+   "q": "Road Trip Locals' 'Grand Trifecta' connects Grand Teton, Yellowstone and which other national park?",
+   "a": "Glacier",
+   "w": [
+    "Rocky Mountain",
+    "Badlands",
+    "Banff"
+   ],
+   "f": "We recommend 10 to 14 days. Fly into Bozeman, head north from Grand Teton through Yellowstone, and finish in Glacier.",
+   "s": "Road Trip Locals: The Grand Trifecta",
+   "u": "https://www.roadtriplocals.com/blog/grand-teton-yellowstone-glacier-road-trip",
+   "d": "medium"
+  },
+  {
+   "id": "rt-026",
+   "q": "Yellowstone's Grand Loop Road is shaped like what?",
+   "a": "A figure eight",
+   "w": [
+    "A circle",
+    "A horseshoe",
+    "A triangle"
+   ],
+   "f": "The Grand Loop is 142 miles long, with a 70-mile upper loop and a 96-mile lower loop.",
+   "s": "National Park Service: Yellowstone & Grand Teton Map",
+   "u": "https://www.nps.gov/yell/planyourvisit/upload/YELL-GRTE-Tear-Off-Map-2023-web.pdf",
+   "d": "medium"
+  },
+  {
+   "id": "rt-065",
+   "q": "In 1914, Massachusetts named which road a scenic tourist route?",
+   "a": "The Mohawk Trail",
+   "w": [
+    "The Kancamagus Highway",
+    "The Old King's Highway",
+    "The Merritt Parkway"
+   ],
+   "f": "It follows Route 2 through the Berkshires from Charlemont to North Adams.",
+   "s": "National Park Service: Mohawk Trail",
+   "u": "https://www.nps.gov/places/mohawk-trail.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-087",
+   "q": "What's the speed limit on most of Shenandoah's Skyline Drive?",
+   "a": "35 mph",
+   "w": [
+    "25 mph",
+    "45 mph",
+    "55 mph"
+   ],
+   "f": "The road's design and the many deer and bears are why it's kept slow.",
+   "s": "National Park Service: Driving Skyline Drive",
+   "u": "https://home.nps.gov/shen/planyourvisit/driving-skyline-drive.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-060",
+   "q": "The Natchez Trace Parkway's Double Arch Bridge, near Nashville, won what in 1995?",
+   "a": "A Presidential Award for Design Excellence",
+   "w": [
+    "The title of world's longest bridge",
+    "An Olympic architecture medal",
+    "A Pulitzer Prize"
+   ],
+   "f": "It spans Birdsong Hollow at milepost 438 and opened in 1994.",
+   "s": "National Park Service: Double Arch Bridge",
+   "u": "https://www.nps.gov/natr/learn/double-arch-bridge-at-birdsong-hollow.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-047",
+   "q": "Since 2023, how do you get to Moraine Lake near Lake Louise?",
+   "a": "By shuttle, transit or tour, not your own car",
+   "w": [
+    "Only on foot",
+    "Only by boat",
+    "With a timed-entry car permit"
+   ],
+   "f": "Parks Canada closed the road to personal vehicles because of congestion and safety concerns. Book shuttles ahead.",
+   "s": "Parks Canada: Visiting Lake Louise and Moraine Lake",
+   "u": "https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise",
+   "d": "medium"
+  },
+  {
+   "id": "rt-037",
+   "q": "The Great River Road follows which river through 10 states?",
+   "a": "Mississippi",
+   "w": [
+    "Missouri",
+    "Ohio",
+    "Columbia"
+   ],
+   "f": "The byway runs from northern Minnesota to the Gulf of Mexico.",
+   "s": "Federal Highway Administration: America's Byways",
+   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/byway/2279",
+   "d": "easy"
+  },
+  {
+   "id": "rt-066",
+   "q": "What is the highest point on the Icefields Parkway?",
+   "a": "Bow Summit",
+   "w": [
+    "Sunwapta Pass",
+    "Kicking Horse Pass",
+    "Athabasca Pass"
+   ],
+   "f": "Bow Summit is at about 2,070 m, near the famous Peyto Lake viewpoint.",
+   "s": "Parks Canada: Trails on the Icefields Parkway",
+   "u": "https://parks.canada.ca/pn-np/ab/banff/activ/randonnee-hiking/93n",
+   "d": "hard"
+  },
+  {
+   "id": "rt-040",
+   "q": "'America the Beautiful' was inspired by the view from which mountain?",
+   "a": "Pikes Peak",
+   "w": [
+    "Mount Rainier",
+    "Longs Peak",
+    "Mount Washington"
+   ],
+   "f": "Katharine Lee Bates rode a wagon to the summit in 1893 and wrote the first draft back at her hotel.",
+   "s": "National Park Service: Places of Katharine Lee Bates",
+   "u": "https://www.nps.gov/articles/000/places-of-katharine-lee-bates-and-america-the-beautiful.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-072",
+   "q": "Acadia's Park Loop Road is how long?",
+   "a": "27 miles",
+   "w": [
+    "7 miles",
+    "45 miles",
+    "105 miles"
+   ],
+   "f": "It starts at Hulls Cove and reaches Sand Beach, Jordan Pond and Cadillac Mountain. Allow 3 to 4 hours with stops.",
+   "s": "National Park Service: Park Loop Road",
+   "u": "https://www.nps.gov/acad/planyourvisit/park-loop-road.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-054",
+   "q": "Construction of the Icefields Parkway started in 1931 as what kind of project?",
+   "a": "A Depression-era jobs project",
+   "w": [
+    "A wartime supply route",
+    "A railway conversion",
+    "A logging road"
+   ],
+   "f": "Canada hired 600 unemployed men, who built the road mostly by hand with horses. Each work crew was allowed only one tractor.",
+   "s": "Parks Canada: A Brief History of the Icefields Parkway",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/promenadedesglaciers-icefieldsparkway/pghistoire-iphistory",
+   "d": "medium"
+  },
+  {
+   "id": "rt-044",
+   "q": "In what year was Route 66 decommissioned as a federal highway?",
+   "a": "1985",
+   "w": [
+    "1956",
+    "1970",
+    "1999"
+   ],
+   "f": "Five different Interstates replaced it.",
+   "s": "National Park Service: Route 66 Overview",
+   "u": "https://www.nps.gov/articles/route-66-overview.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-095",
+   "d": "medium",
+   "q": "Utah's Highway 128 follows which river out of Moab?",
+   "a": "Colorado River",
+   "w": [
+    "Green River",
+    "San Juan River",
+    "Virgin River"
+   ],
+   "f": "About 21 miles in, a side road leads to the Fisher Towers hiking trail.",
+   "s": "Visit Utah: Upper Colorado Scenic Byway",
+   "u": "https://www.visitutah.com/things-to-do/road-cycling/highway-128-upper-colorado-scenic-byway"
+  },
+  {
+   "id": "rt-015",
+   "q": "Why was the Alaska Highway built in 1942?",
+   "a": "As a military route in World War II",
+   "w": [
+    "The Klondike Gold Rush",
+    "Oil pipeline access",
+    "Tourism"
+   ],
+   "f": "Army engineers built the road from Dawson Creek, British Columbia, to Delta Junction, Alaska, in about eight months.",
+   "s": "Federal Highway Administration: Alaska Highway Fact Sheet",
+   "u": "https://www.fhwa.dot.gov/candc/factsheets/alaskahighway.pdf",
+   "d": "easy"
+  },
+  {
+   "id": "rt-035",
+   "q": "Road Trip Locals' Grand Trifecta itinerary suggests flying into which city?",
+   "a": "Bozeman, Montana",
+   "w": [
+    "Denver, Colorado",
+    "Salt Lake City, Utah",
+    "Spokane, Washington"
+   ],
+   "f": "From Bozeman it's about 5 hours to Grand Teton, and about 6.5 hours from Yellowstone to Glacier.",
+   "s": "Road Trip Locals: The Grand Trifecta",
+   "u": "https://www.roadtriplocals.com/blog/grand-teton-yellowstone-glacier-road-trip",
+   "d": "medium"
+  },
+  {
+   "id": "rt-025",
+   "q": "Alaska's Dalton Highway ends at which oilfield camp near the Arctic Ocean?",
+   "a": "Deadhorse",
+   "w": [
+    "Nome",
+    "Barrow",
+    "Coldfoot"
+   ],
+   "f": "The road runs 414 miles, mostly on gravel, and crosses the Arctic Circle at milepost 115.",
+   "s": "Bureau of Land Management: Dalton Highway",
+   "u": "https://www.blm.gov/learn/interpretive-centers/arctic-interagency-visitor-center/dalton-highway-recreation",
+   "d": "hard"
+  },
+  {
+   "id": "rt-022",
+   "q": "Which Oregon road, built from 1913 to 1922, is often called America's first scenic highway?",
+   "a": "Historic Columbia River Highway",
+   "w": [
+    "Pacific Coast Highway",
+    "McKenzie Pass Highway",
+    "Crater Lake Highway"
+   ],
+   "f": "Sam Hill and Samuel Lancaster built it to show off the Columbia River Gorge's waterfalls and cliffs.",
+   "s": "U.S. Forest Service: Historic Columbia River Highway",
+   "u": "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/historic-columbia-river-highway",
+   "d": "medium"
+  },
+  {
+   "id": "rt-071",
+   "q": "How far into Denali National Park can you drive your own car on the Park Road?",
+   "a": "Mile 15, at Savage River",
+   "w": [
+    "Mile 92, the end of the road",
+    "Mile 3, the visitor center",
+    "You can't drive in at all"
+   ],
+   "f": "The road is 92 miles long. Beyond Savage River you ride a bus.",
+   "s": "National Park Service: Denali Basic Information",
+   "u": "https://www.nps.gov/dena/planyourvisit/basicinfo.htm",
+   "d": "hard"
+  },
+  {
+   "id": "rt-064",
+   "q": "Which southern Utah town is nicknamed 'Little Hollywood' for all the westerns filmed there?",
+   "a": "Kanab",
+   "w": [
+    "Moab",
+    "Springdale",
+    "Escalante"
+   ],
+   "f": "Movies and TV shows like The Outlaw Josey Wales and Gunsmoke were filmed around Kanab.",
+   "s": "Kane County Office of Tourism",
+   "u": "https://www.visitsouthernutah.com/little-hollywood/",
+   "d": "medium"
+  },
+  {
+   "id": "rt-018",
+   "q": "In the 1964 Alaska earthquake, what happened to 20 miles of the Seward Highway?",
+   "a": "It sank 5 to 9 feet",
+   "w": [
+    "It split in half lengthwise",
+    "It was buried by a glacier",
+    "It rose 20 feet"
+   ],
+   "f": "The sunken road ended up below the high-water mark of Turnagain Arm.",
+   "s": "Alaska DOT&PF: Seward Highway",
+   "u": "https://dot.alaska.gov/dmio/scenic/byways-seward.shtml",
+   "d": "hard"
+  },
+  {
+   "id": "rt-055",
+   "q": "Why are the drivers of Glacier's historic red buses called 'jammers'?",
+   "a": "For the sound of jamming gears on steep grades",
+   "w": [
+    "They play music on tours",
+    "They pack in as many riders as possible",
+    "They clear traffic jams"
+   ],
+   "f": "The red buses have carried visitors over Going-to-the-Sun Road since the 1930s.",
+   "s": "National Park Service: Glacier Former Artists-in-Residence",
+   "u": "https://www.nps.gov/glac/getinvolved/former-artists-in-residence.htm",
+   "d": "medium"
+  },
+  {
+   "id": "rt-079",
+   "q": "About how many miles of Route 66 run through Kansas?",
+   "a": "About 13",
+   "w": [
+    "About 100",
+    "About 300",
+    "None"
+   ],
+   "f": "It's the shortest state stretch, running through Galena, Riverton and Baxter Springs.",
+   "s": "National Park Service: Route 66 in Kansas",
+   "u": "https://ncptt.nps.gov/rt66/history-and-significance-of-us-route-66/kansas/kansascontext/",
+   "d": "easy"
+  },
+  {
+   "id": "rt-042",
+   "q": "New Hampshire's Kancamagus Highway (Route 112) runs between Lincoln and which town?",
+   "a": "Conway",
+   "w": [
+    "North Conway",
+    "Littleton",
+    "Bretton Woods"
+   ],
+   "f": "The highway runs through the White Mountain National Forest, with campgrounds and historic sites along the way.",
+   "s": "U.S. Forest Service: Russell-Colbath Historic Site",
+   "u": "https://www.fs.usda.gov/r09/whitemountain/recreation/russell-colbath-historic-site",
+   "d": "hard"
+  },
+  {
+   "id": "rt-016",
+   "q": "The Icefields Parkway links Lake Louise with which town?",
+   "a": "Jasper",
+   "w": [
+    "Banff",
+    "Canmore",
+    "Golden"
+   ],
+   "f": "The parkway (Highway 93 North) runs 232 km (144 miles), and there's only one gas station along the whole drive.",
+   "s": "Parks Canada: Travelling the Icefields Parkway",
+   "u": "https://parks.canada.ca/pn-np/ab/banff/visit/promenadedesglaciers-icefieldsparkway",
+   "d": "medium"
+  },
+  {
+   "id": "rt-101",
+   "d": "hard",
+   "q": "Who helped build the Big Sur stretch of Highway 1, finished in 1937?",
+   "a": "Prison inmates",
+   "w": [
+    "Army soldiers",
+    "Railroad crews",
+    "College students"
+   ],
+   "f": "San Quentin set up road camps, and inmates earned shorter sentences for their work.",
+   "s": "Federal Highway Administration: Highway One",
+   "u": "https://www.fhwa.dot.gov/infrastructure/back0403.cfm"
+  },
+  {
+   "id": "rt-020",
+   "q": "Iron Mountain Road is famous for 'pigtail bridges.' What do they do?",
+   "a": "Loop the road a full 360 degrees",
+   "w": [
+    "Swing open for boats",
+    "Cross the same creek twice",
+    "Carry cars and trains together"
+   ],
+   "f": "The road has three of these corkscrew bridges, which climb steep slopes in a tight spiral.",
+   "s": "U.S. Forest Service: Black Hills FAQs",
+   "u": "https://www.fs.usda.gov/r02/blackhills/about-area/faqs",
+   "d": "medium"
   }
  ]
 }

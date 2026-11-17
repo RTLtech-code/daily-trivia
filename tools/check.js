@@ -9,6 +9,8 @@ for (const f of fs.readdirSync(qdir).filter(f => f.endsWith(".json"))) {
   bank.items.forEach((i, n) => {
     const problems = [];
     if (!i || !i.id || !i.q || !i.a || !i.f || !i.s) problems.push("missing field");
+    if (!["easy","medium","hard"].includes(i.d)) problems.push("missing difficulty");
+    if (n > 0 && i.d === "hard" && bank.items[n - 1].d === "hard") problems.push("two hard days in a row");
     if (!Array.isArray(i.w) || i.w.length !== 3) problems.push("needs 3 wrong answers");
     else if (i.w.includes(i.a) || new Set(i.w).size !== 3) problems.push("duplicate choice");
     if (!/^https:\/\//.test(i.u || "")) problems.push("source URL");
