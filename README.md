@@ -18,3 +18,7 @@ One question a day in three categories (Yellowstone, National Parks, Road Trips)
 
 ## Accessibility
 Built to WCAG 2.2 AA. Text contrast is at least 4.5:1 and controls are at least 3:1. The tabs work with the keyboard (arrow keys, Home and End). Right and wrong answers use text and symbols, not just color. Results are announced to screen readers, there is a visible focus outline, and touch targets are at least 44px. axe-core found 0 violations (Nov 17, 2026).
+
+## Icon credits
+- Bison (Yellowstone): from [Fluent Emoji High Contrast](https://github.com/microsoft/fluentui-emoji), Copyright (c) Microsoft Corporation, under the MIT License. The notice is kept in the code block's opening comment.
+- The pine-and-peak (National Parks) and winding road (Road Trips) icons were drawn for this project.
