@@ -728,6 +728,214 @@
    "f": "The road's north entrance starts inside the Mount Rushmore National Memorial boundary.",
    "s": "National Park Service: Iron Mountain Road",
    "u": "https://www.nps.gov/places/iron-mountain-road-north-entrance.htm"
+  },
+  {
+   "id": "rt-057",
+   "q": "The Chain of Rocks Bridge, a Route 66 landmark over the Mississippi, is famous for what?",
+   "a": "A 30-degree bend in the middle",
+   "w": [
+    "Being made of glass",
+    "Being the first toll-free bridge",
+    "A drawbridge that lifts for barges"
+   ],
+   "f": "Weak bedrock under the straight route forced the bend. Today the bridge is open to walkers and cyclists.",
+   "s": "National Park Service: Chain of Rocks Bridge",
+   "u": "https://www.nps.gov/places/chain-of-rocks-bridge.htm"
+  },
+  {
+   "id": "rt-058",
+   "q": "How many people a day can win a permit to hike to The Wave near Kanab?",
+   "a": "64",
+   "w": [
+    "8",
+    "250",
+    "Unlimited"
+   ],
+   "f": "48 spots go through an advance lottery and 16 through a daily lottery, in groups of up to 6 people.",
+   "s": "Bureau of Land Management: The Wave",
+   "u": "https://www.blm.gov/programs/recreation/permits-and-passes/lotteries-and-permit-systems/arizona/coyote-buttes"
+  },
+  {
+   "id": "rt-059",
+   "q": "Coral Pink Sand Dunes, near Kanab, get their color from which eroding rock?",
+   "a": "Navajo Sandstone",
+   "w": [
+    "Granite",
+    "Limestone",
+    "Basalt"
+   ],
+   "f": "Wind speeds up through a notch between two mountains, picks up the sand, then drops it in the valley. The dunes can move up to 50 feet a year.",
+   "s": "Utah State Parks: Coral Pink Sand Dunes",
+   "u": "https://stateparks.utah.gov/parks/coral-pink/discover/"
+  },
+  {
+   "id": "rt-060",
+   "q": "The Natchez Trace Parkway's Double Arch Bridge, near Nashville, won what in 1995?",
+   "a": "A Presidential Award for Design Excellence",
+   "w": [
+    "The title of world's longest bridge",
+    "An Olympic architecture medal",
+    "A Pulitzer Prize"
+   ],
+   "f": "It spans Birdsong Hollow at milepost 438 and opened in 1994.",
+   "s": "National Park Service: Double Arch Bridge",
+   "u": "https://www.nps.gov/natr/learn/double-arch-bridge-at-birdsong-hollow.htm"
+  },
+  {
+   "id": "rt-061",
+   "q": "What closed the Denali Park Road at its midpoint in 2021?",
+   "a": "The Pretty Rocks landslide",
+   "w": [
+    "A wildfire",
+    "A glacier surge",
+    "A bridge collapse from a flood"
+   ],
+   "f": "A new bridge over the slide was finished in 2026, and buses are expected to reach the west end again in 2027.",
+   "s": "National Park Service: Denali Expands Visitor Access",
+   "u": "https://www.nps.gov/dena/learn/news/national-park-service-expands-visitor-access-at-denali-national-park-and-preserve.htm"
+  },
+  {
+   "id": "rt-062",
+   "q": "Yoho's Spiral Tunnels let trains loop inside which two mountains?",
+   "a": "Mount Ogden and Cathedral Mountain",
+   "w": [
+    "Mount Robson and Mount Edith Cavell",
+    "Mount Rundle and Cascade Mountain",
+    "Mount Temple and Mount Victoria"
+   ],
+   "f": "The tunnels opened in 1909 to cut the grade of the dangerous 'Big Hill' in half. You can watch trains from a pullout on the Trans-Canada Highway.",
+   "s": "Parks Canada: Spiral Tunnels",
+   "u": "https://parks.canada.ca/pn-np/bc/yoho/culture/kickinghorse/visit/spirale-spiral"
+  },
+  {
+   "id": "rt-063",
+   "q": "Canada's national park system began in 1885 with a reserve around what?",
+   "a": "Hot springs in Banff",
+   "w": [
+    "Niagara Falls",
+    "Lake Louise",
+    "The Columbia Icefield"
+   ],
+   "f": "Railway workers stumbled on the Cave and Basin springs in 1883, which led to Canada's first national park.",
+   "s": "Parks Canada: Cave and Basin",
+   "u": "https://parks.canada.ca/lhn-nhs/ab/caveandbasin/culture/heritage-legacy"
+  },
+  {
+   "id": "rt-064",
+   "q": "Which southern Utah town is nicknamed 'Little Hollywood' for all the westerns filmed there?",
+   "a": "Kanab",
+   "w": [
+    "Moab",
+    "Springdale",
+    "Escalante"
+   ],
+   "f": "Movies and TV shows like The Outlaw Josey Wales and Gunsmoke were filmed around Kanab.",
+   "s": "Kane County Office of Tourism",
+   "u": "https://www.visitsouthernutah.com/little-hollywood/"
+  },
+  {
+   "id": "rt-065",
+   "q": "In 1914, Massachusetts named which road a scenic tourist route?",
+   "a": "The Mohawk Trail",
+   "w": [
+    "The Kancamagus Highway",
+    "The Old King's Highway",
+    "The Merritt Parkway"
+   ],
+   "f": "It follows Route 2 through the Berkshires from Charlemont to North Adams.",
+   "s": "National Park Service: Mohawk Trail",
+   "u": "https://www.nps.gov/places/mohawk-trail.htm"
+  },
+  {
+   "id": "rt-066",
+   "q": "What is the highest point on the Icefields Parkway?",
+   "a": "Bow Summit",
+   "w": [
+    "Sunwapta Pass",
+    "Kicking Horse Pass",
+    "Athabasca Pass"
+   ],
+   "f": "Bow Summit is at about 2,070 m, near the famous Peyto Lake viewpoint.",
+   "s": "Parks Canada: Trails on the Icefields Parkway",
+   "u": "https://parks.canada.ca/pn-np/ab/banff/activ/randonnee-hiking/93n"
+  },
+  {
+   "id": "rt-067",
+   "q": "Which old gristmill at milepost 176 is one of the most photographed spots on the Blue Ridge Parkway?",
+   "a": "Mabry Mill",
+   "w": [
+    "Mingus Mill",
+    "Grist Mill at Peaks of Otter",
+    "Cades Cove Mill"
+   ],
+   "f": "Its slowly turning waterwheel and millpond draw several hundred thousand visitors a year.",
+   "s": "National Park Service: Mabry Mill",
+   "u": "https://www.nps.gov/places/mabry-mill.htm"
+  },
+  {
+   "id": "rt-068",
+   "q": "Cars and trains take turns in which Alaska tunnel, the longest highway tunnel in North America?",
+   "a": "The Whittier Tunnel",
+   "w": [
+    "The Seward Tunnel",
+    "The Chugach Tunnel",
+    "The Kenai Tunnel"
+   ],
+   "f": "The 2.5-mile Anton Anderson Memorial Tunnel is Whittier's only road link, and it's Alaska's only toll road.",
+   "s": "Alaska DOT&PF: Whittier Tunnel",
+   "u": "https://dot.alaska.gov/creg/whittiertunnel/history.shtml"
+  },
+  {
+   "id": "rt-069",
+   "q": "In 1913, the first car drove Alaska's Richardson Highway from Fairbanks to Valdez. How long did it take?",
+   "a": "59 hours",
+   "w": [
+    "9 hours",
+    "3 weeks",
+    "2 months"
+   ],
+   "f": "Robert Sheldon made the drive in a Ford Model T. The route began as a trail in the 1890s gold rush era.",
+   "s": "Alaska DOT&PF: Richardson Highway",
+   "u": "https://dot.alaska.gov/highways/richardson/"
+  },
+  {
+   "id": "rt-070",
+   "q": "What is the highest point on the entire Trans-Canada Highway?",
+   "a": "Kicking Horse Pass",
+   "w": [
+    "Rogers Pass",
+    "Bow Summit",
+    "Crowsnest Pass"
+   ],
+   "f": "At 1,627 m, the pass sits right on the border between Banff and Yoho national parks.",
+   "s": "Parks Canada: Spiral Tunnels",
+   "u": "https://parks.canada.ca/pn-np/bc/yoho/culture/kickinghorse/visit/spirale-spiral"
+  },
+  {
+   "id": "rt-071",
+   "q": "How far into Denali National Park can you drive your own car on the Park Road?",
+   "a": "Mile 15, at Savage River",
+   "w": [
+    "Mile 92, the end of the road",
+    "Mile 3, the visitor center",
+    "You can't drive in at all"
+   ],
+   "f": "The road is 92 miles long. Beyond Savage River you ride a bus.",
+   "s": "National Park Service: Denali Basic Information",
+   "u": "https://www.nps.gov/dena/planyourvisit/basicinfo.htm"
+  },
+  {
+   "id": "rt-072",
+   "q": "Acadia's Park Loop Road is how long?",
+   "a": "27 miles",
+   "w": [
+    "7 miles",
+    "45 miles",
+    "105 miles"
+   ],
+   "f": "It starts at Hulls Cove and reaches Sand Beach, Jordan Pond and Cadillac Mountain. Allow 3 to 4 hours with stops.",
+   "s": "National Park Service: Park Loop Road",
+   "u": "https://www.nps.gov/acad/planyourvisit/park-loop-road.htm"
   }
  ]
 }

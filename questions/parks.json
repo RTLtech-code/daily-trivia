@@ -767,6 +767,227 @@
    "f": "You can eat ripe fruit in the Fruita orchards for free. Fruit you take with you is paid for at a self-pay station.",
    "s": "National Park Service: Capitol Reef Orchards",
    "u": "https://www.nps.gov/care/learn/historyculture/orchards.htm"
+  },
+  {
+   "id": "np-060",
+   "q": "What do you need to climb the cables to the top of Yosemite's Half Dome?",
+   "a": "A permit from a lottery",
+   "w": [
+    "A climbing guide",
+    "A rope certification",
+    "Nothing, it's first come, first served"
+   ],
+   "f": "There's a preseason lottery in March and daily lotteries during the season.",
+   "s": "National Park Service: Half Dome Permits",
+   "u": "https://www.nps.gov/yose/planyourvisit/hdpermits.htm"
+  },
+  {
+   "id": "np-061",
+   "q": "Death Valley holds the world record for the hottest air temperature ever measured. What was it?",
+   "a": "134°F",
+   "w": [
+    "118°F",
+    "126°F",
+    "142°F"
+   ],
+   "f": "It was recorded at Furnace Creek on July 10, 1913.",
+   "s": "National Park Service: Death Valley Weather",
+   "u": "https://www.nps.gov/deva/learn/nature/weather-and-climate.htm"
+  },
+  {
+   "id": "np-062",
+   "q": "Dr. Samuel Mudd, convicted after Lincoln's assassination, was imprisoned at which national park fort?",
+   "a": "Fort Jefferson (Dry Tortugas)",
+   "w": [
+    "Fort Sumter",
+    "Fort Point",
+    "Fort Pulaski"
+   ],
+   "f": "During an 1867 yellow fever outbreak, Mudd cared for sick soldiers and prisoners. He was pardoned in 1869.",
+   "s": "National Park Service: Dr. Samuel Mudd",
+   "u": "https://www.nps.gov/drto/learn/historyculture/dr-samuel-mudd.htm"
+  },
+  {
+   "id": "np-063",
+   "q": "What makes the 'sailing stones' slide across Death Valley's Racetrack Playa?",
+   "a": "Thin sheets of ice pushed by wind",
+   "w": [
+    "Earthquakes",
+    "Magnetism",
+    "Dust devils"
+   ],
+   "f": "Scientists first watched it happen in 2014. Some rocks weigh up to 700 pounds.",
+   "s": "National Park Service: Sailing Stones",
+   "u": "https://www.nps.gov/deva/learn/news/racetrack.htm"
+  },
+  {
+   "id": "np-064",
+   "q": "How many historic bathhouses line Bathhouse Row in Hot Springs National Park?",
+   "a": "Eight",
+   "w": [
+    "Three",
+    "Twelve",
+    "Twenty"
+   ],
+   "f": "The Buckstaff is the only one that has run continuously for over a century.",
+   "s": "National Park Service: Bathhouse Row Today",
+   "u": "https://www.nps.gov/hosp/learn/historyculture/bathhouse-row-today.htm"
+  },
+  {
+   "id": "np-065",
+   "q": "About 40% of which Minnesota national park is water?",
+   "a": "Voyageurs",
+   "w": [
+    "Isle Royale",
+    "Apostle Islands",
+    "Indiana Dunes"
+   ],
+   "f": "Houseboats are a popular way to explore it. They're rented from outfitters just outside the park.",
+   "s": "National Park Service: Houseboating in Voyageurs",
+   "u": "https://www.nps.gov/voya/planyourvisit/houseboating.htm"
+  },
+  {
+   "id": "np-066",
+   "q": "Which park has more glaciers than any other U.S. protected area outside Alaska?",
+   "a": "North Cascades",
+   "w": [
+    "Glacier",
+    "Mount Rainier",
+    "Olympic"
+   ],
+   "f": "The park holds about a quarter of all the glaciers in the lower 48 states.",
+   "s": "National Park Service: North Cascades Glaciers",
+   "u": "https://www.nps.gov/noca/learn/nature/glaciers.htm"
+  },
+  {
+   "id": "np-067",
+   "q": "Which two rivers divide Canyonlands National Park into its districts?",
+   "a": "The Green and the Colorado",
+   "w": [
+    "The Snake and the Columbia",
+    "The San Juan and the Virgin",
+    "The Gunnison and the Arkansas"
+   ],
+   "f": "No roads cross the rivers inside the park, so driving between districts can take 2 to 6 hours.",
+   "s": "National Park Service: Canyonlands Places to Go",
+   "u": "https://www.nps.gov/cany/planyourvisit/placestogo.htm"
+  },
+  {
+   "id": "np-068",
+   "q": "The highest peak in the contiguous United States sits on the edge of which national park?",
+   "a": "Sequoia",
+   "w": [
+    "Yosemite",
+    "Rocky Mountain",
+    "Mount Rainier"
+   ],
+   "f": "Mount Whitney rises to 14,505 feet on the park's eastern boundary.",
+   "s": "National Park Service: Mt. Whitney",
+   "u": "https://www.nps.gov/seki/planyourvisit/whitney.htm"
+  },
+  {
+   "id": "np-069",
+   "q": "Great Smoky Mountains National Park is nicknamed the world capital of which animal?",
+   "a": "Salamanders",
+   "w": [
+    "Black bears",
+    "Fireflies",
+    "Hummingbirds"
+   ],
+   "f": "The park has more salamander species than any other place on Earth, including the red-cheeked salamander, which lives nowhere else.",
+   "s": "National Park Service: Great Smoky Mountains FAQs",
+   "u": "https://www.nps.gov/grsm/faqs.htm"
+  },
+  {
+   "id": "np-070",
+   "q": "Petrified Forest's fossil logs date to which era of Earth's history?",
+   "a": "The Late Triassic, more than 200 million years ago",
+   "w": [
+    "The Ice Age, 20,000 years ago",
+    "The Cretaceous, 70 million years ago",
+    "The Cambrian, 500 million years ago"
+   ],
+   "f": "The trees fell into ancient rivers about 216 million years ago, then slowly turned to stone.",
+   "s": "National Park Service: Giant Logs",
+   "u": "https://www.nps.gov/places/giant-logs-trail-stop-1.htm"
+  },
+  {
+   "id": "np-071",
+   "q": "How are supplies carried down to Phantom Ranch at the bottom of the Grand Canyon?",
+   "a": "By mule",
+   "w": [
+    "By helicopter only",
+    "By cable car",
+    "By river barge"
+   ],
+   "f": "Mule trains also pack supplies for trail crews and ranger stations deep in the canyon.",
+   "s": "National Park Service: Mule Trips",
+   "u": "https://www.nps.gov/grca/planyourvisit/mule_trips.htm"
+  },
+  {
+   "id": "np-072",
+   "q": "Carlsbad Caverns' Big Room is the largest what in North America?",
+   "a": "Cave chamber",
+   "w": [
+    "Underground lake",
+    "Stalactite",
+    "Bat colony"
+   ],
+   "f": "Its floor covers about 8.2 acres, and a self-guided trail loops around it.",
+   "s": "National Park Service: Carlsbad Cavern",
+   "u": "https://www.nps.gov/places/carlsbad-cavern.htm"
+  },
+  {
+   "id": "np-073",
+   "q": "Since about 1750, Glacier Bay's ice has retreated roughly how far?",
+   "a": "About 65 miles",
+   "w": [
+    "About 6 miles",
+    "About 300 miles",
+    "It has grown"
+   ],
+   "f": "When Captain Vancouver's crew passed in 1794, the bay was just a small dent in a huge glacier.",
+   "s": "National Park Service: Glacier Bay's Glacial History",
+   "u": "https://www.nps.gov/glba/learn/nature/glacier-bay-s-glacial-history.htm"
+  },
+  {
+   "id": "np-074",
+   "q": "Since 2022, what do you need to hike the final chained section of Zion's Angels Landing?",
+   "a": "A permit",
+   "w": [
+    "A helmet",
+    "A ranger escort",
+    "A climbing harness"
+   ],
+   "f": "Without a permit you can still hike as far as Scout Lookout.",
+   "s": "National Park Service: Angels Landing Permits",
+   "u": "https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm"
+  },
+  {
+   "id": "np-075",
+   "q": "Which Alaska national park has the largest active sand dune field in arctic North America?",
+   "a": "Kobuk Valley",
+   "w": [
+    "Lake Clark",
+    "Katmai",
+    "Kenai Fjords"
+   ],
+   "f": "Caribou herds cross the Great Kobuk Sand Dunes on their spring and fall migrations.",
+   "s": "National Park Service: Great Kobuk Sand Dunes",
+   "u": "https://www.nps.gov/kova/learn/nature/great-kobuk-sand-dunes.htm"
+  },
+  {
+   "id": "np-076",
+   "q": "Alaska's Kennecott, inside Wrangell–St. Elias, is a historic mill town for mining which metal?",
+   "a": "Copper",
+   "w": [
+    "Gold",
+    "Silver",
+    "Coal"
+   ],
+   "f": "From 1911 to 1938, nearly $200 million worth of copper was processed in its 14-story mill.",
+   "s": "National Park Service: Kennecott Mines",
+   "u": "https://www.nps.gov/wrst/learn/historyculture/kennecott-mines-national-historic-landmark.htm"
   }
  ]
 }

@@ -16,18 +16,29 @@
 #rtl-trivia .rtl-eyebrow{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-dark);font-weight:700}
 #rtl-trivia h2.rtl-title{font-size:clamp(28px,6vw,38px);font-weight:400;line-height:1.15;margin:4px 0}
 #rtl-trivia .rtl-date{color:var(--muted);font-size:15px}
-#rtl-trivia .rtl-tabs{display:flex;gap:4px;background:var(--track);padding:4px;border-radius:999px;margin:0 0 16px}
-#rtl-trivia .rtl-tab{flex:1 1 0;min-height:44px;border:0;background:transparent;font-size:15px;font-weight:700;color:var(--ink);padding:8px 6px;border-radius:999px;cursor:pointer}
-#rtl-trivia .rtl-tab:hover{background:rgba(255,255,255,.6)}
-#rtl-trivia .rtl-tab[aria-selected="true"]{background:var(--sage);color:#fff}
-#rtl-trivia .rtl-check{display:inline-block;margin-left:4px}
-#rtl-trivia .rtl-card{background:var(--card);border:1px solid var(--track);border-radius:16px;padding:22px}
+/* Category colors (white text on each is 6.3:1 or better; each is 4.5:1+ on the site background) */
+#rtl-trivia{--c-yellowstone:#8a5300;--t-yellowstone:#fbf1df;--c-parks:#2f6136;--t-parks:#e6f0e4;--c-roadtrips:#245b8a;--t-roadtrips:#e3edf6;--cat:var(--c-yellowstone);--cat-tint:var(--t-yellowstone)}
+#rtl-trivia[data-cat="parks"]{--cat:var(--c-parks);--cat-tint:var(--t-parks)}
+#rtl-trivia[data-cat="roadtrips"]{--cat:var(--c-roadtrips);--cat-tint:var(--t-roadtrips)}
+#rtl-trivia .rtl-pick-label{font-size:17px;font-weight:700;text-align:center;margin:0 0 10px}
+#rtl-trivia .rtl-tabs{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:0 0 18px}
+#rtl-trivia .rtl-tab{--tc:var(--c-yellowstone);--tt:var(--t-yellowstone);display:flex;flex-direction:column;align-items:center;gap:6px;min-height:44px;border:2px solid var(--tc);background:#fff;color:var(--ink);padding:14px 8px 12px;border-radius:14px;cursor:pointer;text-align:center;position:relative}
+#rtl-trivia .rtl-tab[data-cat="parks"]{--tc:var(--c-parks);--tt:var(--t-parks)}
+#rtl-trivia .rtl-tab[data-cat="roadtrips"]{--tc:var(--c-roadtrips);--tt:var(--t-roadtrips)}
+#rtl-trivia .rtl-tab:hover{background:var(--tt)}
+#rtl-trivia .rtl-tab[aria-selected="true"]{background:var(--tc);color:#fff;box-shadow:0 4px 10px rgba(0,0,0,.18)}
+#rtl-trivia .rtl-icon{width:30px;height:30px;color:var(--tc)}
+#rtl-trivia .rtl-tab[aria-selected="true"] .rtl-icon{color:#fff}
+#rtl-trivia .rtl-tab-name{font-size:17px;font-weight:700;line-height:1.2}
+#rtl-trivia .rtl-tab-status{font-size:13px;line-height:1.2}
+#rtl-trivia .rtl-card{background:var(--card);border:1px solid var(--track);border-top:6px solid var(--cat);border-radius:16px;padding:22px}
 #rtl-trivia .rtl-meta{display:flex;flex-wrap:wrap;gap:6px;justify-content:space-between;font-size:14px;color:var(--muted);margin-bottom:10px}
-#rtl-trivia .rtl-streak{font-weight:700;color:var(--sage-dark)}
+#rtl-trivia .rtl-meta .rtl-cat-name{font-weight:700;color:var(--cat)}
+#rtl-trivia .rtl-streak{font-weight:700;color:var(--cat)}
 #rtl-trivia .rtl-q{font-size:clamp(20px,4.8vw,24px);line-height:1.35;margin:0 0 18px}
 #rtl-trivia .rtl-opts{display:grid;gap:10px;list-style:none;margin:0;padding:0}
 #rtl-trivia .rtl-opt{display:flex;align-items:center;gap:12px;width:100%;min-height:52px;text-align:left;border:2px solid var(--line);background:#fff;border-radius:12px;padding:12px 14px;font-size:17px;cursor:pointer}
-#rtl-trivia .rtl-opt:hover:not([aria-disabled="true"]){border-color:var(--sage-dark);background:var(--soft)}
+#rtl-trivia .rtl-opt:hover:not([aria-disabled="true"]){border-color:var(--cat);background:var(--cat-tint)}
 #rtl-trivia .rtl-opt[aria-disabled="true"]{cursor:default}
 #rtl-trivia .rtl-letter{flex:none;width:30px;height:30px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center;font-weight:700;font-size:14px}
 #rtl-trivia .rtl-tag{margin-left:auto;font-size:14px;font-weight:700;white-space:nowrap}
@@ -40,12 +51,12 @@
 #rtl-trivia .rtl-verdict{font-size:21px;font-weight:700;margin:0 0 10px}
 #rtl-trivia .rtl-verdict:focus{outline:none}
 #rtl-trivia .rtl-verdict.good{color:var(--good)} #rtl-trivia .rtl-verdict.bad{color:var(--bad)}
-#rtl-trivia .rtl-fact{background:var(--soft);border-left:4px solid var(--sage);padding:12px 14px;border-radius:0 10px 10px 0;margin:0 0 14px;font-size:16px}
+#rtl-trivia .rtl-fact{background:var(--cat-tint);border-left:4px solid var(--cat);padding:12px 14px;border-radius:0 10px 10px 0;margin:0 0 14px;font-size:16px}
 #rtl-trivia .rtl-source{margin-top:8px;font-size:14px;color:var(--muted)}
 #rtl-trivia .rtl-source a{color:var(--link);text-decoration:underline;text-underline-offset:2px}
 #rtl-trivia .rtl-row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between}
-#rtl-trivia .rtl-btn{min-height:44px;border:0;background:var(--sage);color:#fff;font-weight:700;font-size:16px;padding:10px 20px;border-radius:999px;cursor:pointer}
-#rtl-trivia .rtl-btn:hover{background:var(--sage-dark)}
+#rtl-trivia .rtl-btn{min-height:44px;border:0;background:var(--cat);color:#fff;font-weight:700;font-size:16px;padding:10px 20px;border-radius:999px;cursor:pointer}
+#rtl-trivia .rtl-btn:hover{filter:brightness(.85)}
 #rtl-trivia .rtl-next{font-size:14px;color:var(--muted)}
 #rtl-trivia .rtl-msg{color:var(--muted);font-size:16px}
 #rtl-trivia .rtl-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0 0;padding:0}
@@ -56,7 +67,12 @@
 #rtl-trivia .rtl-foot{text-align:center;color:var(--muted);font-size:14px;margin-top:14px}
 #rtl-trivia .rtl-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:10px 16px;border-radius:999px;font-size:15px;z-index:9999}
 #rtl-trivia .rtl-toast:empty{display:none}
-@media (max-width:420px){#rtl-trivia .rtl-card{padding:16px} #rtl-trivia .rtl-tab{font-size:14px;padding:6px 4px}}
+@media (max-width:480px){
+  #rtl-trivia .rtl-card{padding:16px}
+  #rtl-trivia .rtl-tabs{grid-template-columns:1fr;gap:8px}
+  #rtl-trivia .rtl-tab{flex-direction:row;justify-content:flex-start;gap:12px;padding:10px 14px;text-align:left}
+  #rtl-trivia .rtl-tab-status{margin-left:auto}
+}
 @media (prefers-reduced-motion:no-preference){#rtl-trivia .rtl-opt,#rtl-trivia .rtl-tab,#rtl-trivia .rtl-btn{transition:background-color .15s,border-color .15s}}
 </style>
 
@@ -66,10 +82,20 @@
     <h2 class="rtl-title" id="rtl-title">Daily Trivia</h2>
     <p class="rtl-date" data-el="date"></p>
   </div>
-  <div class="rtl-tabs" role="tablist" aria-label="Trivia category">
-    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-yellowstone" aria-controls="rtl-panel" data-cat="yellowstone">Yellowstone<span class="rtl-check"></span></button>
-    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-parks" aria-controls="rtl-panel" data-cat="parks">National Parks<span class="rtl-check"></span></button>
-    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-roadtrips" aria-controls="rtl-panel" data-cat="roadtrips">Road Trips<span class="rtl-check"></span></button>
+  <p class="rtl-pick-label" id="rtl-pick">Pick a category</p>
+  <div class="rtl-tabs" role="tablist" aria-labelledby="rtl-pick">
+    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-yellowstone" aria-controls="rtl-panel" data-cat="yellowstone">
+      <svg class="rtl-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M3 21l4-6h10l4 6H3zM10.4 15c0-4-1.6-6.2 1.6-12 3.2 5.8 1.6 8 1.6 12h-3.2z"/><circle fill="currentColor" cx="6.5" cy="8.5" r="1.4"/><circle fill="currentColor" cx="17.5" cy="8.5" r="1.4"/><circle fill="currentColor" cx="8" cy="4.5" r="1"/><circle fill="currentColor" cx="16" cy="4.5" r="1"/></svg>
+      <span class="rtl-tab-name">Yellowstone</span><span class="rtl-tab-status"></span>
+    </button>
+    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-parks" aria-controls="rtl-panel" data-cat="parks">
+      <svg class="rtl-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12 2 6 10h3l-4 6h5v4h4v-4h5l-4-6h3L12 2z"/></svg>
+      <span class="rtl-tab-name">National Parks</span><span class="rtl-tab-status"></span>
+    </button>
+    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-roadtrips" aria-controls="rtl-panel" data-cat="roadtrips">
+      <svg class="rtl-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M9 3h2l-1 18H5L9 3zm4 0h2l4 18h-5l-1-18zm-1.6 4h1.2l.2 3h-1.6l.2-3zm-.4 6h2l.2 4h-2.4l.2-4z"/></svg>
+      <span class="rtl-tab-name">Road Trips</span><span class="rtl-tab-status"></span>
+    </button>
   </div>
   <div class="rtl-card" id="rtl-panel" role="tabpanel" tabindex="-1">
     <p class="rtl-msg" data-el="msg">Loading today's question…</p>
@@ -92,7 +118,7 @@
     <div class="rtl-stat"><dt>Correct</dt><dd data-el="pct">0%</dd></div>
     <div class="rtl-stat"><dt>Best streak</dt><dd data-el="best">0</dd></div>
   </dl>
-  <p class="rtl-foot">A new question in every category each day at midnight. Every answer links to an official source.</p>
+  <p class="rtl-foot">A new question in every category each day at midnight.</p>
   <div class="rtl-toast" data-el="toast" role="status" aria-live="polite"></div>
 </section>
 
@@ -137,8 +163,9 @@ function renderTabs(){
   root.querySelectorAll(".rtl-tab").forEach(function(t){
     var on = t.getAttribute("data-cat") === cat, done = answeredAny(t.getAttribute("data-cat"));
     t.setAttribute("aria-selected", on); t.tabIndex = on ? 0 : -1;
-    t.querySelector(".rtl-check").innerHTML = done ? '<span aria-hidden="true">✓</span><span class="rtl-sr"> (answered)</span>' : "";
+    t.querySelector(".rtl-tab-status").innerHTML = done ? '<span aria-hidden="true">✓ </span>Answered' : "Play today";
   });
+  root.setAttribute("data-cat", cat);
   root.querySelector("#rtl-panel").setAttribute("aria-labelledby", "rtl-tab-" + cat);
 }
 function renderStats(){
@@ -158,7 +185,8 @@ function render(focusVerdict){
     if (c !== cat) return;
     var q = current = questionFor(c, bank), ans = answerFor(c, q);
     $("msg").hidden = true; $("body").hidden = false;
-    $("qnum").textContent = LABELS[c] + " · Question #" + day;
+    $("qnum").innerHTML = '<span class="rtl-cat-name"></span> · Question #' + day;
+    $("qnum").firstChild.textContent = LABELS[c];
     $("question").textContent = q.q;
     var ul = $("opts"); ul.innerHTML = "";
     q.choices.forEach(function(choice, i){

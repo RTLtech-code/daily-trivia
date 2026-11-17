@@ -741,6 +741,227 @@
    "f": "Overfishing had helped cause the trout's decline, so the bridge closed to fishing in 1973. Now it's a good place to watch trout instead.",
    "s": "National Park Service: Fishing Bridge",
    "u": "https://www.nps.gov/places/000/fishing-bridge.htm"
+  },
+  {
+   "id": "ys-058",
+   "q": "How tall is Yellowstone's Tower Fall?",
+   "a": "132 feet",
+   "w": [
+    "48 feet",
+    "308 feet",
+    "520 feet"
+   ],
+   "f": "The waterfall is named for the tower-like rock spires at its brink.",
+   "s": "National Park Service: Tower–Roosevelt",
+   "u": "https://www.nps.gov/yell/planyourvisit/towerrplan.htm"
+  },
+  {
+   "id": "ys-059",
+   "q": "Yellowstone's Hayden Valley was once covered by what?",
+   "a": "An arm of Yellowstone Lake",
+   "w": [
+    "A glacier-fed river delta",
+    "A lava lake",
+    "A desert dune field"
+   ],
+   "f": "Lake sediments hold water near the surface, which keeps the valley marshy and full of grass for bison.",
+   "s": "National Park Service: Hayden Valley",
+   "u": "https://www.nps.gov/places/000/hayden-valley-overlook-at-yellowstone-river.htm"
+  },
+  {
+   "id": "ys-060",
+   "q": "About how often does Yellowstone's Lone Star Geyser erupt?",
+   "a": "About every 3 hours",
+   "w": [
+    "About every 10 minutes",
+    "About once a week",
+    "About once a year"
+   ],
+   "f": "It shoots 30 to 45 feet high from a 12-foot cone, at the end of a flat trail you can walk or bike.",
+   "s": "National Park Service: Lone Star Geyser Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-trail-lone-star-geyser.htm"
+  },
+  {
+   "id": "ys-061",
+   "q": "About how old are the fossil forests on Yellowstone's Specimen Ridge?",
+   "a": "About 50 million years",
+   "w": [
+    "About 5,000 years",
+    "About 500,000 years",
+    "About 500 million years"
+   ],
+   "f": "Scientists have counted at least 27 layers of fossil trees stacked in the ridge, many still standing upright.",
+   "s": "National Park Service: Fossil Plants of Yellowstone",
+   "u": "https://www.nps.gov/articles/000/the-incredible-fossil-plants-of-yellowstone-national-park.htm"
+  },
+  {
+   "id": "ys-062",
+   "q": "How fast can Yellowstone's pronghorn sprint?",
+   "a": "45 to 50 mph",
+   "w": [
+    "15 to 20 mph",
+    "25 to 30 mph",
+    "80 to 90 mph"
+   ],
+   "f": "That speed may be left over from a time when pronghorn had to outrun an American cheetah, which is now extinct.",
+   "s": "National Park Service: Pronghorn",
+   "u": "https://www.nps.gov/yell/learn/nature/pronghorn.htm"
+  },
+  {
+   "id": "ys-063",
+   "q": "Which Yellowstone lake is thought to be the largest lake in the lower 48 states that you can't reach by road?",
+   "a": "Shoshone Lake",
+   "w": [
+    "Lewis Lake",
+    "Heart Lake",
+    "Yellowstone Lake"
+   ],
+   "f": "Paddlers reach it from Lewis Lake. Motorboats aren't allowed on it.",
+   "s": "National Park Service: Shoshone Lake",
+   "u": "https://www.nps.gov/yell/learn/nature/shoshone-lake.htm"
+  },
+  {
+   "id": "ys-064",
+   "q": "In July 2024, a hydrothermal explosion destroyed a boardwalk in which Yellowstone geyser basin?",
+   "a": "Biscuit Basin",
+   "w": [
+    "Norris Geyser Basin",
+    "West Thumb Geyser Basin",
+    "Upper Geyser Basin"
+   ],
+   "f": "Water beneath Black Diamond Pool suddenly flashed to steam, throwing rocks and debris hundreds of feet into the air. Nobody was hurt.",
+   "s": "U.S. Geological Survey: Biscuit Basin Explosion",
+   "u": "https://www.usgs.gov/observatories/yvo/news/july-23-2024-hydrothermal-explosion-biscuit-basin"
+  },
+  {
+   "id": "ys-065",
+   "q": "In 1948, which Yellowstone mudpot exploded into the forest, blowing trees out by their roots?",
+   "a": "Black Dragon's Caldron",
+   "w": [
+    "Mud Volcano",
+    "Fountain Paint Pot",
+    "Artists' Paintpots"
+   ],
+   "f": "It covered the surrounding forest in mud and is still churning beside the Mud Volcano trail.",
+   "s": "National Park Service: Mud Volcano Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-mud-volcano-trails.htm"
+  },
+  {
+   "id": "ys-066",
+   "q": "About how long is the Grand Canyon of the Yellowstone?",
+   "a": "About 20 miles",
+   "w": [
+    "About 2 miles",
+    "About 75 miles",
+    "About 277 miles"
+   ],
+   "f": "It runs from the Upper Falls to the Tower Fall area and is 800 to 1,200 feet deep.",
+   "s": "National Park Service: Grand Canyon of the Yellowstone",
+   "u": "https://www.nps.gov/yell/learn/nature/grand-canyon.htm"
+  },
+  {
+   "id": "ys-067",
+   "q": "Which Yellowstone hot spring belches steam out of a cave like a dragon breathing smoke?",
+   "a": "Dragon's Mouth Spring",
+   "w": [
+    "Black Growler",
+    "Beryl Spring",
+    "Crested Pool"
+   ],
+   "f": "It's next to Mud Volcano, just north of Yellowstone Lake. Earlier names included 'The Belcher.'",
+   "s": "National Park Service: Dragon's Mouth Spring",
+   "u": "https://www.nps.gov/places/000/dragons-mouth-spring.htm"
+  },
+  {
+   "id": "ys-068",
+   "q": "The West Thumb of Yellowstone Lake is a caldera inside what?",
+   "a": "Another caldera",
+   "w": [
+    "A glacier valley",
+    "A meteor crater",
+    "An old riverbed"
+   ],
+   "f": "An eruption about 174,000 years ago created West Thumb, which is about the same size as Oregon's Crater Lake.",
+   "s": "National Park Service: West Thumb and the South",
+   "u": "https://www.nps.gov/yell/planyourvisit/westthumbgrantvillage.htm"
+  },
+  {
+   "id": "ys-069",
+   "q": "Kiowa tradition holds that at which Yellowstone hot spring their creator gave them the Yellowstone area?",
+   "a": "Dragon's Mouth Spring",
+   "w": [
+    "Grand Prismatic Spring",
+    "Morning Glory Pool",
+    "Mammoth Hot Springs"
+   ],
+   "f": "Many tribes have deep ties to Yellowstone, and 27 tribes are associated with the park today.",
+   "s": "National Park Service: Dragon's Mouth Spring",
+   "u": "https://www.nps.gov/places/000/dragons-mouth-spring.htm"
+  },
+  {
+   "id": "ys-070",
+   "q": "What is the largest wild waterfowl in North America, found in Yellowstone?",
+   "a": "Trumpeter swan",
+   "w": [
+    "Canada goose",
+    "Common loon",
+    "American white pelican"
+   ],
+   "f": "Their wingspan can reach 8 feet. Around 1930, a small group in the Greater Yellowstone area helped the species survive.",
+   "s": "National Park Service: Trumpeter Swan",
+   "u": "https://www.nps.gov/yell/learn/nature/trumpeter-swan.htm"
+  },
+  {
+   "id": "ys-071",
+   "q": "Excelsior Geyser Crater pours more than how much hot water per minute into the Firehole River?",
+   "a": "4,000 gallons",
+   "w": [
+    "40 gallons",
+    "400 gallons",
+    "40,000 gallons"
+   ],
+   "f": "Excelsior once erupted more than 300 feet high in the late 1800s. Today it acts as a giant hot spring.",
+   "s": "National Park Service: Excelsior Geyser Crater",
+   "u": "https://www.nps.gov/places/000/excelsior-geyser-crater.htm"
+  },
+  {
+   "id": "ys-072",
+   "q": "Which Yellowstone peak has a fire lookout staffed all summer that hikers can visit?",
+   "a": "Mount Washburn",
+   "w": [
+    "Eagle Peak",
+    "Electric Peak",
+    "Mount Sheridan"
+   ],
+   "f": "A lookout lives at the 10,219-foot summit from mid-June until fire season ends, watching for smoke.",
+   "s": "National Park Service: Mount Washburn",
+   "u": "https://www.nps.gov/places/000/mount-washburn.htm"
+  },
+  {
+   "id": "ys-073",
+   "q": "When grizzlies were listed as threatened in 1975, about how many lived in the Greater Yellowstone area?",
+   "a": "About 136",
+   "w": [
+    "About 12",
+    "About 1,000",
+    "About 5,000"
+   ],
+   "f": "By 2024 the population was estimated at about 1,030 bears.",
+   "s": "National Park Service: Forty Years of Grizzly Recovery",
+   "u": "https://www.nps.gov/yell/learn/forty-years-of-grizzly-bear-recovery.htm"
+  },
+  {
+   "id": "ys-074",
+   "q": "Yellowstone's Gibbon Falls tumbles over the remains of what?",
+   "a": "The rim of the Yellowstone Caldera",
+   "w": [
+    "An old Army dam",
+    "A glacier's edge",
+    "A lava tube"
+   ],
+   "f": "The falls drop 84 feet. The rock wall across the road is part of the caldera's inner rim.",
+   "s": "National Park Service: Gibbon Falls",
+   "u": "https://www.nps.gov/places/000/gibbon-falls.htm"
   }
  ]
 }
