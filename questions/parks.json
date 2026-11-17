@@ -988,6 +988,227 @@
    "f": "From 1911 to 1938, nearly $200 million worth of copper was processed in its 14-story mill.",
    "s": "National Park Service: Kennecott Mines",
    "u": "https://www.nps.gov/wrst/learn/historyculture/kennecott-mines-national-historic-landmark.htm"
+  },
+  {
+   "id": "np-077",
+   "q": "When is the best time to hear Acadia's Thunder Hole boom?",
+   "a": "One to two hours before high tide",
+   "w": [
+    "At low tide",
+    "At midnight",
+    "Right after it rains"
+   ],
+   "f": "Waves trap air in a small cave, and when it bursts out, spray can shoot more than 40 feet high.",
+   "s": "National Park Service: Thunder Hole",
+   "u": "https://www.nps.gov/places/thunder-hole.htm"
+  },
+  {
+   "id": "np-078",
+   "q": "In 1978, Mesa Verde and which other park became the first U.S. World Heritage Sites?",
+   "a": "Yellowstone",
+   "w": [
+    "Grand Canyon",
+    "Yosemite",
+    "Everglades"
+   ],
+   "f": "Mesa Verde was recognized for its Ancestral Pueblo cliff dwellings, and Yellowstone for its geysers and wildlife.",
+   "s": "National Park Service: Mesa Verde World Heritage",
+   "u": "https://www.nps.gov/meve/learn/management/worldheritage_meve.htm"
+  },
+  {
+   "id": "np-079",
+   "q": "About how many steps climb to the top of Sequoia's Moro Rock?",
+   "a": "About 350",
+   "w": [
+    "About 50",
+    "About 1,000",
+    "About 2,500"
+   ],
+   "f": "The historic staircase climbs about 300 feet to a granite summit with huge views.",
+   "s": "National Park Service: Moro Rock",
+   "u": "https://www.nps.gov/seki/planyourvisit/moro.htm"
+  },
+  {
+   "id": "np-080",
+   "q": "During the winter of 1971–72, how much snow fell at Paradise on Mount Rainier?",
+   "a": "1,122 inches",
+   "w": [
+    "122 inches",
+    "422 inches",
+    "2,500 inches"
+   ],
+   "f": "That's 93.5 feet. It held the world record for annual snowfall until 1998.",
+   "s": "National Park Service: Mount Rainier Snowfall",
+   "u": "https://www.nps.gov/mora/planyourvisit/annual-snowfall-totals.htm"
+  },
+  {
+   "id": "np-081",
+   "q": "Marjory Stoneman Douglas's famous 1947 book called the Everglades what?",
+   "a": "The River of Grass",
+   "w": [
+    "America's Swamp",
+    "The Sea of Sawgrass",
+    "The Glades of Gold"
+   ],
+   "f": "Everglades National Park was dedicated later that same year, in December 1947.",
+   "s": "National Park Service: Marjory Stoneman Douglas",
+   "u": "https://www.nps.gov/ever/learn/historyculture/msdouglas.htm"
+  },
+  {
+   "id": "np-082",
+   "q": "What is the 'Old Man of the Lake' at Crater Lake?",
+   "a": "A tree trunk that has floated upright for over 100 years",
+   "w": [
+    "A rock island shaped like a face",
+    "A legendary fish",
+    "An old ranger cabin"
+   ],
+   "f": "The 30-foot hemlock log was first recorded in 1896 and drifts around the lake on the wind.",
+   "s": "National Park Service: The Old Man",
+   "u": "https://www.nps.gov/crla/learn/nature/theoldman.htm"
+  },
+  {
+   "id": "np-083",
+   "q": "Isle Royale National Park closes to all visitors during what part of the year?",
+   "a": "November 1 to April 15",
+   "w": [
+    "Only on holidays",
+    "July and August",
+    "It never closes"
+   ],
+   "f": "Lake Superior's winter weather makes the island unsafe. Only wolf and moose researchers stay through the winter.",
+   "s": "National Park Service: Isle Royale Hours and Seasons",
+   "u": "https://www.nps.gov/isro/planyourvisit/hours.htm"
+  },
+  {
+   "id": "np-084",
+   "q": "Which endangered animal was reintroduced to Badlands National Park in 1994?",
+   "a": "Black-footed ferret",
+   "w": [
+    "Gray wolf",
+    "California condor",
+    "Swift fox"
+   ],
+   "f": "By the mid-1980s only 18 were left in the world. All of them were taken into captive breeding.",
+   "s": "National Park Service: Black-footed Ferret",
+   "u": "https://www.nps.gov/articles/000/black-footed-ferret-badl.htm"
+  },
+  {
+   "id": "np-085",
+   "q": "How much higher is the Grand Canyon's North Rim than the South Rim?",
+   "a": "About 1,000 feet",
+   "w": [
+    "About 100 feet",
+    "About 5,000 feet",
+    "They're the same height"
+   ],
+   "f": "The North Rim is so high that snow usually closes its road from late fall to mid-May.",
+   "s": "National Park Service: Grand Canyon FAQs",
+   "u": "https://www.nps.gov/grca/faqs.htm"
+  },
+  {
+   "id": "np-086",
+   "q": "Which giant sequoia was named 'the Nation's Christmas Tree' in 1926?",
+   "a": "General Grant",
+   "w": [
+    "General Sherman",
+    "President",
+    "Lincoln"
+   ],
+   "f": "It grows in Grant Grove in Kings Canyon National Park, and people still hike to it every December.",
+   "s": "National Park Service: The General Grant Tree",
+   "u": "https://www.nps.gov/seki/learn/nature/grant.htm"
+  },
+  {
+   "id": "np-087",
+   "q": "Theodore Roosevelt National Park's South Unit is home to herds of which animal?",
+   "a": "Wild horses",
+   "w": [
+    "Camels",
+    "Mountain goats",
+    "Moose"
+   ],
+   "f": "They descend from ranch horses that escaped or were let go, and the park manages them as part of its history.",
+   "s": "National Park Service: Horses",
+   "u": "https://www.nps.gov/thro/learn/nature/horses.htm"
+  },
+  {
+   "id": "np-088",
+   "q": "Mammoth Cave is home to fish that have no what?",
+   "a": "Eyes",
+   "w": [
+    "Fins",
+    "Gills",
+    "Scales"
+   ],
+   "f": "In total darkness, eyes aren't useful, so these cavefish don't grow them. They're also pale and pinkish.",
+   "s": "National Park Service: Mammoth Cave Fish",
+   "u": "https://www.nps.gov/maca/learn/nature/fish.htm"
+  },
+  {
+   "id": "np-089",
+   "q": "How did Olympic National Park's Hurricane Ridge get its name?",
+   "a": "From its winds, which can gust over 75 mph",
+   "w": [
+    "A 1938 hurricane",
+    "A ship named Hurricane",
+    "A fighter plane"
+   ],
+   "f": "The ridge sits at about 5,242 feet and has sweeping views of the Olympic Mountains.",
+   "s": "National Park Service: Hurricane Ridge Brochure",
+   "u": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge-area-brochure.htm"
+  },
+  {
+   "id": "np-090",
+   "q": "Which Yosemite waterfall can glow orange like a 'firefall' at sunset in February?",
+   "a": "Horsetail Fall",
+   "w": [
+    "Bridalveil Fall",
+    "Vernal Fall",
+    "Yosemite Falls"
+   ],
+   "f": "It only happens on clear evenings when the seasonal fall on El Capitan is flowing and the sun hits it just right.",
+   "s": "National Park Service: Horsetail Fall",
+   "u": "https://www.nps.gov/yose/planyourvisit/horsetailfall.htm"
+  },
+  {
+   "id": "np-091",
+   "q": "Why isn't Bryce Canyon technically a canyon?",
+   "a": "No river carved it. It's a series of amphitheaters.",
+   "w": [
+    "It's too shallow",
+    "It's underground",
+    "It was made by a glacier"
+   ],
+   "f": "Rain and snowmelt eroded giant bowl-shaped amphitheaters filled with hoodoos.",
+   "s": "National Park Service: Bryce Amphitheater",
+   "u": "https://www.nps.gov/places/bryce-amphitheater-wayside.htm"
+  },
+  {
+   "id": "np-092",
+   "q": "What happens on Medano Creek at Great Sand Dunes in late spring?",
+   "a": "It flows in waves, like a beach",
+   "w": [
+    "It freezes solid",
+    "It turns red",
+    "It disappears underground"
+   ],
+   "f": "Tiny sand dams build up and break about every 20 seconds, sending small 'surge' waves down the creek.",
+   "s": "National Park Service: Medano Creek",
+   "u": "https://www.nps.gov/grsa/planyourvisit/medano-creek.htm"
+  },
+  {
+   "id": "np-093",
+   "q": "Wind Cave has more of which rare honeycomb-like cave formation than all other caves combined?",
+   "a": "Boxwork",
+   "w": [
+    "Stalactites",
+    "Cave pearls",
+    "Popcorn"
+   ],
+   "f": "Boxwork is made of thin calcite fins that stick out from the cave walls and ceilings.",
+   "s": "National Park Service: Wind Cave Speleothems",
+   "u": "https://home.nps.gov/wica/learn/nature/cave-formations-speleothems.htm"
   }
  ]
 }

@@ -936,6 +936,214 @@
    "f": "It starts at Hulls Cove and reaches Sand Beach, Jordan Pond and Cadillac Mountain. Allow 3 to 4 hours with stops.",
    "s": "National Park Service: Park Loop Road",
    "u": "https://www.nps.gov/acad/planyourvisit/park-loop-road.htm"
+  },
+  {
+   "id": "rt-073",
+   "q": "Before the Parks Highway, which mostly gravel road was the only way to drive to Denali?",
+   "a": "The Denali Highway",
+   "w": [
+    "The Dalton Highway",
+    "The Seward Highway",
+    "The Glenn Highway"
+   ],
+   "f": "It runs 135 miles from Paxson to Cantwell and opened in 1957.",
+   "s": "Bureau of Land Management: Denali Highway",
+   "u": "https://www.blm.gov/visit/denali-highway"
+  },
+  {
+   "id": "rt-074",
+   "q": "Utah's Moki Dugway, a steep gravel switchback road, was built in the 1950s to haul what?",
+   "a": "Uranium ore",
+   "w": [
+    "Cattle",
+    "Timber",
+    "Mail"
+   ],
+   "f": "It climbs the edge of Cedar Mesa near Valley of the Gods. It's not recommended for trailers or big RVs.",
+   "s": "Bureau of Land Management: Valley of the Gods",
+   "u": "https://www.blm.gov/sites/blm.gov/files/documents/files/Utah_BENM_Valley-Of_Gods_Brochure.pdf"
+  },
+  {
+   "id": "rt-075",
+   "q": "Red Mountain Pass, on Colorado's Million Dollar Highway, sits at about what elevation?",
+   "a": "11,018 feet",
+   "w": [
+    "7,500 feet",
+    "9,200 feet",
+    "13,500 feet"
+   ],
+   "f": "It's on US 550 between Silverton and Ouray. Mudslides and snow can close it.",
+   "s": "Colorado Department of Transportation",
+   "u": "https://www.codot.gov/news/2012-news-releases/12-2012/cdot-ready-to-keep-mountain-passes-open"
+  },
+  {
+   "id": "rt-076",
+   "q": "Alaska's Sterling Highway ends at the 'End of the Road' on which spit?",
+   "a": "Homer Spit",
+   "w": [
+    "Seward Spit",
+    "Kenai Spit",
+    "Valdez Spit"
+   ],
+   "f": "Alaska calls the Homer Spit the second-longest natural spit in the world.",
+   "s": "Alaska DOT&PF: Sterling Highway",
+   "u": "https://dot.alaska.gov/dmio/scenic/byways-sterling-south.shtml"
+  },
+  {
+   "id": "rt-077",
+   "q": "Big Sur's McWay Falls drops 80 feet onto what?",
+   "a": "A beach",
+   "w": [
+    "A highway",
+    "A lake",
+    "A glacier"
+   ],
+   "f": "You can see it from an overlook, but the beach and falls are completely off limits.",
+   "s": "California State Parks: Julia Pfeiffer Burns",
+   "u": "https://www.parks.ca.gov/?page_id=578"
+  },
+  {
+   "id": "rt-078",
+   "q": "Vermont's Smugglers' Notch road (Route 108) does what every winter?",
+   "a": "Closes",
+   "w": [
+    "Becomes a toll road",
+    "Turns into a ski run",
+    "Switches to one-way"
+   ],
+   "f": "Tractor-trailers are banned year-round because they kept getting stuck between the boulders.",
+   "s": "Vermont State Parks: Smugglers' Notch",
+   "u": "https://www.vtstateparks.com/parks/smugglers-notch"
+  },
+  {
+   "id": "rt-079",
+   "q": "About how many miles of Route 66 run through Kansas?",
+   "a": "About 13",
+   "w": [
+    "About 100",
+    "About 300",
+    "None"
+   ],
+   "f": "It's the shortest state stretch, running through Galena, Riverton and Baxter Springs.",
+   "s": "National Park Service: Route 66 in Kansas",
+   "u": "https://ncptt.nps.gov/rt66/history-and-significance-of-us-route-66/kansas/kansascontext/"
+  },
+  {
+   "id": "rt-080",
+   "q": "Which pioneering architect designed Hearst Castle, just off Highway 1?",
+   "a": "Julia Morgan",
+   "w": [
+    "Frank Lloyd Wright",
+    "Robert Reamer",
+    "Mary Colter"
+   ],
+   "f": "She was California's first woman licensed as an architect, and she worked on the castle for nearly 30 years.",
+   "s": "California State Parks: Hearst San Simeon",
+   "u": "https://www.parks.ca.gov/hearstsansimeon"
+  },
+  {
+   "id": "rt-081",
+   "q": "Water from Snow Dome on the Columbia Icefield flows into how many oceans?",
+   "a": "Three",
+   "w": [
+    "One",
+    "Two",
+    "Four"
+   ],
+   "f": "It's a 'hydrological apex' whose meltwater drains to the Pacific, Atlantic and Arctic. You can see the icefield from the Icefields Parkway.",
+   "s": "Parks Canada: Glaciers and Icefields",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/nature/environment/ecosys/glaciers"
+  },
+  {
+   "id": "rt-082",
+   "q": "The Burr Trail's famous switchbacks climb about 800 feet over the Waterpocket Fold in how far?",
+   "a": "About half a mile",
+   "w": [
+    "About 5 miles",
+    "About 20 miles",
+    "About 50 feet"
+   ],
+   "f": "Inside Capitol Reef the road is graded dirt, and wet clay can make it impassable.",
+   "s": "National Park Service: Capitol Reef Roads",
+   "u": "https://www.nps.gov/care/planyourvisit/roads.htm"
+  },
+  {
+   "id": "rt-083",
+   "q": "In 1934, the summit of New Hampshire's Mount Washington recorded a wind gust of how many mph?",
+   "a": "231 mph",
+   "w": [
+    "98 mph",
+    "150 mph",
+    "310 mph"
+   ],
+   "f": "It was the fastest wind ever measured by people at a surface weather station. You can drive or take the Cog Railway to the top.",
+   "s": "NOAA: Mount Washington Observatory",
+   "u": "https://vlab.noaa.gov/web/nws-heritage/-/the-mount-washington-observatory"
+  },
+  {
+   "id": "rt-084",
+   "q": "What's the maximum vehicle length allowed on part of Glacier's Going-to-the-Sun Road?",
+   "a": "21 feet",
+   "w": [
+    "30 feet",
+    "40 feet",
+    "No limit"
+   ],
+   "f": "Vehicles also can't be wider than 8 feet between Avalanche Creek and Rising Sun. Bigger rigs can take the shuttle.",
+   "s": "National Park Service: Going-to-the-Sun Road",
+   "u": "https://www.nps.gov/glac/planyourvisit/gtsrinfo.htm"
+  },
+  {
+   "id": "rt-085",
+   "q": "Cape Cod's Old King's Highway (Route 6A) runs through what?",
+   "a": "America's largest historic district",
+   "w": [
+    "A national park",
+    "A military base",
+    "A tunnel under the bay"
+   ],
+   "f": "The 34-mile byway passes salt marshes, cranberry bogs and old sea captains' homes.",
+   "s": "Federal Highway Administration: Old King's Highway",
+   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81505"
+  },
+  {
+   "id": "rt-086",
+   "q": "Athabasca Falls, near the Jasper end of the Icefields Parkway, pours over a ledge of which hard rock?",
+   "a": "Quartzite",
+   "w": [
+    "Granite",
+    "Basalt",
+    "Marble"
+   ],
+   "f": "The 23-meter falls have carved potholes and a short canyon in the softer limestone below.",
+   "s": "Parks Canada: Athabasca Falls",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/athabasca"
+  },
+  {
+   "id": "rt-087",
+   "q": "What's the speed limit on most of Shenandoah's Skyline Drive?",
+   "a": "35 mph",
+   "w": [
+    "25 mph",
+    "45 mph",
+    "55 mph"
+   ],
+   "f": "The road's design and the many deer and bears are why it's kept slow.",
+   "s": "National Park Service: Driving Skyline Drive",
+   "u": "https://home.nps.gov/shen/planyourvisit/driving-skyline-drive.htm"
+  },
+  {
+   "id": "rt-088",
+   "q": "Colorado's Independence Pass crosses the Continental Divide at what elevation?",
+   "a": "12,095 feet",
+   "w": [
+    "8,500 feet",
+    "10,200 feet",
+    "14,110 feet"
+   ],
+   "f": "It's the highest paved state highway in Colorado, and it closes every winter between Aspen and Twin Lakes.",
+   "s": "Colorado Department of Transportation",
+   "u": "https://www.codot.gov/news/2026/november2026news/co82-independencepass-close-for-winter"
   }
  ]
 }
