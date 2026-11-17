@@ -1,0 +1,237 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Trivia preview</title>
+<style>body{margin:0;background:#eae6e1;color:#121212;font-family:Georgia,serif}main{padding:32px 16px}
+/* hostile site-style simulation: these must not leak into the widget */ p{letter-spacing:.05em} button{text-transform:uppercase;font-family:Courier}</style></head>
+<body><main><h1 style="text-align:center;font-weight:400">Mock page title</h1><!-- Road Trip Locals Daily Trivia. Paste this into ONE Squarespace Code Block. Questions load from data-src. -->
+<style>
+#rtl-trivia{
+  --ink:#121212; --muted:#4a4a4a; --card:#fff; --soft:#f4f1ec; --track:#dcd6ce; --line:#767676;
+  --sage:#5e6e62; --sage-dark:#4a574d; --link:#0366d6;
+  --good:#1d6b3a; --good-bg:#e4f2e8; --bad:#a1262b; --bad-bg:#fbe9e8;
+  color:var(--ink); font-family:Georgia,"Times New Roman",serif; font-size:16px; line-height:1.5;
+  max-width:640px; margin:0 auto; text-align:left;
+}
+#rtl-trivia *{box-sizing:border-box}
+#rtl-trivia p,#rtl-trivia h2{margin:0;padding:0;letter-spacing:normal;text-transform:none;font-family:inherit;color:inherit}
+#rtl-trivia button{-webkit-appearance:none;appearance:none;margin:0;font:inherit;letter-spacing:normal;text-transform:none;line-height:1.3;color:inherit}
+#rtl-trivia :focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+#rtl-trivia .rtl-sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+#rtl-trivia .rtl-head{text-align:center;margin-bottom:16px}
+#rtl-trivia .rtl-eyebrow{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-dark);font-weight:700}
+#rtl-trivia h2.rtl-title{font-size:clamp(28px,6vw,38px);font-weight:400;line-height:1.15;margin:4px 0}
+#rtl-trivia .rtl-date{color:var(--muted);font-size:15px}
+#rtl-trivia .rtl-tabs{display:flex;gap:4px;background:var(--track);padding:4px;border-radius:999px;margin:0 0 16px}
+#rtl-trivia .rtl-tab{flex:1 1 0;min-height:44px;border:0;background:transparent;font-size:15px;font-weight:700;color:var(--ink);padding:8px 6px;border-radius:999px;cursor:pointer}
+#rtl-trivia .rtl-tab:hover{background:rgba(255,255,255,.6)}
+#rtl-trivia .rtl-tab[aria-selected="true"]{background:var(--sage);color:#fff}
+#rtl-trivia .rtl-check{display:inline-block;margin-left:4px}
+#rtl-trivia .rtl-card{background:var(--card);border:1px solid var(--track);border-radius:16px;padding:22px}
+#rtl-trivia .rtl-meta{display:flex;flex-wrap:wrap;gap:6px;justify-content:space-between;font-size:14px;color:var(--muted);margin-bottom:10px}
+#rtl-trivia .rtl-streak{font-weight:700;color:var(--sage-dark)}
+#rtl-trivia .rtl-q{font-size:clamp(20px,4.8vw,24px);line-height:1.35;margin:0 0 18px}
+#rtl-trivia .rtl-opts{display:grid;gap:10px;list-style:none;margin:0;padding:0}
+#rtl-trivia .rtl-opt{display:flex;align-items:center;gap:12px;width:100%;min-height:52px;text-align:left;border:2px solid var(--line);background:#fff;border-radius:12px;padding:12px 14px;font-size:17px;cursor:pointer}
+#rtl-trivia .rtl-opt:hover:not([aria-disabled="true"]){border-color:var(--sage-dark);background:var(--soft)}
+#rtl-trivia .rtl-opt[aria-disabled="true"]{cursor:default}
+#rtl-trivia .rtl-letter{flex:none;width:30px;height:30px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center;font-weight:700;font-size:14px}
+#rtl-trivia .rtl-tag{margin-left:auto;font-size:14px;font-weight:700;white-space:nowrap}
+#rtl-trivia .rtl-opt.correct{border-color:var(--good);background:var(--good-bg);color:var(--good)}
+#rtl-trivia .rtl-opt.correct .rtl-letter{background:var(--good);border-color:var(--good);color:#fff}
+#rtl-trivia .rtl-opt.wrong{border-color:var(--bad);background:var(--bad-bg);color:var(--bad)}
+#rtl-trivia .rtl-opt.wrong .rtl-letter{background:var(--bad);border-color:var(--bad);color:#fff}
+#rtl-trivia .rtl-opt.other{border-color:var(--track);color:var(--muted)}
+#rtl-trivia .rtl-result{margin-top:18px}
+#rtl-trivia .rtl-verdict{font-size:21px;font-weight:700;margin:0 0 10px}
+#rtl-trivia .rtl-verdict:focus{outline:none}
+#rtl-trivia .rtl-verdict.good{color:var(--good)} #rtl-trivia .rtl-verdict.bad{color:var(--bad)}
+#rtl-trivia .rtl-fact{background:var(--soft);border-left:4px solid var(--sage);padding:12px 14px;border-radius:0 10px 10px 0;margin:0 0 14px;font-size:16px}
+#rtl-trivia .rtl-source{margin-top:8px;font-size:14px;color:var(--muted)}
+#rtl-trivia .rtl-source a{color:var(--link);text-decoration:underline;text-underline-offset:2px}
+#rtl-trivia .rtl-row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+#rtl-trivia .rtl-btn{min-height:44px;border:0;background:var(--sage);color:#fff;font-weight:700;font-size:16px;padding:10px 20px;border-radius:999px;cursor:pointer}
+#rtl-trivia .rtl-btn:hover{background:var(--sage-dark)}
+#rtl-trivia .rtl-next{font-size:14px;color:var(--muted)}
+#rtl-trivia .rtl-msg{color:var(--muted);font-size:16px}
+#rtl-trivia .rtl-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0 0;padding:0}
+#rtl-trivia .rtl-stat{background:var(--card);border:1px solid var(--track);border-radius:12px;padding:10px;text-align:center;margin:0}
+#rtl-trivia .rtl-stat dd{display:block;font-size:22px;font-weight:700;margin:0}
+#rtl-trivia .rtl-stat dt{font-size:14px;color:var(--muted)}
+#rtl-trivia .rtl-stat{display:flex;flex-direction:column-reverse}
+#rtl-trivia .rtl-foot{text-align:center;color:var(--muted);font-size:14px;margin-top:14px}
+#rtl-trivia .rtl-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:10px 16px;border-radius:999px;font-size:15px;z-index:9999}
+#rtl-trivia .rtl-toast:empty{display:none}
+@media (max-width:420px){#rtl-trivia .rtl-card{padding:16px} #rtl-trivia .rtl-tab{font-size:14px;padding:6px 4px}}
+@media (prefers-reduced-motion:no-preference){#rtl-trivia .rtl-opt,#rtl-trivia .rtl-tab,#rtl-trivia .rtl-btn{transition:background-color .15s,border-color .15s}}
+</style>
+
+<section id="rtl-trivia" aria-labelledby="rtl-title" data-src="questions/">
+  <div class="rtl-head">
+    <p class="rtl-eyebrow">Road Trip Locals</p>
+    <h2 class="rtl-title" id="rtl-title">Daily Trivia</h2>
+    <p class="rtl-date" data-el="date"></p>
+  </div>
+  <div class="rtl-tabs" role="tablist" aria-label="Trivia category">
+    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-yellowstone" aria-controls="rtl-panel" data-cat="yellowstone">Yellowstone<span class="rtl-check"></span></button>
+    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-parks" aria-controls="rtl-panel" data-cat="parks">National Parks<span class="rtl-check"></span></button>
+    <button type="button" class="rtl-tab" role="tab" id="rtl-tab-roadtrips" aria-controls="rtl-panel" data-cat="roadtrips">Road Trips<span class="rtl-check"></span></button>
+  </div>
+  <div class="rtl-card" id="rtl-panel" role="tabpanel" tabindex="-1">
+    <p class="rtl-msg" data-el="msg">Loading today's question…</p>
+    <div data-el="body" hidden>
+      <p class="rtl-meta"><span data-el="qnum"></span><span class="rtl-streak" data-el="streak"></span></p>
+      <p class="rtl-q" data-el="question"></p>
+      <ul class="rtl-opts" data-el="opts"></ul>
+      <div class="rtl-result" data-el="result" hidden>
+        <p class="rtl-verdict" data-el="verdict" tabindex="-1"></p>
+        <div class="rtl-fact"><p data-el="fact"></p><p class="rtl-source">Source: <a data-el="src" target="_blank" rel="noopener"></a><span class="rtl-sr"> (opens in a new tab)</span></p></div>
+        <div class="rtl-row">
+          <button type="button" class="rtl-btn" data-el="share">Share result</button>
+          <span class="rtl-next" data-el="next"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <dl class="rtl-stats" aria-label="Your stats for this category">
+    <div class="rtl-stat"><dt>Played</dt><dd data-el="played">0</dd></div>
+    <div class="rtl-stat"><dt>Correct</dt><dd data-el="pct">0%</dd></div>
+    <div class="rtl-stat"><dt>Best streak</dt><dd data-el="best">0</dd></div>
+  </dl>
+  <p class="rtl-foot">A new question in every category each day at midnight. Every answer links to an official source.</p>
+  <div class="rtl-toast" data-el="toast" role="status" aria-live="polite"></div>
+</section>
+
+<script>
+(function(){
+var root = document.getElementById("rtl-trivia");
+if (!root || root.getAttribute("data-ready")) return; root.setAttribute("data-ready", "1");
+var SRC = root.getAttribute("data-src");
+var LABELS = {yellowstone:"Yellowstone", parks:"National Parks", roadtrips:"Road Trips"};
+var CATS = Object.keys(LABELS);
+var LAUNCH = Date.UTC(2026, 10, 17); // Day #1
+var $ = function(n){ return root.querySelector('[data-el="' + n + '"]'); };
+var store = {
+  get: function(k, d){ try { var v = localStorage.getItem("rtl-trivia:" + k); return v ? JSON.parse(v) : d; } catch(e){ return d; } },
+  set: function(k, v){ try { localStorage.setItem("rtl-trivia:" + k, JSON.stringify(v)); } catch(e){} }
+};
+function rng(seed){ return function(){ seed |= 0; seed = seed + 0x6D2B79F5 | 0; var t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+function hash(s){ var h = 2166136261; for (var i = 0; i < s.length; i++){ h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+function shuffle(arr, r){ var a = arr.slice(); for (var i = a.length - 1; i > 0; i--){ var j = Math.floor(r() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+function todayKey(d){ d = d || new Date(); return d.getFullYear() + "-" + ("0" + (d.getMonth() + 1)).slice(-2) + "-" + ("0" + d.getDate()).slice(-2); }
+function dayNumber(d){ d = d || new Date(); return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - LAUNCH) / 864e5) + 1; }
+
+var day = dayNumber(), key = todayKey(), cache = {};
+var cat = store.get("cat", "yellowstone"); if (!LABELS[cat]) cat = "yellowstone";
+
+// Questions play in file order, one per day. New questions are only ever appended, so past days never change.
+function load(c){
+  if (!cache[c]) cache[c] = fetch(SRC + c + ".json").then(function(r){ if (!r.ok) throw r.status; return r.json(); })
+    .catch(function(e){ delete cache[c]; throw e; });
+  return cache[c];
+}
+function questionFor(c, bank){
+  var items = bank.items, n = items.length, item = items[((day - 1) % n + n) % n];
+  var choices = shuffle([item.a].concat(item.w), rng(hash(c + ":" + day)));
+  return { id:item.id, q:item.q, a:item.a, f:item.f, s:item.s, u:item.u, choices:choices };
+}
+function stats(c){ return store.get("stats:" + c, {played:0, correct:0, streak:0, best:0, last:null, lastDay:0}); }
+function answerFor(c, q){ var a = store.get("ans:" + c + ":" + key, null); return a && q && a.id === q.id ? a.choice : null; }
+function answeredAny(c){ return !!store.get("ans:" + c + ":" + key, null); }
+
+function renderTabs(){
+  root.querySelectorAll(".rtl-tab").forEach(function(t){
+    var on = t.getAttribute("data-cat") === cat, done = answeredAny(t.getAttribute("data-cat"));
+    t.setAttribute("aria-selected", on); t.tabIndex = on ? 0 : -1;
+    t.querySelector(".rtl-check").innerHTML = done ? '<span aria-hidden="true">✓</span><span class="rtl-sr"> (answered)</span>' : "";
+  });
+  root.querySelector("#rtl-panel").setAttribute("aria-labelledby", "rtl-tab-" + cat);
+}
+function renderStats(){
+  var s = stats(cat);
+  $("played").textContent = s.played;
+  $("pct").textContent = s.played ? Math.round(s.correct / s.played * 100) + "%" : "0%";
+  $("best").textContent = s.best;
+  var live = s.streak > 0 && (s.lastDay === day || s.lastDay === day - 1);
+  $("streak").innerHTML = live ? '<span aria-hidden="true">🔥 </span>' + s.streak + " day streak" : "";
+}
+var current = null;
+function render(focusVerdict){
+  renderTabs(); renderStats();
+  var c = cat;
+  $("msg").hidden = false; $("msg").textContent = "Loading today's question…"; $("body").hidden = true;
+  load(c).then(function(bank){
+    if (c !== cat) return;
+    var q = current = questionFor(c, bank), ans = answerFor(c, q);
+    $("msg").hidden = true; $("body").hidden = false;
+    $("qnum").textContent = LABELS[c] + " · Question #" + day;
+    $("question").textContent = q.q;
+    var ul = $("opts"); ul.innerHTML = "";
+    q.choices.forEach(function(choice, i){
+      var li = document.createElement("li"), b = document.createElement("button");
+      b.type = "button"; b.className = "rtl-opt";
+      var letter = document.createElement("span"); letter.className = "rtl-letter"; letter.setAttribute("aria-hidden", "true"); letter.textContent = "ABCD"[i];
+      var text = document.createElement("span"); text.textContent = choice;
+      b.appendChild(letter); b.appendChild(text);
+      if (ans){
+        b.setAttribute("aria-disabled", "true");
+        var tag = document.createElement("span"); tag.className = "rtl-tag";
+        if (choice === q.a){ b.classList.add("correct"); tag.innerHTML = '<span aria-hidden="true">✓ </span>Correct answer'; }
+        else if (choice === ans){ b.classList.add("wrong"); tag.innerHTML = '<span aria-hidden="true">✗ </span>Your answer'; }
+        else b.classList.add("other");
+        if (tag.innerHTML) b.appendChild(tag);
+      } else b.onclick = function(){ answer(choice, q); };
+      li.appendChild(b); ul.appendChild(li);
+    });
+    if (ans){
+      var ok = ans === q.a, v = $("verdict");
+      v.textContent = ok ? "Nice! You got it." : "Not quite. The answer is " + q.a + ".";
+      v.className = "rtl-verdict " + (ok ? "good" : "bad");
+      $("fact").textContent = q.f; $("src").textContent = q.s; $("src").href = q.u;
+      $("result").hidden = false;
+      if (focusVerdict) v.focus();
+    } else $("result").hidden = true;
+    tick();
+  }).catch(function(){
+    if (c !== cat) return;
+    $("msg").textContent = "Today's question didn't load. Please check your connection and refresh the page.";
+  });
+}
+function answer(choice, q){
+  if (answerFor(cat, q)) return;
+  store.set("ans:" + cat + ":" + key, {id:q.id, choice:choice});
+  var s = stats(cat), ok = choice === q.a;
+  s.played++; if (ok) s.correct++;
+  s.streak = ok ? (s.lastDay === day - 1 && s.last ? s.streak + 1 : 1) : 0;
+  s.best = Math.max(s.best, s.streak); s.last = ok; s.lastDay = day;
+  store.set("stats:" + cat, s);
+  render(true);
+}
+function select(c, focus){ cat = c; store.set("cat", c); render(false); if (focus) root.querySelector("#rtl-tab-" + c).focus(); }
+root.querySelectorAll(".rtl-tab").forEach(function(t){
+  t.onclick = function(){ select(t.getAttribute("data-cat")); };
+  t.onkeydown = function(e){
+    var i = CATS.indexOf(cat), n = CATS.length, next = null;
+    if (e.key === "ArrowRight") next = CATS[(i + 1) % n];
+    else if (e.key === "ArrowLeft") next = CATS[(i - 1 + n) % n];
+    else if (e.key === "Home") next = CATS[0];
+    else if (e.key === "End") next = CATS[n - 1];
+    if (next){ e.preventDefault(); select(next, true); }
+  };
+});
+$("share").onclick = function(){
+  var q = current; if (!q) return;
+  var ok = answerFor(cat, q) === q.a, s = stats(cat);
+  var text = "Road Trip Locals Daily Trivia 🚙\n" + LABELS[cat] + " #" + day + ": " + (ok ? "✅" : "❌") + (s.streak > 1 ? "  🔥" + s.streak : "") + "\n" + location.origin + location.pathname;
+  if (navigator.share) { navigator.share({text:text}).catch(function(){}); return; }
+  if (navigator.clipboard) navigator.clipboard.writeText(text).then(function(){ toast("Result copied to clipboard."); }, function(){ toast("Couldn't copy. Please try again."); });
+};
+var toastTimer;
+function toast(msg){ var t = $("toast"); t.textContent = msg; clearTimeout(toastTimer); toastTimer = setTimeout(function(){ t.textContent = ""; }, 3000); }
+function tick(){
+  var now = new Date(), mid = new Date(now); mid.setHours(24, 0, 0, 0);
+  if (todayKey(now) !== key) { location.reload(); return; }
+  var ms = mid - now; $("next").textContent = "Next question in " + Math.floor(ms / 36e5) + "h " + Math.floor(ms % 36e5 / 6e4) + "m";
+}
+$("date").textContent = new Date().toLocaleDateString(undefined, {weekday:"long", month:"long", day:"numeric", year:"numeric"});
+render(false); setInterval(tick, 30000);
+})();
+</script>
+</main></body></html>
