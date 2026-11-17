@@ -1209,6 +1209,244 @@
    "f": "Boxwork is made of thin calcite fins that stick out from the cave walls and ceilings.",
    "s": "National Park Service: Wind Cave Speleothems",
    "u": "https://home.nps.gov/wica/learn/nature/cave-formations-speleothems.htm"
+  },
+  {
+   "id": "np-094",
+   "d": "hard",
+   "q": "The rainwater that comes out of Hot Springs National Park's springs fell about how long ago?",
+   "a": "About 4,400 years ago",
+   "w": [
+    "About 4 days ago",
+    "About 40 years ago",
+    "About 4 million years ago"
+   ],
+   "f": "It sinks deep underground, heats up and comes back out at about 143°F.",
+   "s": "National Park Service: Hot Springs Geology",
+   "u": "https://www.nps.gov/hosp/learn/nature/hotsprings.htm"
+  },
+  {
+   "id": "np-095",
+   "d": "hard",
+   "q": "In 1864, Lincoln protected Yosemite Valley and which sequoia grove?",
+   "a": "Mariposa Grove",
+   "w": [
+    "Giant Forest",
+    "Grant Grove",
+    "Tuolumne Grove"
+   ],
+   "f": "The grove has more than 500 mature giant sequoias, including the Grizzly Giant.",
+   "s": "National Park Service: Mariposa Grove",
+   "u": "https://www.nps.gov/yose/planyourvisit/mg.htm"
+  },
+  {
+   "id": "np-096",
+   "d": "medium",
+   "q": "Lassen Volcanic became a national park in 1916, soon after its peak did what?",
+   "a": "Erupted",
+   "w": [
+    "Collapsed into a lake",
+    "Was first climbed",
+    "Grew a glacier"
+   ],
+   "f": "Lassen Peak's biggest blast came in May 1915.",
+   "s": "National Park Service: Lassen Park Significance",
+   "u": "https://www.nps.gov/lavo/learn/management/park-significance.htm"
+  },
+  {
+   "id": "np-097",
+   "d": "easy",
+   "q": "Which is the only national park with working sled dogs?",
+   "a": "Denali",
+   "w": [
+    "Glacier Bay",
+    "Yellowstone",
+    "Gates of the Arctic"
+   ],
+   "f": "The kennels started in 1922, and the dogs still patrol the park's wilderness in winter.",
+   "s": "National Park Service: Denali Kennels",
+   "u": "https://www.nps.gov/dena/planyourvisit/kennels.htm"
+  },
+  {
+   "id": "np-098",
+   "d": "hard",
+   "q": "In 1991, a 60-foot slab of rock fell from which famous arch in Arches National Park?",
+   "a": "Landscape Arch",
+   "w": [
+    "Delicate Arch",
+    "Double Arch",
+    "North Window"
+   ],
+   "f": "Hikers caught it on video. The trail under the arch has been closed ever since.",
+   "s": "National Park Service: 1991 Landscape Arch Rock Fall",
+   "u": "https://www.nps.gov/articles/arch-landscape-rock-fall-1991.htm"
+  },
+  {
+   "id": "np-099",
+   "d": "easy",
+   "q": "Ohio's Brandywine Falls is in which national park?",
+   "a": "Cuyahoga Valley",
+   "w": [
+    "Indiana Dunes",
+    "Mammoth Cave",
+    "New River Gorge"
+   ],
+   "f": "A boardwalk leads to views of the falls tumbling into Brandywine Gorge.",
+   "s": "National Park Service: Brandywine Falls",
+   "u": "https://www.nps.gov/cuva/learn/historyculture/brandywine-falls.htm"
+  },
+  {
+   "id": "np-100",
+   "d": "hard",
+   "q": "About how many miles of wild Pacific coastline does Olympic National Park protect?",
+   "a": "73 miles",
+   "w": [
+    "7 miles",
+    "300 miles",
+    "1,000 miles"
+   ],
+   "f": "Most of the coast can only be reached on foot, and overnight hikers need a permit.",
+   "s": "National Park Service: Olympic Coast",
+   "u": "https://www.nps.gov/olym/learn/nature/coast.htm"
+  },
+  {
+   "id": "np-101",
+   "d": "medium",
+   "q": "In Sequoia National Park, what can you drive through on Crescent Meadow Road?",
+   "a": "A fallen giant sequoia",
+   "w": [
+    "A living giant sequoia",
+    "A rock arch",
+    "A glacier tunnel"
+   ],
+   "f": "The tree fell in 1937, and a tunnel was cut through it the next year. Taller vehicles use a bypass.",
+   "s": "National Park Service: Tunnel Log",
+   "u": "https://www.nps.gov/places/000/tunnel-log.htm"
+  },
+  {
+   "id": "np-102",
+   "d": "medium",
+   "q": "How tall is the Gateway Arch in St. Louis?",
+   "a": "630 feet",
+   "w": [
+    "300 feet",
+    "555 feet",
+    "1,000 feet"
+   ],
+   "f": "It's also 630 feet wide at the base. The arch is the tallest human-built monument in the U.S.",
+   "s": "National Park Service: Gateway Arch",
+   "u": "https://www.nps.gov/places/gateway-arch-monument.htm"
+  },
+  {
+   "id": "np-103",
+   "d": "medium",
+   "q": "According to legend, Mormon pioneers named the Joshua tree after its branches looked like what?",
+   "a": "Joshua raising his arms",
+   "w": [
+    "A ship's mast",
+    "A shepherd's staff",
+    "A candle holder"
+   ],
+   "f": "The NPS notes the story isn't backed by records, so it may be more myth than history.",
+   "s": "National Park Service: Joshua Trees",
+   "u": "https://www.nps.gov/jotr/learn/nature/jtrees.htm"
+  },
+  {
+   "id": "np-104",
+   "d": "medium",
+   "q": "In Hawaiian tradition, the volcano goddess Pele is said to live in which crater?",
+   "a": "Halemaʻumaʻu",
+   "w": [
+    "Haleakalā",
+    "Diamond Head",
+    "Mauna Kea"
+   ],
+   "f": "It sits in Kīlauea's summit caldera in Hawaiʻi Volcanoes. Many people still leave offerings there.",
+   "s": "National Park Service: Pele",
+   "u": "https://www.nps.gov/articles/pele.htm"
+  },
+  {
+   "id": "np-105",
+   "d": "hard",
+   "q": "In 1995, only about how many Florida panthers were left in the wild?",
+   "a": "20 to 30",
+   "w": [
+    "2 or 3",
+    "200 to 300",
+    "2,000"
+   ],
+   "f": "A genetic rescue program helped, and in 2020 South Florida had an estimated 120 to 230.",
+   "s": "National Park Service: Florida Panther",
+   "u": "https://www.nps.gov/ever/learn/nature/floridapanther.htm"
+  },
+  {
+   "id": "np-106",
+   "d": "hard",
+   "q": "About how many miles of the Appalachian Trail run through Shenandoah National Park?",
+   "a": "101 miles",
+   "w": [
+    "12 miles",
+    "500 miles",
+    "2,175 miles"
+   ],
+   "f": "The whole trail runs about 2,175 miles from Georgia to Maine.",
+   "s": "National Park Service: Appalachian Trail in Shenandoah",
+   "u": "https://www.nps.gov/shen/learn/historyculture/at.htm"
+  },
+  {
+   "id": "np-107",
+   "d": "medium",
+   "q": "Kings Canyon is the deepest canyon in which mountain range?",
+   "a": "The Sierra Nevada",
+   "w": [
+    "The Rocky Mountains",
+    "The Cascades",
+    "The Appalachians"
+   ],
+   "f": "The Cedar Grove area sits at the heart of the canyon.",
+   "s": "National Park Service: Kings Canyon",
+   "u": "https://www.nps.gov/seki/planyourvisit/kings-canyon-national-park.htm"
+  },
+  {
+   "id": "np-108",
+   "d": "hard",
+   "q": "Capitol Reef's Waterpocket Fold is a nearly 100-mile-long what?",
+   "a": "Wrinkle in the Earth's crust (monocline)",
+   "w": [
+    "Dry riverbed",
+    "Lava flow",
+    "Glacier scar"
+   ],
+   "f": "It's one of the longest exposed monoclines in the world, a giant step in the rock layers.",
+   "s": "National Park Service: Capitol Reef Geology",
+   "u": "https://www.nps.gov/care/learn/nature/geology.htm"
+  },
+  {
+   "id": "np-109",
+   "d": "hard",
+   "q": "In 2024, the Smokies' highest peak, Clingmans Dome, officially regained which Cherokee name?",
+   "a": "Kuwohi",
+   "w": [
+    "Tsali",
+    "Oconaluftee",
+    "Cataloochee"
+   ],
+   "f": "The Eastern Band of Cherokee Indians led the effort. The peak is 6,643 feet tall.",
+   "s": "National Park Service: Ancient Name Returns",
+   "u": "https://www.nps.gov/articles/000/ancient-name-returns-to-smokies-highest-peak.htm"
+  },
+  {
+   "id": "np-110",
+   "d": "medium",
+   "q": "What is the highest peak in Rocky Mountain National Park?",
+   "a": "Longs Peak",
+   "w": [
+    "Pikes Peak",
+    "Mount Elbert",
+    "Hallett Peak"
+   ],
+   "f": "At 14,259 feet, the Keyhole Route to its top is a long, exposed climb, not a simple hike.",
+   "s": "National Park Service: Longs Peak",
+   "u": "https://home.nps.gov/romo/planyourvisit/longspeak.htm"
   }
  ]
 }

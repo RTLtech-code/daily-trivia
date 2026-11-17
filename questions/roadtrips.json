@@ -1144,6 +1144,230 @@
    "f": "It's the highest paved state highway in Colorado, and it closes every winter between Aspen and Twin Lakes.",
    "s": "Colorado Department of Transportation",
    "u": "https://www.codot.gov/news/2026/november2026news/co82-independencepass-close-for-winter"
+  },
+  {
+   "id": "rt-089",
+   "d": "medium",
+   "q": "On Custer State Park's Wildlife Loop Road, the burros that greet drivers descend from animals that once did what?",
+   "a": "Carried visitors up Black Elk Peak",
+   "w": [
+    "Pulled gold-mining carts",
+    "Delivered mail",
+    "Worked on Mount Rushmore"
+   ],
+   "f": "The park also has one of the largest public bison herds in the world, close to 1,400 animals.",
+   "s": "South Dakota Game, Fish & Parks: Scenic Drives",
+   "u": "https://gfp.sd.gov/csp-scenic-drives/"
+  },
+  {
+   "id": "rt-090",
+   "d": "hard",
+   "q": "Sunwapta Falls on the Icefields Parkway is fed by meltwater from which glacier?",
+   "a": "Athabasca Glacier",
+   "w": [
+    "Victoria Glacier",
+    "Crowfoot Glacier",
+    "Angel Glacier"
+   ],
+   "f": "The river carves a deep limestone gorge about 54 km south of Jasper.",
+   "s": "Parks Canada: Sunwapta Falls",
+   "u": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/sunwapta"
+  },
+  {
+   "id": "rt-091",
+   "d": "medium",
+   "q": "How tall is Multnomah Falls, along Oregon's Historic Columbia River Highway?",
+   "a": "620 feet",
+   "w": [
+    "120 feet",
+    "308 feet",
+    "1,200 feet"
+   ],
+   "f": "More than 2 million people visit it each year.",
+   "s": "U.S. Forest Service: Multnomah Falls",
+   "u": "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/multnomah-falls"
+  },
+  {
+   "id": "rt-092",
+   "d": "medium",
+   "q": "About how tall is Pigeon Point Lighthouse, south of San Francisco on Highway 1?",
+   "a": "About 115 feet",
+   "w": [
+    "About 40 feet",
+    "About 250 feet",
+    "About 400 feet"
+   ],
+   "f": "It was first lit in 1872 and is one of the tallest lighthouses on the West Coast.",
+   "s": "California State Parks: Pigeon Point Light Station",
+   "u": "https://www.parks.ca.gov/PigeonPoint"
+  },
+  {
+   "id": "rt-093",
+   "d": "medium",
+   "q": "Badlands Loop Road (SD 240) ends at the highest overlook in the park's North Unit. What is it called?",
+   "a": "Pinnacles Overlook",
+   "w": [
+    "Inspiration Point",
+    "Glacier Point",
+    "Artist Point"
+   ],
+   "f": "The 30-mile paved loop has about a dozen overlooks between two I-90 exits.",
+   "s": "National Park Service: Badlands Loop Road",
+   "u": "https://www.nps.gov/thingstodo/badl-loop-road.htm"
+  },
+  {
+   "id": "rt-094",
+   "d": "medium",
+   "q": "Which Route 66 motel in Tucumcari, New Mexico, is famous for its glowing neon birds?",
+   "a": "The Blue Swallow Motel",
+   "w": [
+    "The Wigwam Motel",
+    "The Munger Moss",
+    "The El Rancho"
+   ],
+   "f": "It dates to about 1939 and is on the National Register of Historic Places.",
+   "s": "National Park Service: Blue Swallow Motel",
+   "u": "https://www.nps.gov/places/blue-swallow-motel.htm"
+  },
+  {
+   "id": "rt-095",
+   "d": "medium",
+   "q": "Utah's Highway 128 follows which river out of Moab?",
+   "a": "Colorado River",
+   "w": [
+    "Green River",
+    "San Juan River",
+    "Virgin River"
+   ],
+   "f": "About 21 miles in, a side road leads to the Fisher Towers hiking trail.",
+   "s": "Visit Utah: Upper Colorado Scenic Byway",
+   "u": "https://www.visitutah.com/things-to-do/road-cycling/highway-128-upper-colorado-scenic-byway"
+  },
+  {
+   "id": "rt-096",
+   "d": "medium",
+   "q": "Valley of Fire, near Las Vegas, is famous as Nevada's first what?",
+   "a": "State park",
+   "w": [
+    "National park",
+    "Ski resort",
+    "Toll road"
+   ],
+   "f": "It became a state park in 1935. Its red Aztec sandstone seems to glow at sunset.",
+   "s": "Nevada State Parks: Valley of Fire History",
+   "u": "https://parks.nv.gov/learn/park-histories/valley-of-fire-history"
+  },
+  {
+   "id": "rt-097",
+   "d": "hard",
+   "q": "Mount Locust, at milepost 15.5 on the Natchez Trace, was once what?",
+   "a": "An inn for travelers",
+   "w": [
+    "A fort",
+    "A gold mine",
+    "A lighthouse"
+   ],
+   "f": "Built around 1785, it's one of the oldest buildings in Mississippi.",
+   "s": "National Park Service: Mount Locust",
+   "u": "https://www.nps.gov/places/mount-locust-historic-house.htm"
+  },
+  {
+   "id": "rt-098",
+   "d": "medium",
+   "q": "Matanuska Glacier, along Alaska's Glenn Highway, is the largest glacier in Alaska you can reach how?",
+   "a": "By road",
+   "w": [
+    "Only by plane",
+    "Only by boat",
+    "Only by dogsled"
+   ],
+   "f": "It comes into view around milepost 100. Reaching the ice itself crosses private land with a fee.",
+   "s": "Alaska Marine Highway System: MV Matanuska",
+   "u": "https://dot.alaska.gov/amhs/fleet/matanuska.shtml"
+  },
+  {
+   "id": "rt-099",
+   "d": "easy",
+   "q": "British Columbia's Sea-to-Sky Highway connects Vancouver with which resort town?",
+   "a": "Whistler",
+   "w": [
+    "Banff",
+    "Tofino",
+    "Kelowna"
+   ],
+   "f": "Highway 99 hugs the Howe Sound fjord and passes through Squamish.",
+   "s": "Destination BC: Sea to Sky",
+   "u": "https://www.hellobc.com/places-to-go/sea-to-sky/"
+  },
+  {
+   "id": "rt-100",
+   "d": "easy",
+   "q": "Monument Valley's famous Mitten Buttes are in a park run by which nation?",
+   "a": "The Navajo Nation",
+   "w": [
+    "The Hopi Tribe",
+    "The National Park Service",
+    "The State of Utah"
+   ],
+   "f": "A 17-mile dirt loop road winds between the buttes, but it's too rough for RVs.",
+   "s": "Navajo Nation Parks: Monument Valley",
+   "u": "https://navajonationparks.org/navajo-tribal-parks/monument-valley/"
+  },
+  {
+   "id": "rt-101",
+   "d": "hard",
+   "q": "Who helped build the Big Sur stretch of Highway 1, finished in 1937?",
+   "a": "Prison inmates",
+   "w": [
+    "Army soldiers",
+    "Railroad crews",
+    "College students"
+   ],
+   "f": "San Quentin set up road camps, and inmates earned shorter sentences for their work.",
+   "s": "Federal Highway Administration: Highway One",
+   "u": "https://www.fhwa.dot.gov/infrastructure/back0403.cfm"
+  },
+  {
+   "id": "rt-102",
+   "d": "easy",
+   "q": "At the Wigwam Motel in Holbrook, Arizona, guests sleep in rooms shaped like what?",
+   "a": "Teepees",
+   "w": [
+    "Covered wagons",
+    "Igloos",
+    "Train cars"
+   ],
+   "f": "It opened in 1950 on Route 66 and is one of the last Wigwam Villages still standing.",
+   "s": "National Park Service: Wigwam Village #6",
+   "u": "https://www.nps.gov/places/wigwam-village-motel-6.htm"
+  },
+  {
+   "id": "rt-103",
+   "d": "hard",
+   "q": "What is the highest point on the Blue Ridge Parkway?",
+   "a": "Richland Balsam Overlook",
+   "w": [
+    "Mount Mitchell",
+    "Grandfather Mountain",
+    "Mabry Mill"
+   ],
+   "f": "It's at milepost 431.4, about 6,053 feet up, and often closes in winter.",
+   "s": "National Park Service: Richland Balsam Overlook",
+   "u": "https://www.nps.gov/places/richland-balsam-overlook.htm"
+  },
+  {
+   "id": "rt-104",
+   "d": "hard",
+   "q": "At Alaska's Hatcher Pass, Independence Mine was one of the state's biggest producers of what?",
+   "a": "Gold",
+   "w": [
+    "Copper",
+    "Coal",
+    "Silver"
+   ],
+   "f": "It's now a state historical park, and the summit road is usually open only in midsummer.",
+   "s": "Alaska State Parks: Hatcher Pass",
+   "u": "https://dnr.alaska.gov/parks/aspunits/matsu/hatcherpassema.htm"
   }
  ]
 }

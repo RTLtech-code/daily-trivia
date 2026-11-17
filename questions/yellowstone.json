@@ -1183,6 +1183,244 @@
    "f": "Willow grows back quickly after beavers cut it. The park estimated 121 beaver colonies in 2024.",
    "s": "National Park Service: Beaver",
    "u": "https://www.nps.gov/yell/learn/nature/beaver.htm"
+  },
+  {
+   "id": "ys-092",
+   "d": "hard",
+   "q": "About how often does Grand Geyser erupt?",
+   "a": "Every 7 to 15 hours",
+   "w": [
+    "Every 15 minutes",
+    "Every 3 days",
+    "Once a month"
+   ],
+   "f": "Each eruption lasts 9 to 12 minutes, so rangers post predictions to help visitors catch it.",
+   "s": "National Park Service: Grand Geyser Stop",
+   "u": "https://www.nps.gov/features/yell/tours/oldfaithful/grandg.htm"
+  },
+  {
+   "id": "ys-093",
+   "d": "hard",
+   "q": "Harry Yount, hired in Yellowstone in 1880, is often called the first what?",
+   "a": "National park ranger",
+   "w": [
+    "Park superintendent",
+    "Geyser gazer",
+    "Wildlife photographer"
+   ],
+   "f": "He was hired as a gamekeeper and spent the winter alone in a cabin, then recommended a paid force of rangers.",
+   "s": "National Park Service: Harry Yount",
+   "u": "https://www.nps.gov/parkhistory/hisnps/npshistory/yount.htm"
+  },
+  {
+   "id": "ys-094",
+   "d": "medium",
+   "q": "Why does Yellowstone's Emerald Pool look green?",
+   "a": "Yellow microbes mixed with blue water",
+   "w": [
+    "Green dye from minerals",
+    "Algae from the river",
+    "Reflection of the forest"
+   ],
+   "f": "Microbes create many of Yellowstone's colors. As pools cool, they can turn orange and murky.",
+   "s": "National Park Service: Emerald Pool",
+   "u": "https://www.nps.gov/places/000/emerald-pool.htm"
+  },
+  {
+   "id": "ys-095",
+   "d": "hard",
+   "q": "Which bird plants whitebark pine forests by burying the seeds, a food grizzlies also love?",
+   "a": "Clark's nutcracker",
+   "w": [
+    "Steller's jay",
+    "Gray jay",
+    "Pine grosbeak"
+   ],
+   "f": "The bird carries seeds in a pouch under its tongue and buries them, sometimes miles away.",
+   "s": "National Park Service: Whitebark Pine",
+   "u": "https://www.nps.gov/articles/whitebark-pine-brief.htm"
+  },
+  {
+   "id": "ys-096",
+   "d": "hard",
+   "q": "Which Yellowstone animal declined sharply after the 1988 fires burned its winter forests?",
+   "a": "Moose",
+   "w": [
+    "Elk",
+    "Bison",
+    "Pronghorn"
+   ],
+   "f": "Unlike moose in many places, Yellowstone's moose rely on old fir forests to survive winter.",
+   "s": "National Park Service: Moose",
+   "u": "https://www.nps.gov/yell/learn/nature/moose.htm"
+  },
+  {
+   "id": "ys-097",
+   "d": "hard",
+   "q": "Echinus Geyser at Norris is the world's largest geyser of what kind?",
+   "a": "Acid geyser",
+   "w": [
+    "Mud geyser",
+    "Cold-water geyser",
+    "Underwater geyser"
+   ],
+   "f": "Its water is about as acidic as vinegar. Acid geysers are very rare, and most of the world's are at Norris.",
+   "s": "National Park Service: Echinus Geyser",
+   "u": "https://www.nps.gov/yell/learn/photosmultimedia/norris-tour-echinus-geyser.htm"
+  },
+  {
+   "id": "ys-098",
+   "d": "medium",
+   "q": "Which Yellowstone geyser is the tallest predictable geyser in the world?",
+   "a": "Grand Geyser",
+   "w": [
+    "Old Faithful",
+    "Steamboat Geyser",
+    "Castle Geyser"
+   ],
+   "f": "Grand erupts in powerful bursts up to about 200 feet. Steamboat goes higher, but nobody can predict when.",
+   "s": "National Park Service: Grand Geyser",
+   "u": "https://www.nps.gov/places/000/grand-geyser.htm"
+  },
+  {
+   "id": "ys-099",
+   "d": "hard",
+   "q": "Who led the cavalry that took charge of Yellowstone in 1886?",
+   "a": "Captain Moses Harris",
+   "w": [
+    "General George Custer",
+    "Lt. Gustavus Doane",
+    "Captain Hiram Chittenden"
+   ],
+   "f": "He arrived with 50 men, fought fires and set the first strict rules to protect the park.",
+   "s": "National Park Service: Captain Moses Harris",
+   "u": "https://www.nps.gov/yell/blogs/the-superintendents-captain-moses-harris.htm"
+  },
+  {
+   "id": "ys-100",
+   "d": "medium",
+   "q": "About how much snow falls in Yellowstone in an average year?",
+   "a": "About 150 inches",
+   "w": [
+    "About 15 inches",
+    "About 50 inches",
+    "About 1,000 inches"
+   ],
+   "f": "Higher elevations can get double that.",
+   "s": "National Park Service: Yellowstone Weather",
+   "u": "https://www.nps.gov/yell/planyourvisit/weather.htm"
+  },
+  {
+   "id": "ys-101",
+   "d": "hard",
+   "q": "In late summer, grizzlies climb to high rocky slopes near Yellowstone to eat thousands of what?",
+   "a": "Moths",
+   "w": [
+    "Pinecones",
+    "Marmots",
+    "Snowberries"
+   ],
+   "f": "Army cutworm moths hide under rocks, and they're one of the richest foods a grizzly can find.",
+   "s": "National Park Service: Bear Food Habits",
+   "u": "https://www.nps.gov/articles/yell-wildlife-bear-food-habits.htm"
+  },
+  {
+   "id": "ys-102",
+   "d": "hard",
+   "q": "How much did Congress set aside for the 1871 Hayden survey of Yellowstone?",
+   "a": "$40,000",
+   "w": [
+    "$400",
+    "$4,000",
+    "$4 million"
+   ],
+   "f": "The survey's report, photos and paintings helped convince Congress to create the park in 1872.",
+   "s": "National Park Service: National Parks, The American Experience",
+   "u": "https://www.nps.gov/parkhistory/online_books/runte1/chap2.htm"
+  },
+  {
+   "id": "ys-103",
+   "d": "medium",
+   "q": "Which Upper Geyser Basin geyser has a cone thousands of years old and may be the oldest there?",
+   "a": "Castle Geyser",
+   "w": [
+    "Old Faithful",
+    "Daisy Geyser",
+    "Riverside Geyser"
+   ],
+   "f": "Its cone and the platform beneath it form one of the largest geyser deposits in the world.",
+   "s": "National Park Service: Castle Geyser",
+   "u": "https://www.nps.gov/places/000/castle-geyser.htm"
+  },
+  {
+   "id": "ys-104",
+   "d": "medium",
+   "q": "How thick can the ice on Yellowstone Lake get in winter?",
+   "a": "More than 2 feet",
+   "w": [
+    "About 1 inch",
+    "About 6 inches",
+    "It never freezes"
+   ],
+   "f": "The lake usually freezes in late December or early January and thaws in late May or early June.",
+   "s": "National Park Service: Yellowstone Lake",
+   "u": "https://www.nps.gov/yell/learn/nature/yellowstone-lake.htm"
+  },
+  {
+   "id": "ys-105",
+   "d": "hard",
+   "q": "What has Yellowstone used on Sylvan Pass in winter to set off avalanches safely?",
+   "a": "An artillery howitzer and explosives",
+   "w": [
+    "Giant fans",
+    "Snowplows with sirens",
+    "Hot-water hoses"
+   ],
+   "f": "Controlled avalanches help keep the East Entrance road safe for winter travelers.",
+   "s": "National Park Service: Yellowstone Superintendent's Compendium",
+   "u": "https://home.nps.gov/yell/learn/management/upload/20260917_Superintendent-s-Compendium-Yellowstone-National-Park.pdf"
+  },
+  {
+   "id": "ys-106",
+   "d": "medium",
+   "q": "Yellowstone's Black Sand Basin is named for sand made from what?",
+   "a": "Obsidian (volcanic glass)",
+   "w": [
+    "Coal dust",
+    "Crushed lava rock from Hawaii",
+    "Iron filings"
+   ],
+   "f": "The basin, about a mile from Old Faithful, has some of the park's most colorful hot springs.",
+   "s": "National Park Service: Black Sand Basin",
+   "u": "https://www.nps.gov/places/000/black-sand-basin-trailhead.htm"
+  },
+  {
+   "id": "ys-107",
+   "d": "hard",
+   "q": "In 1896, Black soldiers of the 25th Infantry rode to Yellowstone from Fort Missoula on what?",
+   "a": "Bicycles",
+   "w": [
+    "Horses",
+    "Mules",
+    "A steam train"
+   ],
+   "f": "The Buffalo Soldier bicycle corps tested whether bikes could replace horses for the Army.",
+   "s": "National Park Service: 25th Infantry Bicycle Corps",
+   "u": "https://www.nps.gov/articles/000/the-twenty-fifth-infantry-bicycle-corps.htm"
+  },
+  {
+   "id": "ys-108",
+   "d": "easy",
+   "q": "Which clever Yellowstone bird has learned to unzip backpacks to steal food?",
+   "a": "Raven",
+   "w": [
+    "Bald eagle",
+    "Magpie",
+    "Pelican"
+   ],
+   "f": "Ravens have figured out many zippers and buckles, so never leave a pack with food unattended.",
+   "s": "National Park Service: Raven",
+   "u": "https://www.nps.gov/yell/learn/nature/raven.htm"
   }
  ]
 }
