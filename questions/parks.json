@@ -58,6 +58,34 @@
    "d": "medium"
   },
   {
+   "id": "np-050",
+   "q": "Cliff Palace, North America's largest cliff dwelling, is in which park?",
+   "a": "Mesa Verde",
+   "w": [
+    "Chaco Culture",
+    "Canyon de Chelly",
+    "Bandelier"
+   ],
+   "f": "Ancestral Puebloan people built Cliff Palace with about 150 rooms.",
+   "s": "National Park Service: Cliff Palace",
+   "u": "https://www.nps.gov/meve/learn/historyculture/cliff_palace.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-064",
+   "q": "How many historic bathhouses line Bathhouse Row in Hot Springs National Park?",
+   "a": "Eight",
+   "w": [
+    "Three",
+    "Twelve",
+    "Twenty"
+   ],
+   "f": "The Buckstaff is the only one that has run continuously for over a century.",
+   "s": "National Park Service: Bathhouse Row Today",
+   "u": "https://www.nps.gov/hosp/learn/historyculture/bathhouse-row-today.htm",
+   "d": "hard"
+  },
+  {
    "id": "np-017",
    "q": "Which national park has the lowest point in North America?",
    "a": "Death Valley",
@@ -72,241 +100,31 @@
    "d": "easy"
   },
   {
-   "id": "np-091",
-   "q": "Why isn't Bryce Canyon technically a canyon?",
-   "a": "No river carved it. It's a series of amphitheaters.",
+   "id": "np-125",
+   "d": "medium",
+   "q": "At its deepest, the Grand Canyon is about how deep?",
+   "a": "About a mile (6,000 feet)",
    "w": [
-    "It's too shallow",
-    "It's underground",
-    "It was made by a glacier"
+    "About 600 feet",
+    "About 3 miles",
+    "About 10 miles"
    ],
-   "f": "Rain and snowmelt eroded giant bowl-shaped amphitheaters filled with hoodoos.",
-   "s": "National Park Service: Bryce Amphitheater",
-   "u": "https://www.nps.gov/places/bryce-amphitheater-wayside.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-085",
-   "q": "How much higher is the Grand Canyon's North Rim than the South Rim?",
-   "a": "About 1,000 feet",
-   "w": [
-    "About 100 feet",
-    "About 5,000 feet",
-    "They're the same height"
-   ],
-   "f": "The North Rim is so high that snow usually closes its road from late fall to mid-May.",
+   "f": "It's 277 river miles long.",
    "s": "National Park Service: Grand Canyon FAQs",
-   "u": "https://www.nps.gov/grca/faqs.htm",
-   "d": "hard"
+   "u": "https://www.nps.gov/grca/faqs.htm"
   },
   {
-   "id": "np-030",
-   "q": "Badlands National Park is famous for what besides its striped buttes?",
-   "a": "Fossil beds",
+   "id": "np-056",
+   "q": "In 1932, Glacier and Canada's Waterton Lakes together became the world's first what?",
+   "a": "International Peace Park",
    "w": [
-    "Hot springs",
-    "Glaciers",
-    "Redwood groves"
+    "Dark Sky Reserve",
+    "World Heritage Site",
+    "Biosphere Reserve"
    ],
-   "f": "It has one of the world's richest fossil mammal beds. Fossils found there include ancient rhinos and saber-toothed cats.",
-   "s": "National Park Service: Paleontology in the White River Badlands",
-   "u": "https://www.nps.gov/articles/000/paleontology-badl.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-026",
-   "q": "Which is the smallest U.S. national park?",
-   "a": "Gateway Arch",
-   "w": [
-    "Hot Springs",
-    "Acadia",
-    "Congaree"
-   ],
-   "f": "The St. Louis park covers about 91 acres.",
-   "s": "National Park Service: Gateway Arch Nature",
-   "u": "https://www.nps.gov/jeff/learn/nature/nature.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-015",
-   "q": "Which national park protects the world's longest known cave system?",
-   "a": "Mammoth Cave",
-   "w": [
-    "Carlsbad Caverns",
-    "Wind Cave",
-    "Great Basin"
-   ],
-   "f": "Officially, more than 420 miles of passages have been mapped, and explorers are still finding more.",
-   "s": "National Park Service: Additional Miles Added to Mammoth Cave",
-   "u": "https://www.nps.gov/maca/learn/news/mammoth-cave-national-park-adds-new-miles-to-cave-length.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-080",
-   "q": "During the winter of 1971–72, how much snow fell at Paradise on Mount Rainier?",
-   "a": "1,122 inches",
-   "w": [
-    "122 inches",
-    "422 inches",
-    "2,500 inches"
-   ],
-   "f": "That's 93.5 feet. It held the world record for annual snowfall until 1998.",
-   "s": "National Park Service: Mount Rainier Snowfall",
-   "u": "https://www.nps.gov/mora/planyourvisit/annual-snowfall-totals.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-003",
-   "q": "Which park is often called the 'Galápagos of North America'?",
-   "a": "Channel Islands",
-   "w": [
-    "Dry Tortugas",
-    "Isle Royale",
-    "Biscayne"
-   ],
-   "f": "The islands are home to 145 plant and animal species found nowhere else, including the island fox.",
-   "s": "National Park Service: Island Fox",
-   "u": "https://www.nps.gov/chis/learn/nature/island-fox.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-046",
-   "q": "The Painted Wall, Colorado's tallest cliff, is in which national park?",
-   "a": "Black Canyon of the Gunnison",
-   "w": [
-    "Rocky Mountain",
-    "Mesa Verde",
-    "Great Sand Dunes"
-   ],
-   "f": "The Painted Wall rises 2,250 feet from the river to the rim, and pale bands of pegmatite rock run across it.",
-   "s": "National Park Service: Painted Wall Overlook",
-   "u": "https://www.nps.gov/places/overlook_paintedwall.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-106",
-   "d": "hard",
-   "q": "About how many miles of the Appalachian Trail run through Shenandoah National Park?",
-   "a": "101 miles",
-   "w": [
-    "12 miles",
-    "500 miles",
-    "2,175 miles"
-   ],
-   "f": "The whole trail runs about 2,175 miles from Georgia to Maine.",
-   "s": "National Park Service: Appalachian Trail in Shenandoah",
-   "u": "https://www.nps.gov/shen/learn/historyculture/at.htm"
-  },
-  {
-   "id": "np-102",
-   "d": "medium",
-   "q": "How tall is the Gateway Arch in St. Louis?",
-   "a": "630 feet",
-   "w": [
-    "300 feet",
-    "555 feet",
-    "1,000 feet"
-   ],
-   "f": "It's also 630 feet wide at the base. The arch is the tallest human-built monument in the U.S.",
-   "s": "National Park Service: Gateway Arch",
-   "u": "https://www.nps.gov/places/gateway-arch-monument.htm"
-  },
-  {
-   "id": "np-002",
-   "q": "In which national park do alligators and crocodiles live side by side?",
-   "a": "Everglades",
-   "w": [
-    "Big Cypress",
-    "Congaree",
-    "Biscayne"
-   ],
-   "f": "South Florida is the only place where America's two native crocodilian species live together.",
-   "s": "National Park Service: American Crocodile",
-   "u": "https://www.nps.gov/ever/learn/nature/crocodile.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-044",
-   "q": "The Hoh Rain Forest is in which national park?",
-   "a": "Olympic",
-   "w": [
-    "North Cascades",
-    "Redwood",
-    "Mount Rainier"
-   ],
-   "f": "The Hoh gets an average of about 140 inches of rain a year.",
-   "s": "National Park Service: Visiting the Hoh Rain Forest",
-   "u": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-100",
-   "d": "hard",
-   "q": "About how many miles of wild Pacific coastline does Olympic National Park protect?",
-   "a": "73 miles",
-   "w": [
-    "7 miles",
-    "300 miles",
-    "1,000 miles"
-   ],
-   "f": "Most of the coast can only be reached on foot, and overnight hikers need a permit.",
-   "s": "National Park Service: Olympic Coast",
-   "u": "https://www.nps.gov/olym/learn/nature/coast.htm"
-  },
-  {
-   "id": "np-037",
-   "q": "Which scenic road runs the full length of Shenandoah National Park?",
-   "a": "Skyline Drive",
-   "w": [
-    "Blue Ridge Parkway",
-    "Trail Ridge Road",
-    "Going-to-the-Sun Road"
-   ],
-   "f": "The drive runs 105 miles along the crest of the Blue Ridge Mountains, and it's the park's only public road.",
-   "s": "National Park Service: Driving Skyline Drive",
-   "u": "https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-107",
-   "d": "medium",
-   "q": "Kings Canyon is the deepest canyon in which mountain range?",
-   "a": "The Sierra Nevada",
-   "w": [
-    "The Rocky Mountains",
-    "The Cascades",
-    "The Appalachians"
-   ],
-   "f": "The Cedar Grove area sits at the heart of the canyon.",
-   "s": "National Park Service: Kings Canyon",
-   "u": "https://www.nps.gov/seki/planyourvisit/kings-canyon-national-park.htm"
-  },
-  {
-   "id": "np-040",
-   "q": "Which future president ranched in the North Dakota badlands in the 1880s and now has a national park named for him?",
-   "a": "Theodore Roosevelt",
-   "w": [
-    "Ulysses S. Grant",
-    "Thomas Jefferson",
-    "Abraham Lincoln"
-   ],
-   "f": "His Maltese Cross Cabin is on display at the park's South Unit Visitor Center.",
-   "s": "National Park Service: Maltese Cross Cabin",
-   "u": "https://www.nps.gov/thro/learn/historyculture/maltese-cross-cabin.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-067",
-   "q": "Which two rivers divide Canyonlands National Park into its districts?",
-   "a": "The Green and the Colorado",
-   "w": [
-    "The Snake and the Columbia",
-    "The San Juan and the Virgin",
-    "The Gunnison and the Arkansas"
-   ],
-   "f": "No roads cross the rivers inside the park, so driving between districts can take 2 to 6 hours.",
-   "s": "National Park Service: Canyonlands Places to Go",
-   "u": "https://www.nps.gov/cany/planyourvisit/placestogo.htm",
+   "f": "The two parks were later named a joint World Heritage Site in 1995.",
+   "s": "National Park Service: Glacier International Designations",
+   "u": "https://www.nps.gov/glac/learn/management/international-designations.htm",
    "d": "medium"
   },
   {
@@ -324,18 +142,228 @@
    "d": "hard"
   },
   {
-   "id": "np-023",
-   "q": "Which is the only U.S. national park south of the equator?",
-   "a": "National Park of American Samoa",
+   "id": "np-099",
+   "d": "easy",
+   "q": "Ohio's Brandywine Falls is in which national park?",
+   "a": "Cuyahoga Valley",
    "w": [
-    "Haleakalā",
-    "Virgin Islands",
-    "Hawaiʻi Volcanoes"
+    "Indiana Dunes",
+    "Mammoth Cave",
+    "New River Gorge"
    ],
-   "f": "The park protects tropical rainforest and Indo-Pacific coral reefs.",
-   "s": "National Park Service: American Samoa Fact Sheet",
-   "u": "https://www.nps.gov/npsa/learn/news/fact-sheet.htm",
+   "f": "A boardwalk leads to views of the falls tumbling into Brandywine Gorge.",
+   "s": "National Park Service: Brandywine Falls",
+   "u": "https://www.nps.gov/cuva/learn/historyculture/brandywine-falls.htm"
+  },
+  {
+   "id": "np-066",
+   "q": "Which park has more glaciers than any other U.S. protected area outside Alaska?",
+   "a": "North Cascades",
+   "w": [
+    "Glacier",
+    "Mount Rainier",
+    "Olympic"
+   ],
+   "f": "The park holds about a quarter of all the glaciers in the lower 48 states.",
+   "s": "National Park Service: North Cascades Glaciers",
+   "u": "https://www.nps.gov/noca/learn/nature/glaciers.htm",
    "d": "medium"
+  },
+  {
+   "id": "np-061",
+   "q": "Death Valley holds the world record for the hottest air temperature ever measured. What was it?",
+   "a": "134°F",
+   "w": [
+    "118°F",
+    "126°F",
+    "142°F"
+   ],
+   "f": "It was recorded at Furnace Creek on July 10, 1913.",
+   "s": "National Park Service: Death Valley Weather",
+   "u": "https://www.nps.gov/deva/learn/nature/weather-and-climate.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-106",
+   "d": "hard",
+   "q": "About how many miles of the Appalachian Trail run through Shenandoah National Park?",
+   "a": "101 miles",
+   "w": [
+    "12 miles",
+    "500 miles",
+    "2,175 miles"
+   ],
+   "f": "The whole trail runs about 2,175 miles from Georgia to Maine.",
+   "s": "National Park Service: Appalachian Trail in Shenandoah",
+   "u": "https://www.nps.gov/shen/learn/historyculture/at.htm"
+  },
+  {
+   "id": "np-036",
+   "q": "Hyperion, the tallest known tree in the world, grows in which park?",
+   "a": "Redwood",
+   "w": [
+    "Sequoia",
+    "Olympic",
+    "Yosemite"
+   ],
+   "f": "Hyperion is deep off-trail. Hikers trying to reach it have trampled the plants around it, so the park asks people not to go.",
+   "s": "National Park Service: Should I Hike to Hyperion?",
+   "u": "https://www.nps.gov/redw/planyourvisit/hyperion.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-088",
+   "q": "Mammoth Cave is home to fish that have no what?",
+   "a": "Eyes",
+   "w": [
+    "Fins",
+    "Gills",
+    "Scales"
+   ],
+   "f": "In total darkness, eyes aren't useful, so these cavefish don't grow them. They're also pale and pinkish.",
+   "s": "National Park Service: Mammoth Cave Fish",
+   "u": "https://www.nps.gov/maca/learn/nature/fish.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-044",
+   "q": "The Hoh Rain Forest is in which national park?",
+   "a": "Olympic",
+   "w": [
+    "North Cascades",
+    "Redwood",
+    "Mount Rainier"
+   ],
+   "f": "The Hoh gets an average of about 140 inches of rain a year.",
+   "s": "National Park Service: Visiting the Hoh Rain Forest",
+   "u": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-022",
+   "q": "How tall is the Grand Teton?",
+   "a": "13,770 feet",
+   "w": [
+    "11,358 feet",
+    "14,505 feet",
+    "12,183 feet"
+   ],
+   "f": "Elevations in the park range from about 6,320 feet on the valley floor to the Grand Teton's summit.",
+   "s": "National Park Service: Grand Teton Nature",
+   "u": "https://www.nps.gov/grte/learn/nature/index.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-096",
+   "d": "medium",
+   "q": "Lassen Volcanic became a national park in 1916, soon after its peak did what?",
+   "a": "Erupted",
+   "w": [
+    "Collapsed into a lake",
+    "Was first climbed",
+    "Grew a glacier"
+   ],
+   "f": "Lassen Peak's biggest blast came in May 1915.",
+   "s": "National Park Service: Lassen Park Significance",
+   "u": "https://www.nps.gov/lavo/learn/management/park-significance.htm"
+  },
+  {
+   "id": "np-115",
+   "d": "easy",
+   "q": "Which of these is a national memorial, not a national park?",
+   "a": "Mount Rushmore",
+   "w": [
+    "Zion",
+    "Acadia",
+    "Glacier"
+   ],
+   "f": "The National Park Service runs it, but it's officially a national memorial.",
+   "s": "National Park Service: Mount Rushmore National Memorial",
+   "u": "https://www.nps.gov/moru/index.htm"
+  },
+  {
+   "id": "np-054",
+   "q": "Great Basin National Park protects groves of which extremely old trees?",
+   "a": "Bristlecone pines",
+   "w": [
+    "Giant sequoias",
+    "Coast redwoods",
+    "Joshua trees"
+   ],
+   "f": "A bristlecone named Prometheus, cut down in 1964, had 4,862 growth rings.",
+   "s": "National Park Service: The Prometheus Story",
+   "u": "https://www.nps.gov/grba/learn/historyculture/the-prometheus-story.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-109",
+   "d": "hard",
+   "q": "In 2024, the Smokies' highest peak, Clingmans Dome, officially regained which Cherokee name?",
+   "a": "Kuwohi",
+   "w": [
+    "Tsali",
+    "Oconaluftee",
+    "Cataloochee"
+   ],
+   "f": "The Eastern Band of Cherokee Indians led the effort. The peak is 6,643 feet tall.",
+   "s": "National Park Service: Ancient Name Returns",
+   "u": "https://www.nps.gov/articles/000/ancient-name-returns-to-smokies-highest-peak.htm"
+  },
+  {
+   "id": "np-028",
+   "q": "From October 7 to March 6, which Acadia summit is the first place in the U.S. to see the sunrise?",
+   "a": "Cadillac Mountain",
+   "w": [
+    "Mount Washington",
+    "Sargent Mountain",
+    "Katahdin"
+   ],
+   "f": "The summit is very popular, so arrive about an hour before sunrise.",
+   "s": "National Park Service: Cadillac Mountain",
+   "u": "https://www.nps.gov/acad/planyourvisit/cadillac-mountain.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-041",
+   "q": "Which river carved the Grand Canyon?",
+   "a": "Colorado River",
+   "w": [
+    "Rio Grande",
+    "Green River",
+    "Snake River"
+   ],
+   "f": "The Colorado River runs 277 river miles through the canyon.",
+   "s": "National Park Service: Grand Canyon Geology",
+   "u": "https://www.nps.gov/grca/planyourvisit/upload/life_geology.pdf",
+   "d": "easy"
+  },
+  {
+   "id": "np-055",
+   "q": "Hawaiʻi Volcanoes National Park includes part of which volcano, the largest active volcano on Earth?",
+   "a": "Mauna Loa",
+   "w": [
+    "Mauna Kea",
+    "Haleakalā",
+    "Kīlauea"
+   ],
+   "f": "Mauna Loa rises 13,681 feet above sea level, plus about 30,000 feet more below the sea.",
+   "s": "National Park Service: Mauna Loa",
+   "u": "https://www.nps.gov/havo/learn/nature/mauna-loa.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-085",
+   "q": "How much higher is the Grand Canyon's North Rim than the South Rim?",
+   "a": "About 1,000 feet",
+   "w": [
+    "About 100 feet",
+    "About 5,000 feet",
+    "They're the same height"
+   ],
+   "f": "The North Rim is so high that snow usually closes its road from late fall to mid-May.",
+   "s": "National Park Service: Grand Canyon FAQs",
+   "u": "https://www.nps.gov/grca/faqs.htm",
+   "d": "hard"
   },
   {
    "id": "np-034",
@@ -352,59 +380,31 @@
    "d": "medium"
   },
   {
-   "id": "np-105",
-   "d": "hard",
-   "q": "In 1995, only about how many Florida panthers were left in the wild?",
-   "a": "20 to 30",
-   "w": [
-    "2 or 3",
-    "200 to 300",
-    "2,000"
-   ],
-   "f": "A genetic rescue program helped, and in 2020 South Florida had an estimated 120 to 230.",
-   "s": "National Park Service: Florida Panther",
-   "u": "https://www.nps.gov/ever/learn/nature/floridapanther.htm"
-  },
-  {
-   "id": "np-084",
-   "q": "Which endangered animal was reintroduced to Badlands National Park in 1994?",
-   "a": "Black-footed ferret",
-   "w": [
-    "Gray wolf",
-    "California condor",
-    "Swift fox"
-   ],
-   "f": "By the mid-1980s only 18 were left in the world. All of them were taken into captive breeding.",
-   "s": "National Park Service: Black-footed Ferret",
-   "u": "https://www.nps.gov/articles/000/black-footed-ferret-badl.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-099",
+   "id": "np-121",
    "d": "easy",
-   "q": "Ohio's Brandywine Falls is in which national park?",
-   "a": "Cuyahoga Valley",
+   "q": "What do kids usually earn for finishing a park's Junior Ranger activity book?",
+   "a": "A Junior Ranger badge",
    "w": [
-    "Indiana Dunes",
-    "Mammoth Cave",
-    "New River Gorge"
+    "A free campsite",
+    "A real ranger hat",
+    "A national parks pass"
    ],
-   "f": "A boardwalk leads to views of the falls tumbling into Brandywine Gorge.",
-   "s": "National Park Service: Brandywine Falls",
-   "u": "https://www.nps.gov/cuva/learn/historyculture/brandywine-falls.htm"
+   "f": "Most parks give the booklets out free at visitor centers, and many let you download them.",
+   "s": "National Park Service: Junior Ranger Programs",
+   "u": "https://www.nps.gov/thingstodo/junior-ranger-programs.htm"
   },
   {
-   "id": "np-092",
-   "q": "What happens on Medano Creek at Great Sand Dunes in late spring?",
-   "a": "It flows in waves, like a beach",
+   "id": "np-063",
+   "q": "What makes the 'sailing stones' slide across Death Valley's Racetrack Playa?",
+   "a": "Thin sheets of ice pushed by wind",
    "w": [
-    "It freezes solid",
-    "It turns red",
-    "It disappears underground"
+    "Earthquakes",
+    "Magnetism",
+    "Dust devils"
    ],
-   "f": "Tiny sand dams build up and break about every 20 seconds, sending small 'surge' waves down the creek.",
-   "s": "National Park Service: Medano Creek",
-   "u": "https://www.nps.gov/grsa/planyourvisit/medano-creek.htm",
+   "f": "Scientists first watched it happen in 2014. Some rocks weigh up to 700 pounds.",
+   "s": "National Park Service: Sailing Stones",
+   "u": "https://www.nps.gov/deva/learn/news/racetrack.htm",
    "d": "medium"
   },
   {
@@ -436,46 +436,18 @@
    "d": "medium"
   },
   {
-   "id": "np-089",
-   "q": "How did Olympic National Park's Hurricane Ridge get its name?",
-   "a": "From its winds, which can gust over 75 mph",
+   "id": "np-040",
+   "q": "Which future president ranched in the North Dakota badlands in the 1880s and now has a national park named for him?",
+   "a": "Theodore Roosevelt",
    "w": [
-    "A 1938 hurricane",
-    "A ship named Hurricane",
-    "A fighter plane"
+    "Ulysses S. Grant",
+    "Thomas Jefferson",
+    "Abraham Lincoln"
    ],
-   "f": "The ridge sits at about 5,242 feet and has sweeping views of the Olympic Mountains.",
-   "s": "National Park Service: Hurricane Ridge Brochure",
-   "u": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge-area-brochure.htm",
+   "f": "His Maltese Cross Cabin is on display at the park's South Unit Visitor Center.",
+   "s": "National Park Service: Maltese Cross Cabin",
+   "u": "https://www.nps.gov/thro/learn/historyculture/maltese-cross-cabin.htm",
    "d": "easy"
-  },
-  {
-   "id": "np-072",
-   "q": "Carlsbad Caverns' Big Room is the largest what in North America?",
-   "a": "Cave chamber",
-   "w": [
-    "Underground lake",
-    "Stalactite",
-    "Bat colony"
-   ],
-   "f": "Its floor covers about 8.2 acres, and a self-guided trail loops around it.",
-   "s": "National Park Service: Carlsbad Cavern",
-   "u": "https://www.nps.gov/places/carlsbad-cavern.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-027",
-   "q": "How tall is North America's highest peak, in Denali National Park?",
-   "a": "20,310 feet",
-   "w": [
-    "14,505 feet",
-    "18,008 feet",
-    "22,841 feet"
-   ],
-   "f": "In 2025 the peak's official name went back to Mount McKinley, but the park is still called Denali National Park and Preserve.",
-   "s": "National Park Service: Mountain Name Origins",
-   "u": "https://www.nps.gov/dena/learn/historyculture/mountain-name.htm",
-   "d": "hard"
   },
   {
    "id": "np-090",
@@ -489,748 +461,6 @@
    "f": "It only happens on clear evenings when the seasonal fall on El Capitan is flowing and the sun hits it just right.",
    "s": "National Park Service: Horsetail Fall",
    "u": "https://www.nps.gov/yose/planyourvisit/horsetailfall.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-059",
-   "q": "At which Utah national park can you pick fruit from historic orchards?",
-   "a": "Capitol Reef",
-   "w": [
-    "Arches",
-    "Zion",
-    "Canyonlands"
-   ],
-   "f": "You can eat ripe fruit in the Fruita orchards for free. Fruit you take with you is paid for at a self-pay station.",
-   "s": "National Park Service: Capitol Reef Orchards",
-   "u": "https://www.nps.gov/care/learn/historyculture/orchards.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-109",
-   "d": "hard",
-   "q": "In 2024, the Smokies' highest peak, Clingmans Dome, officially regained which Cherokee name?",
-   "a": "Kuwohi",
-   "w": [
-    "Tsali",
-    "Oconaluftee",
-    "Cataloochee"
-   ],
-   "f": "The Eastern Band of Cherokee Indians led the effort. The peak is 6,643 feet tall.",
-   "s": "National Park Service: Ancient Name Returns",
-   "u": "https://www.nps.gov/articles/000/ancient-name-returns-to-smokies-highest-peak.htm"
-  },
-  {
-   "id": "np-005",
-   "q": "Fat Bear Week celebrates the brown bears of which national park?",
-   "a": "Katmai",
-   "w": [
-    "Denali",
-    "Glacier Bay",
-    "Yellowstone"
-   ],
-   "f": "Fat Bear Week started in 2014. The bears fatten up on salmon at Brooks Falls before winter.",
-   "s": "National Park Service: Fat Bear Week",
-   "u": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-074",
-   "q": "Since 2022, what do you need to hike the final chained section of Zion's Angels Landing?",
-   "a": "A permit",
-   "w": [
-    "A helmet",
-    "A ranger escort",
-    "A climbing harness"
-   ],
-   "f": "Without a permit you can still hike as far as Scout Lookout.",
-   "s": "National Park Service: Angels Landing Permits",
-   "u": "https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-050",
-   "q": "Cliff Palace, North America's largest cliff dwelling, is in which park?",
-   "a": "Mesa Verde",
-   "w": [
-    "Chaco Culture",
-    "Canyon de Chelly",
-    "Bandelier"
-   ],
-   "f": "Ancestral Puebloan people built Cliff Palace with about 150 rooms.",
-   "s": "National Park Service: Cliff Palace",
-   "u": "https://www.nps.gov/meve/learn/historyculture/cliff_palace.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-095",
-   "d": "hard",
-   "q": "In 1864, Lincoln protected Yosemite Valley and which sequoia grove?",
-   "a": "Mariposa Grove",
-   "w": [
-    "Giant Forest",
-    "Grant Grove",
-    "Tuolumne Grove"
-   ],
-   "f": "The grove has more than 500 mature giant sequoias, including the Grizzly Giant.",
-   "s": "National Park Service: Mariposa Grove",
-   "u": "https://www.nps.gov/yose/planyourvisit/mg.htm"
-  },
-  {
-   "id": "np-077",
-   "q": "When is the best time to hear Acadia's Thunder Hole boom?",
-   "a": "One to two hours before high tide",
-   "w": [
-    "At low tide",
-    "At midnight",
-    "Right after it rains"
-   ],
-   "f": "Waves trap air in a small cave, and when it bursts out, spray can shoot more than 40 feet high.",
-   "s": "National Park Service: Thunder Hole",
-   "u": "https://www.nps.gov/places/thunder-hole.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-101",
-   "d": "medium",
-   "q": "In Sequoia National Park, what can you drive through on Crescent Meadow Road?",
-   "a": "A fallen giant sequoia",
-   "w": [
-    "A living giant sequoia",
-    "A rock arch",
-    "A glacier tunnel"
-   ],
-   "f": "The tree fell in 1937, and a tunnel was cut through it the next year. Taller vehicles use a bypass.",
-   "s": "National Park Service: Tunnel Log",
-   "u": "https://www.nps.gov/places/000/tunnel-log.htm"
-  },
-  {
-   "id": "np-071",
-   "q": "How are supplies carried down to Phantom Ranch at the bottom of the Grand Canyon?",
-   "a": "By mule",
-   "w": [
-    "By helicopter only",
-    "By cable car",
-    "By river barge"
-   ],
-   "f": "Mule trains also pack supplies for trail crews and ranger stations deep in the canyon.",
-   "s": "National Park Service: Mule Trips",
-   "u": "https://www.nps.gov/grca/planyourvisit/mule_trips.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-075",
-   "q": "Which Alaska national park has the largest active sand dune field in arctic North America?",
-   "a": "Kobuk Valley",
-   "w": [
-    "Lake Clark",
-    "Katmai",
-    "Kenai Fjords"
-   ],
-   "f": "Caribou herds cross the Great Kobuk Sand Dunes on their spring and fall migrations.",
-   "s": "National Park Service: Great Kobuk Sand Dunes",
-   "u": "https://www.nps.gov/kova/learn/nature/great-kobuk-sand-dunes.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-087",
-   "q": "Theodore Roosevelt National Park's South Unit is home to herds of which animal?",
-   "a": "Wild horses",
-   "w": [
-    "Camels",
-    "Mountain goats",
-    "Moose"
-   ],
-   "f": "They descend from ranch horses that escaped or were let go, and the park manages them as part of its history.",
-   "s": "National Park Service: Horses",
-   "u": "https://www.nps.gov/thro/learn/nature/horses.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-081",
-   "q": "Marjory Stoneman Douglas's famous 1947 book called the Everglades what?",
-   "a": "The River of Grass",
-   "w": [
-    "America's Swamp",
-    "The Sea of Sawgrass",
-    "The Glades of Gold"
-   ],
-   "f": "Everglades National Park was dedicated later that same year, in December 1947.",
-   "s": "National Park Service: Marjory Stoneman Douglas",
-   "u": "https://www.nps.gov/ever/learn/historyculture/msdouglas.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-094",
-   "d": "hard",
-   "q": "The rainwater that comes out of Hot Springs National Park's springs fell about how long ago?",
-   "a": "About 4,400 years ago",
-   "w": [
-    "About 4 days ago",
-    "About 40 years ago",
-    "About 4 million years ago"
-   ],
-   "f": "It sinks deep underground, heats up and comes back out at about 143°F.",
-   "s": "National Park Service: Hot Springs Geology",
-   "u": "https://www.nps.gov/hosp/learn/nature/hotsprings.htm"
-  },
-  {
-   "id": "np-036",
-   "q": "Hyperion, the tallest known tree in the world, grows in which park?",
-   "a": "Redwood",
-   "w": [
-    "Sequoia",
-    "Olympic",
-    "Yosemite"
-   ],
-   "f": "Hyperion is deep off-trail. Hikers trying to reach it have trampled the plants around it, so the park asks people not to go.",
-   "s": "National Park Service: Should I Hike to Hyperion?",
-   "u": "https://www.nps.gov/redw/planyourvisit/hyperion.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-031",
-   "q": "Which national park has the deepest lake in the United States?",
-   "a": "Crater Lake",
-   "w": [
-    "Glacier",
-    "Yellowstone",
-    "Isle Royale"
-   ],
-   "f": "Crater Lake is 1,943 feet deep. It fills the caldera left when Mount Mazama erupted about 7,700 years ago.",
-   "s": "National Park Service: Crater Lake",
-   "u": "https://www.nps.gov/crla/learn/nature/crater-lake.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-066",
-   "q": "Which park has more glaciers than any other U.S. protected area outside Alaska?",
-   "a": "North Cascades",
-   "w": [
-    "Glacier",
-    "Mount Rainier",
-    "Olympic"
-   ],
-   "f": "The park holds about a quarter of all the glaciers in the lower 48 states.",
-   "s": "National Park Service: North Cascades Glaciers",
-   "u": "https://www.nps.gov/noca/learn/nature/glaciers.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-022",
-   "q": "How tall is the Grand Teton?",
-   "a": "13,770 feet",
-   "w": [
-    "11,358 feet",
-    "14,505 feet",
-    "12,183 feet"
-   ],
-   "f": "Elevations in the park range from about 6,320 feet on the valley floor to the Grand Teton's summit.",
-   "s": "National Park Service: Grand Teton Nature",
-   "u": "https://www.nps.gov/grte/learn/nature/index.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-043",
-   "q": "Which California park, known for its endangered condors, became a national park in 2013?",
-   "a": "Pinnacles",
-   "w": [
-    "Joshua Tree",
-    "Channel Islands",
-    "Lassen Volcanic"
-   ],
-   "f": "Pinnacles was the 59th national park, and it helps reintroduce California condors to the wild.",
-   "s": "National Park Service: Pinnacles Present Day",
-   "u": "https://home.nps.gov/pinn/learn/historyculture/present-day.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-016",
-   "q": "In what year was the National Park Service created?",
-   "a": "1916",
-   "w": [
-    "1872",
-    "1903",
-    "1933"
-   ],
-   "f": "Woodrow Wilson signed the Organic Act on August 25, 1916, and the NPS celebrates that date as its birthday. Stephen Mather was its first director.",
-   "s": "National Park Service: Creation of the National Park Service",
-   "u": "https://www.nps.gov/articles/npshistory-creation.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-047",
-   "q": "Cuyahoga Valley National Park is in which state?",
-   "a": "Ohio",
-   "w": [
-    "Indiana",
-    "Pennsylvania",
-    "Michigan"
-   ],
-   "f": "The Cuyahoga Valley Scenic Railroad runs 26 miles through the park.",
-   "s": "National Park Service: Scenic Train Ride",
-   "u": "https://www.nps.gov/cuva/planyourvisit/train.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-013",
-   "q": "Which national park is the only one with a stretch of historic Route 66?",
-   "a": "Petrified Forest",
-   "w": [
-    "Grand Canyon",
-    "Joshua Tree",
-    "Saguaro"
-   ],
-   "f": "A 1932 Studebaker marks the spot where Route 66 once crossed the park.",
-   "s": "National Park Service: Route 66 Pullout",
-   "u": "https://www.nps.gov/places/route-66-pullout.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-079",
-   "q": "About how many steps climb to the top of Sequoia's Moro Rock?",
-   "a": "About 350",
-   "w": [
-    "About 50",
-    "About 1,000",
-    "About 2,500"
-   ],
-   "f": "The historic staircase climbs about 300 feet to a granite summit with huge views.",
-   "s": "National Park Service: Moro Rock",
-   "u": "https://www.nps.gov/seki/planyourvisit/moro.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-025",
-   "q": "What is the most glaciated peak in the contiguous United States?",
-   "a": "Mount Rainier",
-   "w": [
-    "Mount Hood",
-    "Mount Shasta",
-    "Grand Teton"
-   ],
-   "f": "Rainier has 28 named glaciers, which cover about 35 square miles.",
-   "s": "National Park Service: Mount Rainier Press Kit",
-   "u": "https://home.nps.gov/mora/learn/news/presskit.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-055",
-   "q": "Hawaiʻi Volcanoes National Park includes part of which volcano, the largest active volcano on Earth?",
-   "a": "Mauna Loa",
-   "w": [
-    "Mauna Kea",
-    "Haleakalā",
-    "Kīlauea"
-   ],
-   "f": "Mauna Loa rises 13,681 feet above sea level, plus about 30,000 feet more below the sea.",
-   "s": "National Park Service: Mauna Loa",
-   "u": "https://www.nps.gov/havo/learn/nature/mauna-loa.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-029",
-   "q": "What is the highest point on Trail Ridge Road in Rocky Mountain National Park?",
-   "a": "12,183 feet",
-   "w": [
-    "9,450 feet",
-    "10,947 feet",
-    "14,115 feet"
-   ],
-   "f": "The road runs 48 miles between Estes Park and Grand Lake.",
-   "s": "National Park Service: Trail Ridge Road",
-   "u": "https://www.nps.gov/romo/planyourvisit/trail_ridge_road.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-103",
-   "d": "medium",
-   "q": "According to legend, Mormon pioneers named the Joshua tree after its branches looked like what?",
-   "a": "Joshua raising his arms",
-   "w": [
-    "A ship's mast",
-    "A shepherd's staff",
-    "A candle holder"
-   ],
-   "f": "The NPS notes the story isn't backed by records, so it may be more myth than history.",
-   "s": "National Park Service: Joshua Trees",
-   "u": "https://www.nps.gov/jotr/learn/nature/jtrees.htm"
-  },
-  {
-   "id": "np-088",
-   "q": "Mammoth Cave is home to fish that have no what?",
-   "a": "Eyes",
-   "w": [
-    "Fins",
-    "Gills",
-    "Scales"
-   ],
-   "f": "In total darkness, eyes aren't useful, so these cavefish don't grow them. They're also pale and pinkish.",
-   "s": "National Park Service: Mammoth Cave Fish",
-   "u": "https://www.nps.gov/maca/learn/nature/fish.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-021",
-   "q": "Which island park in Lake Superior is home to the world's longest-running predator-prey study?",
-   "a": "Isle Royale",
-   "w": [
-    "Apostle Islands",
-    "Voyageurs",
-    "Sleeping Bear Dunes"
-   ],
-   "f": "Scientists have studied the island's wolves and moose since 1958.",
-   "s": "National Park Service: Wolves, an Ecological Study",
-   "u": "https://www.nps.gov/isro/learn/nature/ecological-studies-of-wolves-on-isle-royale.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-083",
-   "q": "Isle Royale National Park closes to all visitors during what part of the year?",
-   "a": "November 1 to April 15",
-   "w": [
-    "Only on holidays",
-    "July and August",
-    "It never closes"
-   ],
-   "f": "Lake Superior's winter weather makes the island unsafe. Only wolf and moose researchers stay through the winter.",
-   "s": "National Park Service: Isle Royale Hours and Seasons",
-   "u": "https://www.nps.gov/isro/planyourvisit/hours.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-065",
-   "q": "About 40% of which Minnesota national park is water?",
-   "a": "Voyageurs",
-   "w": [
-    "Isle Royale",
-    "Apostle Islands",
-    "Indiana Dunes"
-   ],
-   "f": "Houseboats are a popular way to explore it. They're rented from outfitters just outside the park.",
-   "s": "National Park Service: Houseboating in Voyageurs",
-   "u": "https://www.nps.gov/voya/planyourvisit/houseboating.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-093",
-   "q": "Wind Cave has more of which rare honeycomb-like cave formation than all other caves combined?",
-   "a": "Boxwork",
-   "w": [
-    "Stalactites",
-    "Cave pearls",
-    "Popcorn"
-   ],
-   "f": "Boxwork is made of thin calcite fins that stick out from the cave walls and ceilings.",
-   "s": "National Park Service: Wind Cave Speleothems",
-   "u": "https://home.nps.gov/wica/learn/nature/cave-formations-speleothems.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-068",
-   "q": "The highest peak in the contiguous United States sits on the edge of which national park?",
-   "a": "Sequoia",
-   "w": [
-    "Yosemite",
-    "Rocky Mountain",
-    "Mount Rainier"
-   ],
-   "f": "Mount Whitney rises to 14,505 feet on the park's eastern boundary.",
-   "s": "National Park Service: Mt. Whitney",
-   "u": "https://www.nps.gov/seki/planyourvisit/whitney.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-018",
-   "q": "Which granite wall rises more than 3,000 feet above Yosemite Valley?",
-   "a": "El Capitan",
-   "w": [
-    "Half Dome",
-    "Glacier Point",
-    "Sentinel Dome"
-   ],
-   "f": "El Capitan is a favorite climb for experienced rock climbers.",
-   "s": "National Park Service: Rock Formations in Yosemite Valley",
-   "u": "https://www.nps.gov/yose/planyourvisit/formations.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-051",
-   "q": "Fort Jefferson, a huge 1800s brick fort, is in which national park?",
-   "a": "Dry Tortugas",
-   "w": [
-    "Biscayne",
-    "Virgin Islands",
-    "Everglades"
-   ],
-   "f": "The park is almost 70 miles west of Key West, and the only way in is by boat or seaplane.",
-   "s": "National Park Service: Dry Tortugas Directions",
-   "u": "https://www.nps.gov/drto/planyourvisit/directions.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-032",
-   "q": "Which park, on Lake Michigan, became the 61st national park in 2019?",
-   "a": "Indiana Dunes",
-   "w": [
-    "Sleeping Bear Dunes",
-    "Pictured Rocks",
-    "Apostle Islands"
-   ],
-   "f": "It had been Indiana Dunes National Lakeshore since 1966.",
-   "s": "National Park Service: Indiana Dunes FAQs",
-   "u": "https://www.nps.gov/indu/faqs.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-004",
-   "q": "How far does Yosemite Falls drop in total?",
-   "a": "2,425 feet",
-   "w": [
-    "620 feet",
-    "1,430 feet",
-    "3,212 feet"
-   ],
-   "f": "It falls in three sections: the 1,430-foot upper fall, 675 feet of middle cascades, and the 320-foot lower fall.",
-   "s": "National Park Service: Yosemite Waterfalls",
-   "u": "https://www.nps.gov/yose/planyourvisit/waterfalls.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-020",
-   "q": "Who built Acadia's 45 miles of car-free carriage roads?",
-   "a": "John D. Rockefeller Jr.",
-   "w": [
-    "Andrew Carnegie",
-    "Henry Ford",
-    "Theodore Roosevelt"
-   ],
-   "f": "He built them between 1913 and 1940 and paid for 16 of the 17 stone-faced bridges.",
-   "s": "National Park Service: Acadia Carriage Roads",
-   "u": "https://www.nps.gov/acad/learn/historyculture/historiccarriageroads.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-097",
-   "d": "easy",
-   "q": "Which is the only national park with working sled dogs?",
-   "a": "Denali",
-   "w": [
-    "Glacier Bay",
-    "Yellowstone",
-    "Gates of the Arctic"
-   ],
-   "f": "The kennels started in 1922, and the dogs still patrol the park's wilderness in winter.",
-   "s": "National Park Service: Denali Kennels",
-   "u": "https://www.nps.gov/dena/planyourvisit/kennels.htm"
-  },
-  {
-   "id": "np-086",
-   "q": "Which giant sequoia was named 'the Nation's Christmas Tree' in 1926?",
-   "a": "General Grant",
-   "w": [
-    "General Sherman",
-    "President",
-    "Lincoln"
-   ],
-   "f": "It grows in Grant Grove in Kings Canyon National Park, and people still hike to it every December.",
-   "s": "National Park Service: The General Grant Tree",
-   "u": "https://www.nps.gov/seki/learn/nature/grant.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-073",
-   "q": "Since about 1750, Glacier Bay's ice has retreated roughly how far?",
-   "a": "About 65 miles",
-   "w": [
-    "About 6 miles",
-    "About 300 miles",
-    "It has grown"
-   ],
-   "f": "When Captain Vancouver's crew passed in 1794, the bay was just a small dent in a huge glacier.",
-   "s": "National Park Service: Glacier Bay's Glacial History",
-   "u": "https://www.nps.gov/glba/learn/nature/glacier-bay-s-glacial-history.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-078",
-   "q": "In 1978, Mesa Verde and which other park became the first U.S. World Heritage Sites?",
-   "a": "Yellowstone",
-   "w": [
-    "Grand Canyon",
-    "Yosemite",
-    "Everglades"
-   ],
-   "f": "Mesa Verde was recognized for its Ancestral Pueblo cliff dwellings, and Yellowstone for its geysers and wildlife.",
-   "s": "National Park Service: Mesa Verde World Heritage",
-   "u": "https://www.nps.gov/meve/learn/management/worldheritage_meve.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-028",
-   "q": "From October 7 to March 6, which Acadia summit is the first place in the U.S. to see the sunrise?",
-   "a": "Cadillac Mountain",
-   "w": [
-    "Mount Washington",
-    "Sargent Mountain",
-    "Katahdin"
-   ],
-   "f": "The summit is very popular, so arrive about an hour before sunrise.",
-   "s": "National Park Service: Cadillac Mountain",
-   "u": "https://www.nps.gov/acad/planyourvisit/cadillac-mountain.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-049",
-   "q": "Which two deserts meet in Joshua Tree National Park?",
-   "a": "Mojave and Colorado",
-   "w": [
-    "Sonoran and Chihuahuan",
-    "Great Basin and Mojave",
-    "Painted and Sonoran"
-   ],
-   "f": "Joshua trees grow in the higher, cooler Mojave part of the park, while the Colorado Desert lies below 3,000 feet.",
-   "s": "National Park Service: Joshua Tree Map and Brochure",
-   "u": "https://www.nps.gov/jotr/planyourvisit/park-map-and-brochure.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-110",
-   "d": "medium",
-   "q": "What is the highest peak in Rocky Mountain National Park?",
-   "a": "Longs Peak",
-   "w": [
-    "Pikes Peak",
-    "Mount Elbert",
-    "Hallett Peak"
-   ],
-   "f": "At 14,259 feet, the Keyhole Route to its top is a long, exposed climb, not a simple hike.",
-   "s": "National Park Service: Longs Peak",
-   "u": "https://home.nps.gov/romo/planyourvisit/longspeak.htm"
-  },
-  {
-   "id": "np-045",
-   "q": "Which national park has more than 2,000 documented natural stone arches?",
-   "a": "Arches",
-   "w": [
-    "Canyonlands",
-    "Capitol Reef",
-    "Bryce Canyon"
-   ],
-   "f": "The park has the densest concentration of natural stone arches in the world. The longest, Landscape Arch, spans 306 feet.",
-   "s": "National Park Service: Arches",
-   "u": "https://www.nps.gov/arch/learn/nature/arches.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-012",
-   "q": "Which national park gets the most visitors?",
-   "a": "Great Smoky Mountains",
-   "w": [
-    "Grand Canyon",
-    "Yellowstone",
-    "Zion"
-   ],
-   "f": "It recorded more than 12 million recreational visits in 2024. There's no entrance fee, but you need a parking tag.",
-   "s": "National Park Service: Great Smoky Mountains Park Statistics",
-   "u": "https://www.nps.gov/grsm/learn/management/statistics.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-019",
-   "q": "Exit Glacier, the only glacier you can drive to in Kenai Fjords, flows from which icefield?",
-   "a": "Harding Icefield",
-   "w": [
-    "Columbia Icefield",
-    "Juneau Icefield",
-    "Malaspina Icefield"
-   ],
-   "f": "The Harding Icefield and its glaciers cover about 700 square miles, and at least 38 glaciers flow out of it.",
-   "s": "National Park Service: The Harding Icefield",
-   "u": "https://www.nps.gov/kefj/learn/nature/the-harding-icefield.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-063",
-   "q": "What makes the 'sailing stones' slide across Death Valley's Racetrack Playa?",
-   "a": "Thin sheets of ice pushed by wind",
-   "w": [
-    "Earthquakes",
-    "Magnetism",
-    "Dust devils"
-   ],
-   "f": "Scientists first watched it happen in 2014. Some rocks weigh up to 700 pounds.",
-   "s": "National Park Service: Sailing Stones",
-   "u": "https://www.nps.gov/deva/learn/news/racetrack.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-006",
-   "q": "Which national park has the tallest sand dunes in North America?",
-   "a": "Great Sand Dunes",
-   "w": [
-    "White Sands",
-    "Death Valley",
-    "Indiana Dunes"
-   ],
-   "f": "Star Dune and Hidden Dune are tied for tallest at about 741 feet. The park is in Colorado.",
-   "s": "National Park Service: Star Dune",
-   "u": "https://www.nps.gov/places/star-dune.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-024",
-   "q": "White Sands National Park's dunes are made of what?",
-   "a": "Gypsum",
-   "w": [
-    "Quartz",
-    "Salt",
-    "Crushed coral"
-   ],
-   "f": "The park protects much of the world's largest gypsum dunefield, which covers about 275 square miles.",
-   "s": "National Park Service: White Sands",
-   "u": "https://www.nps.gov/whsa/index.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-064",
-   "q": "How many historic bathhouses line Bathhouse Row in Hot Springs National Park?",
-   "a": "Eight",
-   "w": [
-    "Three",
-    "Twelve",
-    "Twenty"
-   ],
-   "f": "The Buckstaff is the only one that has run continuously for over a century.",
-   "s": "National Park Service: Bathhouse Row Today",
-   "u": "https://www.nps.gov/hosp/learn/historyculture/bathhouse-row-today.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-007",
-   "q": "About 95% of which Florida national park is water?",
-   "a": "Biscayne",
-   "w": [
-    "Everglades",
-    "Dry Tortugas",
-    "Big Cypress"
-   ],
-   "f": "To see most of the park beyond the visitor center, you need a boat.",
-   "s": "National Park Service: Biscayne National Park",
-   "u": "https://www.nps.gov/bisc/index.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-054",
-   "q": "Great Basin National Park protects groves of which extremely old trees?",
-   "a": "Bristlecone pines",
-   "w": [
-    "Giant sequoias",
-    "Coast redwoods",
-    "Joshua trees"
-   ],
-   "f": "A bristlecone named Prometheus, cut down in 1964, had 4,862 growth rings.",
-   "s": "National Park Service: The Prometheus Story",
-   "u": "https://www.nps.gov/grba/learn/historyculture/the-prometheus-story.htm",
    "d": "medium"
   },
   {
@@ -1248,185 +478,171 @@
    "d": "hard"
   },
   {
-   "id": "np-056",
-   "q": "In 1932, Glacier and Canada's Waterton Lakes together became the world's first what?",
-   "a": "International Peace Park",
+   "id": "np-046",
+   "q": "The Painted Wall, Colorado's tallest cliff, is in which national park?",
+   "a": "Black Canyon of the Gunnison",
    "w": [
-    "Dark Sky Reserve",
-    "World Heritage Site",
-    "Biosphere Reserve"
+    "Rocky Mountain",
+    "Mesa Verde",
+    "Great Sand Dunes"
    ],
-   "f": "The two parks were later named a joint World Heritage Site in 1995.",
-   "s": "National Park Service: Glacier International Designations",
-   "u": "https://www.nps.gov/glac/learn/management/international-designations.htm",
+   "f": "The Painted Wall rises 2,250 feet from the river to the rim, and pale bands of pegmatite rock run across it.",
+   "s": "National Park Service: Painted Wall Overlook",
+   "u": "https://www.nps.gov/places/overlook_paintedwall.htm",
    "d": "medium"
   },
   {
-   "id": "np-010",
-   "q": "The General Sherman Tree, the largest tree on Earth by volume, is in which park?",
-   "a": "Sequoia",
-   "w": [
-    "Redwood",
-    "Yosemite",
-    "Kings Canyon"
-   ],
-   "f": "General Sherman is about 275 feet tall. The latest estimate puts its age at about 2,200 years.",
-   "s": "National Park Service: The General Sherman Tree",
-   "u": "https://www.nps.gov/seki/learn/nature/sherman.htm",
-   "d": "easy"
-  },
-  {
-   "id": "np-039",
-   "q": "Which was the first national park created to protect a cave?",
-   "a": "Wind Cave",
-   "w": [
-    "Mammoth Cave",
-    "Carlsbad Caverns",
-    "Jewel Cave"
-   ],
-   "f": "Theodore Roosevelt signed the bill on January 9, 1903, making Wind Cave the eighth national park.",
-   "s": "National Park Service: A National Park is Created",
-   "u": "https://www.nps.gov/wica/learn/historyculture/birth-of-a-national-park-a-national-park-is-created.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-033",
-   "q": "Which West Virginia park became a national park in December 2020?",
-   "a": "New River Gorge",
-   "w": [
-    "Monongahela",
-    "Harpers Ferry",
-    "Seneca Rocks"
-   ],
-   "f": "It had been a unit of the park system since 1978, when it was designated New River Gorge National River.",
-   "s": "National Park Service: New River Gorge is Now a National Park",
-   "u": "https://www.nps.gov/neri/learn/news/new-river-gorge-is-now-a-national-park-and-preserve.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-035",
-   "q": "Before Zion became a national park in 1919, what was it called?",
-   "a": "Mukuntuweap National Monument",
-   "w": [
-    "Virgin River State Park",
-    "Kolob National Forest",
-    "Zion Forest Reserve"
-   ],
-   "f": "The canyon became a national monument in 1909, and Congress made it Zion National Park on November 19, 1919.",
-   "s": "National Park Service: Zion People",
-   "u": "https://www.nps.gov/zion/learn/historyculture/people.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-082",
-   "q": "What is the 'Old Man of the Lake' at Crater Lake?",
-   "a": "A tree trunk that has floated upright for over 100 years",
-   "w": [
-    "A rock island shaped like a face",
-    "A legendary fish",
-    "An old ranger cabin"
-   ],
-   "f": "The 30-foot hemlock log was first recorded in 1896 and drifts around the lake on the wind.",
-   "s": "National Park Service: The Old Man",
-   "u": "https://www.nps.gov/crla/learn/nature/theoldman.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-041",
-   "q": "Which river carved the Grand Canyon?",
-   "a": "Colorado River",
-   "w": [
-    "Rio Grande",
-    "Green River",
-    "Snake River"
-   ],
-   "f": "The Colorado River runs 277 river miles through the canyon.",
-   "s": "National Park Service: Grand Canyon Geology",
-   "u": "https://www.nps.gov/grca/planyourvisit/upload/life_geology.pdf",
-   "d": "easy"
-  },
-  {
-   "id": "np-096",
+   "id": "np-120",
    "d": "medium",
-   "q": "Lassen Volcanic became a national park in 1916, soon after its peak did what?",
-   "a": "Erupted",
+   "q": "What is the most famous tree in Yosemite's Mariposa Grove?",
+   "a": "The Grizzly Giant",
    "w": [
-    "Collapsed into a lake",
-    "Was first climbed",
-    "Grew a glacier"
+    "General Sherman",
+    "Hyperion",
+    "The Old Man"
    ],
-   "f": "Lassen Peak's biggest blast came in May 1915.",
-   "s": "National Park Service: Lassen Park Significance",
-   "u": "https://www.nps.gov/lavo/learn/management/park-significance.htm"
+   "f": "The giant sequoia is 209 feet tall and about 1,800 years old.",
+   "s": "National Park Service: Mariposa Grove",
+   "u": "https://www.nps.gov/yose/planyourvisit/mg.htm"
   },
   {
-   "id": "np-014",
-   "q": "For how many miles does the Rio Grande form Big Bend National Park's southern boundary?",
-   "a": "118 miles",
+   "id": "np-075",
+   "q": "Which Alaska national park has the largest active sand dune field in arctic North America?",
+   "a": "Kobuk Valley",
    "w": [
-    "12 miles",
-    "48 miles",
-    "300 miles"
+    "Lake Clark",
+    "Katmai",
+    "Kenai Fjords"
    ],
-   "f": "The river's big southward curve through the area gives the park its name.",
-   "s": "National Park Service: The Rio Grande",
-   "u": "https://www.nps.gov/bibe/learn/nature/riogrand.htm",
+   "f": "Caribou herds cross the Great Kobuk Sand Dunes on their spring and fall migrations.",
+   "s": "National Park Service: Great Kobuk Sand Dunes",
+   "u": "https://www.nps.gov/kova/learn/nature/great-kobuk-sand-dunes.htm",
    "d": "hard"
   },
   {
-   "id": "np-008",
-   "q": "Which Alaska national park has no roads, trails or campgrounds at all?",
-   "a": "Gates of the Arctic",
+   "id": "np-111",
+   "d": "easy",
+   "q": "Which president is NOT carved into Mount Rushmore?",
+   "a": "Franklin D. Roosevelt",
    "w": [
-    "Denali",
-    "Kenai Fjords",
-    "Glacier Bay"
+    "George Washington",
+    "Abraham Lincoln",
+    "Theodore Roosevelt"
    ],
-   "f": "Most visitors fly in on small planes with floats or tundra tires. Experienced hikers count six miles as a good day.",
+   "f": "The sculptor chose Washington, Jefferson, Theodore Roosevelt and Lincoln to represent the nation's birth, growth, development and preservation.",
+   "s": "National Park Service: Why These Four Presidents?",
+   "u": "https://www.nps.gov/moru/learn/historyculture/why-these-four-presidents.htm"
+  },
+  {
+   "id": "np-051",
+   "q": "Fort Jefferson, a huge 1800s brick fort, is in which national park?",
+   "a": "Dry Tortugas",
+   "w": [
+    "Biscayne",
+    "Virgin Islands",
+    "Everglades"
+   ],
+   "f": "The park is almost 70 miles west of Key West, and the only way in is by boat or seaplane.",
+   "s": "National Park Service: Dry Tortugas Directions",
+   "u": "https://www.nps.gov/drto/planyourvisit/directions.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-086",
+   "q": "Which giant sequoia was named 'the Nation's Christmas Tree' in 1926?",
+   "a": "General Grant",
+   "w": [
+    "General Sherman",
+    "President",
+    "Lincoln"
+   ],
+   "f": "It grows in Grant Grove in Kings Canyon National Park, and people still hike to it every December.",
+   "s": "National Park Service: The General Grant Tree",
+   "u": "https://www.nps.gov/seki/learn/nature/grant.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-027",
+   "q": "How tall is North America's highest peak, in Denali National Park?",
+   "a": "20,310 feet",
+   "w": [
+    "14,505 feet",
+    "18,008 feet",
+    "22,841 feet"
+   ],
+   "f": "In 2025 the peak's official name went back to Mount McKinley, but the park is still called Denali National Park and Preserve.",
+   "s": "National Park Service: Mountain Name Origins",
+   "u": "https://www.nps.gov/dena/learn/historyculture/mountain-name.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-124",
+   "d": "easy",
+   "q": "Acadia National Park is in which state?",
+   "a": "Maine",
+   "w": [
+    "Vermont",
+    "Massachusetts",
+    "New Hampshire"
+   ],
+   "f": "Most of the park is on Mount Desert Island, along the Atlantic coast.",
+   "s": "National Park Service: Acadia",
+   "u": "https://www.nps.gov/acad/index.htm"
+  },
+  {
+   "id": "np-067",
+   "q": "Which two rivers divide Canyonlands National Park into its districts?",
+   "a": "The Green and the Colorado",
+   "w": [
+    "The Snake and the Columbia",
+    "The San Juan and the Virgin",
+    "The Gunnison and the Arkansas"
+   ],
+   "f": "No roads cross the rivers inside the park, so driving between districts can take 2 to 6 hours.",
+   "s": "National Park Service: Canyonlands Places to Go",
+   "u": "https://www.nps.gov/cany/planyourvisit/placestogo.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-030",
+   "q": "Badlands National Park is famous for what besides its striped buttes?",
+   "a": "Fossil beds",
+   "w": [
+    "Hot springs",
+    "Glaciers",
+    "Redwood groves"
+   ],
+   "f": "It has one of the world's richest fossil mammal beds. Fossils found there include ancient rhinos and saber-toothed cats.",
+   "s": "National Park Service: Paleontology in the White River Badlands",
+   "u": "https://www.nps.gov/articles/000/paleontology-badl.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-118",
+   "d": "hard",
+   "q": "About how big is Gates of the Arctic National Park, which has no trails at all?",
+   "a": "8.4 million acres",
+   "w": [
+    "84,000 acres",
+    "840,000 acres",
+    "84 million acres"
+   ],
+   "f": "Experienced hikers count six miles as a good day there.",
    "s": "National Park Service: Gates of the Arctic",
-   "u": "https://www.nps.gov/gaar/planyourvisit/gettingaround.htm",
-   "d": "medium"
+   "u": "https://www.nps.gov/gaar/index.htm"
   },
   {
-   "id": "np-042",
-   "q": "Who is often called the 'Father of the National Parks'?",
-   "a": "John Muir",
+   "id": "np-006",
+   "q": "Which national park has the tallest sand dunes in North America?",
+   "a": "Great Sand Dunes",
    "w": [
-    "Theodore Roosevelt",
-    "Ansel Adams",
-    "Gifford Pinchot"
+    "White Sands",
+    "Death Valley",
+    "Indiana Dunes"
    ],
-   "f": "Muir's writing helped start a national conservation movement. He also helped create the Sierra Club in 1892.",
-   "s": "National Park Service: National Park Service Remembers John Muir",
-   "u": "https://www.nps.gov/jomu/learn/news/national-park-service-remembers-john-muir.htm",
-   "d": "medium"
-  },
-  {
-   "id": "np-070",
-   "q": "Petrified Forest's fossil logs date to which era of Earth's history?",
-   "a": "The Late Triassic, more than 200 million years ago",
-   "w": [
-    "The Ice Age, 20,000 years ago",
-    "The Cretaceous, 70 million years ago",
-    "The Cambrian, 500 million years ago"
-   ],
-   "f": "The trees fell into ancient rivers about 216 million years ago, then slowly turned to stone.",
-   "s": "National Park Service: Giant Logs",
-   "u": "https://www.nps.gov/places/giant-logs-trail-stop-1.htm",
-   "d": "hard"
-  },
-  {
-   "id": "np-011",
-   "q": "Haleakalā National Park is on which Hawaiian island?",
-   "a": "Maui",
-   "w": [
-    "Oʻahu",
-    "Kauaʻi",
-    "The Big Island"
-   ],
-   "f": "The summit is 10,023 feet high, and you need a reservation to watch the sunrise from the top.",
-   "s": "National Park Service: Haleakalā Geology",
-   "u": "https://www.nps.gov/hale/learn/nature/geology-guide.htm",
+   "f": "Star Dune and Hidden Dune are tied for tallest at about 741 feet. The park is in Colorado.",
+   "s": "National Park Service: Star Dune",
+   "u": "https://www.nps.gov/places/star-dune.htm",
    "d": "easy"
   },
   {
@@ -1444,32 +660,60 @@
    "u": "https://www.nps.gov/articles/pele.htm"
   },
   {
-   "id": "np-061",
-   "q": "Death Valley holds the world record for the hottest air temperature ever measured. What was it?",
-   "a": "134°F",
+   "id": "np-043",
+   "q": "Which California park, known for its endangered condors, became a national park in 2013?",
+   "a": "Pinnacles",
    "w": [
-    "118°F",
-    "126°F",
-    "142°F"
+    "Joshua Tree",
+    "Channel Islands",
+    "Lassen Volcanic"
    ],
-   "f": "It was recorded at Furnace Creek on July 10, 1913.",
-   "s": "National Park Service: Death Valley Weather",
-   "u": "https://www.nps.gov/deva/learn/nature/weather-and-climate.htm",
+   "f": "Pinnacles was the 59th national park, and it helps reintroduce California condors to the wild.",
+   "s": "National Park Service: Pinnacles Present Day",
+   "u": "https://home.nps.gov/pinn/learn/historyculture/present-day.htm",
    "d": "medium"
   },
   {
-   "id": "np-009",
-   "q": "At Saguaro National Park, about how old is a saguaro cactus when it grows its first arm?",
-   "a": "50 to 70 years",
+   "id": "np-049",
+   "q": "Which two deserts meet in Joshua Tree National Park?",
+   "a": "Mojave and Colorado",
    "w": [
-    "5 to 10 years",
-    "20 years",
-    "200 years"
+    "Sonoran and Chihuahuan",
+    "Great Basin and Mojave",
+    "Painted and Sonoran"
    ],
-   "f": "In drier spots, it can take 100 years for a saguaro to grow an arm.",
-   "s": "National Park Service: Saguaro Arms Project",
-   "u": "https://www.nps.gov/sagu/learn/saguaro-arms-project.htm",
+   "f": "Joshua trees grow in the higher, cooler Mojave part of the park, while the Colorado Desert lies below 3,000 feet.",
+   "s": "National Park Service: Joshua Tree Map and Brochure",
+   "u": "https://www.nps.gov/jotr/planyourvisit/park-map-and-brochure.htm",
    "d": "hard"
+  },
+  {
+   "id": "np-084",
+   "q": "Which endangered animal was reintroduced to Badlands National Park in 1994?",
+   "a": "Black-footed ferret",
+   "w": [
+    "Gray wolf",
+    "California condor",
+    "Swift fox"
+   ],
+   "f": "By the mid-1980s only 18 were left in the world. All of them were taken into captive breeding.",
+   "s": "National Park Service: Black-footed Ferret",
+   "u": "https://www.nps.gov/articles/000/black-footed-ferret-badl.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-010",
+   "q": "The General Sherman Tree, the largest tree on Earth by volume, is in which park?",
+   "a": "Sequoia",
+   "w": [
+    "Redwood",
+    "Yosemite",
+    "Kings Canyon"
+   ],
+   "f": "General Sherman is about 275 feet tall. The latest estimate puts its age at about 2,200 years.",
+   "s": "National Park Service: The General Sherman Tree",
+   "u": "https://www.nps.gov/seki/learn/nature/sherman.htm",
+   "d": "easy"
   },
   {
    "id": "np-058",
@@ -1486,31 +730,171 @@
    "d": "medium"
   },
   {
-   "id": "np-052",
-   "q": "At Carlsbad Caverns, visitors gather on summer evenings to watch which animals fly out of the cave?",
-   "a": "Brazilian free-tailed bats",
+   "id": "np-035",
+   "q": "Before Zion became a national park in 1919, what was it called?",
+   "a": "Mukuntuweap National Monument",
    "w": [
-    "Cliff swallows",
-    "Monarch butterflies",
-    "Vampire bats"
+    "Virgin River State Park",
+    "Kolob National Forest",
+    "Zion Forest Reserve"
    ],
-   "f": "Rangers hold a free Bat Flight Program at the cave's Natural Entrance. Cameras and other electronics aren't allowed, to protect the bats.",
-   "s": "National Park Service: Bat Flight Program",
-   "u": "https://www.nps.gov/cave/planyourvisit/bat_flight_program.htm",
+   "f": "The canyon became a national monument in 1909, and Congress made it Zion National Park on November 19, 1919.",
+   "s": "National Park Service: Zion People",
+   "u": "https://www.nps.gov/zion/learn/historyculture/people.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-020",
+   "q": "Who built Acadia's 45 miles of car-free carriage roads?",
+   "a": "John D. Rockefeller Jr.",
+   "w": [
+    "Andrew Carnegie",
+    "Henry Ford",
+    "Theodore Roosevelt"
+   ],
+   "f": "He built them between 1913 and 1940 and paid for 16 of the 17 stone-faced bridges.",
+   "s": "National Park Service: Acadia Carriage Roads",
+   "u": "https://www.nps.gov/acad/learn/historyculture/historiccarriageroads.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-119",
+   "d": "easy",
+   "q": "Which famous arch is a widely recognized symbol of Utah?",
+   "a": "Delicate Arch",
+   "w": [
+    "Landscape Arch",
+    "Rainbow Bridge",
+    "Gateway Arch"
+   ],
+   "f": "The 3-mile round-trip hike to it climbs about 480 feet.",
+   "s": "National Park Service: Delicate Arch",
+   "u": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm"
+  },
+  {
+   "id": "np-021",
+   "q": "Which island park in Lake Superior is home to the world's longest-running predator-prey study?",
+   "a": "Isle Royale",
+   "w": [
+    "Apostle Islands",
+    "Voyageurs",
+    "Sleeping Bear Dunes"
+   ],
+   "f": "Scientists have studied the island's wolves and moose since 1958.",
+   "s": "National Park Service: Wolves, an Ecological Study",
+   "u": "https://www.nps.gov/isro/learn/nature/ecological-studies-of-wolves-on-isle-royale.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-014",
+   "q": "For how many miles does the Rio Grande form Big Bend National Park's southern boundary?",
+   "a": "118 miles",
+   "w": [
+    "12 miles",
+    "48 miles",
+    "300 miles"
+   ],
+   "f": "The river's big southward curve through the area gives the park its name.",
+   "s": "National Park Service: The Rio Grande",
+   "u": "https://www.nps.gov/bibe/learn/nature/riogrand.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-033",
+   "q": "Which West Virginia park became a national park in December 2020?",
+   "a": "New River Gorge",
+   "w": [
+    "Monongahela",
+    "Harpers Ferry",
+    "Seneca Rocks"
+   ],
+   "f": "It had been a unit of the park system since 1978, when it was designated New River Gorge National River.",
+   "s": "National Park Service: New River Gorge is Now a National Park",
+   "u": "https://www.nps.gov/neri/learn/news/new-river-gorge-is-now-a-national-park-and-preserve.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-047",
+   "q": "Cuyahoga Valley National Park is in which state?",
+   "a": "Ohio",
+   "w": [
+    "Indiana",
+    "Pennsylvania",
+    "Michigan"
+   ],
+   "f": "The Cuyahoga Valley Scenic Railroad runs 26 miles through the park.",
+   "s": "National Park Service: Scenic Train Ride",
+   "u": "https://www.nps.gov/cuva/planyourvisit/train.htm",
    "d": "easy"
   },
   {
-   "id": "np-069",
-   "q": "Great Smoky Mountains National Park is nicknamed the world capital of which animal?",
-   "a": "Salamanders",
+   "id": "np-023",
+   "q": "Which is the only U.S. national park south of the equator?",
+   "a": "National Park of American Samoa",
    "w": [
-    "Black bears",
-    "Fireflies",
-    "Hummingbirds"
+    "Haleakalā",
+    "Virgin Islands",
+    "Hawaiʻi Volcanoes"
    ],
-   "f": "The park has more salamander species than any other place on Earth, including the red-cheeked salamander, which lives nowhere else.",
-   "s": "National Park Service: Great Smoky Mountains FAQs",
-   "u": "https://www.nps.gov/grsm/faqs.htm",
+   "f": "The park protects tropical rainforest and Indo-Pacific coral reefs.",
+   "s": "National Park Service: American Samoa Fact Sheet",
+   "u": "https://www.nps.gov/npsa/learn/news/fact-sheet.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-080",
+   "q": "During the winter of 1971–72, how much snow fell at Paradise on Mount Rainier?",
+   "a": "1,122 inches",
+   "w": [
+    "122 inches",
+    "422 inches",
+    "2,500 inches"
+   ],
+   "f": "That's 93.5 feet. It held the world record for annual snowfall until 1998.",
+   "s": "National Park Service: Mount Rainier Snowfall",
+   "u": "https://www.nps.gov/mora/planyourvisit/annual-snowfall-totals.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-065",
+   "q": "About 40% of which Minnesota national park is water?",
+   "a": "Voyageurs",
+   "w": [
+    "Isle Royale",
+    "Apostle Islands",
+    "Indiana Dunes"
+   ],
+   "f": "Houseboats are a popular way to explore it. They're rented from outfitters just outside the park.",
+   "s": "National Park Service: Houseboating in Voyageurs",
+   "u": "https://www.nps.gov/voya/planyourvisit/houseboating.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-071",
+   "q": "How are supplies carried down to Phantom Ranch at the bottom of the Grand Canyon?",
+   "a": "By mule",
+   "w": [
+    "By helicopter only",
+    "By cable car",
+    "By river barge"
+   ],
+   "f": "Mule trains also pack supplies for trail crews and ranger stations deep in the canyon.",
+   "s": "National Park Service: Mule Trips",
+   "u": "https://www.nps.gov/grca/planyourvisit/mule_trips.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-012",
+   "q": "Which national park gets the most visitors?",
+   "a": "Great Smoky Mountains",
+   "w": [
+    "Grand Canyon",
+    "Yellowstone",
+    "Zion"
+   ],
+   "f": "It recorded more than 12 million recreational visits in 2024. There's no entrance fee, but you need a parking tag.",
+   "s": "National Park Service: Great Smoky Mountains Park Statistics",
+   "u": "https://www.nps.gov/grsm/learn/management/statistics.htm",
    "d": "medium"
   },
   {
@@ -1528,102 +912,102 @@
    "u": "https://www.nps.gov/care/learn/nature/geology.htm"
   },
   {
-   "id": "np-076",
-   "q": "Alaska's Kennecott, inside Wrangell–St. Elias, is a historic mill town for mining which metal?",
-   "a": "Copper",
+   "id": "np-093",
+   "q": "Wind Cave has more of which rare honeycomb-like cave formation than all other caves combined?",
+   "a": "Boxwork",
    "w": [
-    "Gold",
-    "Silver",
-    "Coal"
+    "Stalactites",
+    "Cave pearls",
+    "Popcorn"
    ],
-   "f": "From 1911 to 1938, nearly $200 million worth of copper was processed in its 14-story mill.",
-   "s": "National Park Service: Kennecott Mines",
-   "u": "https://www.nps.gov/wrst/learn/historyculture/kennecott-mines-national-historic-landmark.htm",
+   "f": "Boxwork is made of thin calcite fins that stick out from the cave walls and ceilings.",
+   "s": "National Park Service: Wind Cave Speleothems",
+   "u": "https://home.nps.gov/wica/learn/nature/cave-formations-speleothems.htm",
    "d": "medium"
   },
   {
-   "id": "np-111",
-   "d": "easy",
-   "q": "Which president is NOT carved into Mount Rushmore?",
-   "a": "Franklin D. Roosevelt",
+   "id": "np-004",
+   "q": "How far does Yosemite Falls drop in total?",
+   "a": "2,425 feet",
    "w": [
-    "George Washington",
-    "Abraham Lincoln",
-    "Theodore Roosevelt"
+    "620 feet",
+    "1,430 feet",
+    "3,212 feet"
    ],
-   "f": "The sculptor chose Washington, Jefferson, Theodore Roosevelt and Lincoln to represent the nation's birth, growth, development and preservation.",
-   "s": "National Park Service: Why These Four Presidents?",
-   "u": "https://www.nps.gov/moru/learn/historyculture/why-these-four-presidents.htm"
+   "f": "It falls in three sections: the 1,430-foot upper fall, 675 feet of middle cascades, and the 320-foot lower fall.",
+   "s": "National Park Service: Yosemite Waterfalls",
+   "u": "https://www.nps.gov/yose/planyourvisit/waterfalls.htm",
+   "d": "hard"
   },
   {
-   "id": "np-112",
-   "d": "medium",
-   "q": "How did Death Valley's Badwater Basin get its name, according to a popular story?",
-   "a": "A surveyor's mule refused to drink the water",
+   "id": "np-005",
+   "q": "Fat Bear Week celebrates the brown bears of which national park?",
+   "a": "Katmai",
    "w": [
-    "Gold miners poisoned it",
-    "A flood ruined a town there",
-    "It glows green at night"
+    "Denali",
+    "Glacier Bay",
+    "Yellowstone"
    ],
-   "f": "The water isn't poisonous, just very salty.",
-   "s": "National Park Service: Badwater Basin",
-   "u": "https://www.nps.gov/places/badwater-basin.htm"
+   "f": "Fat Bear Week started in 2014. The bears fatten up on salmon at Brooks Falls before winter.",
+   "s": "National Park Service: Fat Bear Week",
+   "u": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm",
+   "d": "medium"
   },
   {
-   "id": "np-113",
-   "d": "hard",
-   "q": "The observation tower on Kuwohi (formerly Clingmans Dome) was built in what year?",
-   "a": "1959",
+   "id": "np-011",
+   "q": "Haleakalā National Park is on which Hawaiian island?",
+   "a": "Maui",
    "w": [
-    "1909",
-    "1935",
-    "1999"
+    "Oʻahu",
+    "Kauaʻi",
+    "The Big Island"
    ],
-   "f": "The 45-foot tower has a 375-foot spiral ramp to the top.",
-   "s": "National Park Service: Kuwohi Observation Tower",
-   "u": "https://www.nps.gov/places/kuwohi-observation-tower.htm"
+   "f": "The summit is 10,023 feet high, and you need a reservation to watch the sunrise from the top.",
+   "s": "National Park Service: Haleakalā Geology",
+   "u": "https://www.nps.gov/hale/learn/nature/geology-guide.htm",
+   "d": "easy"
   },
   {
-   "id": "np-114",
-   "d": "easy",
-   "q": "Which animal appears on the National Park Service arrowhead logo?",
-   "a": "A bison",
+   "id": "np-081",
+   "q": "Marjory Stoneman Douglas's famous 1947 book called the Everglades what?",
+   "a": "The River of Grass",
    "w": [
-    "A bald eagle",
-    "A grizzly bear",
-    "A mountain lion"
+    "America's Swamp",
+    "The Sea of Sawgrass",
+    "The Glades of Gold"
    ],
-   "f": "The bison stands for all the wildlife the parks protect.",
-   "s": "National Park Service: History of the NPS Arrowhead",
-   "u": "https://www.nps.gov/glac/learn/news/history-of-the-nps-arrowhead.htm"
+   "f": "Everglades National Park was dedicated later that same year, in December 1947.",
+   "s": "National Park Service: Marjory Stoneman Douglas",
+   "u": "https://www.nps.gov/ever/learn/historyculture/msdouglas.htm",
+   "d": "medium"
   },
   {
-   "id": "np-115",
-   "d": "easy",
-   "q": "Which of these is a national memorial, not a national park?",
-   "a": "Mount Rushmore",
+   "id": "np-083",
+   "q": "Isle Royale National Park closes to all visitors during what part of the year?",
+   "a": "November 1 to April 15",
    "w": [
-    "Zion",
-    "Acadia",
-    "Glacier"
+    "Only on holidays",
+    "July and August",
+    "It never closes"
    ],
-   "f": "The National Park Service runs it, but it's officially a national memorial.",
-   "s": "National Park Service: Mount Rushmore National Memorial",
-   "u": "https://www.nps.gov/moru/index.htm"
+   "f": "Lake Superior's winter weather makes the island unsafe. Only wolf and moose researchers stay through the winter.",
+   "s": "National Park Service: Isle Royale Hours and Seasons",
+   "u": "https://www.nps.gov/isro/planyourvisit/hours.htm",
+   "d": "hard"
   },
   {
-   "id": "np-116",
-   "d": "medium",
-   "q": "How tall is the opening under Delicate Arch?",
-   "a": "46 feet",
+   "id": "np-082",
+   "q": "What is the 'Old Man of the Lake' at Crater Lake?",
+   "a": "A tree trunk that has floated upright for over 100 years",
    "w": [
-    "6 feet",
-    "146 feet",
-    "460 feet"
+    "A rock island shaped like a face",
+    "A legendary fish",
+    "An old ranger cabin"
    ],
-   "f": "It's the largest free-standing arch in Arches National Park.",
-   "s": "National Park Service: Delicate Arch",
-   "u": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm"
+   "f": "The 30-foot hemlock log was first recorded in 1896 and drifts around the lake on the wind.",
+   "s": "National Park Service: The Old Man",
+   "u": "https://www.nps.gov/crla/learn/nature/theoldman.htm",
+   "d": "medium"
   },
   {
    "id": "np-117",
@@ -1640,60 +1024,242 @@
    "u": "https://www.nps.gov/grsm/planyourvisit/whynoentrancefee.htm"
   },
   {
-   "id": "np-118",
-   "d": "hard",
-   "q": "About how big is Gates of the Arctic National Park, which has no trails at all?",
-   "a": "8.4 million acres",
+   "id": "np-042",
+   "q": "Who is often called the 'Father of the National Parks'?",
+   "a": "John Muir",
    "w": [
-    "84,000 acres",
-    "840,000 acres",
-    "84 million acres"
+    "Theodore Roosevelt",
+    "Ansel Adams",
+    "Gifford Pinchot"
    ],
-   "f": "Experienced hikers count six miles as a good day there.",
-   "s": "National Park Service: Gates of the Arctic",
-   "u": "https://www.nps.gov/gaar/index.htm"
+   "f": "Muir's writing helped start a national conservation movement. He also helped create the Sierra Club in 1892.",
+   "s": "National Park Service: National Park Service Remembers John Muir",
+   "u": "https://www.nps.gov/jomu/learn/news/national-park-service-remembers-john-muir.htm",
+   "d": "medium"
   },
   {
-   "id": "np-119",
-   "d": "easy",
-   "q": "Which famous arch is a widely recognized symbol of Utah?",
-   "a": "Delicate Arch",
+   "id": "np-094",
+   "d": "hard",
+   "q": "The rainwater that comes out of Hot Springs National Park's springs fell about how long ago?",
+   "a": "About 4,400 years ago",
    "w": [
-    "Landscape Arch",
-    "Rainbow Bridge",
-    "Gateway Arch"
+    "About 4 days ago",
+    "About 40 years ago",
+    "About 4 million years ago"
    ],
-   "f": "The 3-mile round-trip hike to it climbs about 480 feet.",
+   "f": "It sinks deep underground, heats up and comes back out at about 143°F.",
+   "s": "National Park Service: Hot Springs Geology",
+   "u": "https://www.nps.gov/hosp/learn/nature/hotsprings.htm"
+  },
+  {
+   "id": "np-116",
+   "d": "medium",
+   "q": "How tall is the opening under Delicate Arch?",
+   "a": "46 feet",
+   "w": [
+    "6 feet",
+    "146 feet",
+    "460 feet"
+   ],
+   "f": "It's the largest free-standing arch in Arches National Park.",
    "s": "National Park Service: Delicate Arch",
    "u": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm"
   },
   {
-   "id": "np-120",
-   "d": "medium",
-   "q": "What is the most famous tree in Yosemite's Mariposa Grove?",
-   "a": "The Grizzly Giant",
+   "id": "np-074",
+   "q": "Since 2022, what do you need to hike the final chained section of Zion's Angels Landing?",
+   "a": "A permit",
    "w": [
-    "General Sherman",
-    "Hyperion",
-    "The Old Man"
+    "A helmet",
+    "A ranger escort",
+    "A climbing harness"
    ],
-   "f": "The giant sequoia is 209 feet tall and about 1,800 years old.",
-   "s": "National Park Service: Mariposa Grove",
-   "u": "https://www.nps.gov/yose/planyourvisit/mg.htm"
+   "f": "Without a permit you can still hike as far as Scout Lookout.",
+   "s": "National Park Service: Angels Landing Permits",
+   "u": "https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm",
+   "d": "easy"
   },
   {
-   "id": "np-121",
-   "d": "easy",
-   "q": "What do kids usually earn for finishing a park's Junior Ranger activity book?",
-   "a": "A Junior Ranger badge",
+   "id": "np-032",
+   "q": "Which park, on Lake Michigan, became the 61st national park in 2019?",
+   "a": "Indiana Dunes",
    "w": [
-    "A free campsite",
-    "A real ranger hat",
-    "A national parks pass"
+    "Sleeping Bear Dunes",
+    "Pictured Rocks",
+    "Apostle Islands"
    ],
-   "f": "Most parks give the booklets out free at visitor centers, and many let you download them.",
-   "s": "National Park Service: Junior Ranger Programs",
-   "u": "https://www.nps.gov/thingstodo/junior-ranger-programs.htm"
+   "f": "It had been Indiana Dunes National Lakeshore since 1966.",
+   "s": "National Park Service: Indiana Dunes FAQs",
+   "u": "https://www.nps.gov/indu/faqs.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-029",
+   "q": "What is the highest point on Trail Ridge Road in Rocky Mountain National Park?",
+   "a": "12,183 feet",
+   "w": [
+    "9,450 feet",
+    "10,947 feet",
+    "14,115 feet"
+   ],
+   "f": "The road runs 48 miles between Estes Park and Grand Lake.",
+   "s": "National Park Service: Trail Ridge Road",
+   "u": "https://www.nps.gov/romo/planyourvisit/trail_ridge_road.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-008",
+   "q": "Which Alaska national park has no roads, trails or campgrounds at all?",
+   "a": "Gates of the Arctic",
+   "w": [
+    "Denali",
+    "Kenai Fjords",
+    "Glacier Bay"
+   ],
+   "f": "Most visitors fly in on small planes with floats or tundra tires. Experienced hikers count six miles as a good day.",
+   "s": "National Park Service: Gates of the Arctic",
+   "u": "https://www.nps.gov/gaar/planyourvisit/gettingaround.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-052",
+   "q": "At Carlsbad Caverns, visitors gather on summer evenings to watch which animals fly out of the cave?",
+   "a": "Brazilian free-tailed bats",
+   "w": [
+    "Cliff swallows",
+    "Monarch butterflies",
+    "Vampire bats"
+   ],
+   "f": "Rangers hold a free Bat Flight Program at the cave's Natural Entrance. Cameras and other electronics aren't allowed, to protect the bats.",
+   "s": "National Park Service: Bat Flight Program",
+   "u": "https://www.nps.gov/cave/planyourvisit/bat_flight_program.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-026",
+   "q": "Which is the smallest U.S. national park?",
+   "a": "Gateway Arch",
+   "w": [
+    "Hot Springs",
+    "Acadia",
+    "Congaree"
+   ],
+   "f": "The St. Louis park covers about 91 acres.",
+   "s": "National Park Service: Gateway Arch Nature",
+   "u": "https://www.nps.gov/jeff/learn/nature/nature.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-079",
+   "q": "About how many steps climb to the top of Sequoia's Moro Rock?",
+   "a": "About 350",
+   "w": [
+    "About 50",
+    "About 1,000",
+    "About 2,500"
+   ],
+   "f": "The historic staircase climbs about 300 feet to a granite summit with huge views.",
+   "s": "National Park Service: Moro Rock",
+   "u": "https://www.nps.gov/seki/planyourvisit/moro.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-077",
+   "q": "When is the best time to hear Acadia's Thunder Hole boom?",
+   "a": "One to two hours before high tide",
+   "w": [
+    "At low tide",
+    "At midnight",
+    "Right after it rains"
+   ],
+   "f": "Waves trap air in a small cave, and when it bursts out, spray can shoot more than 40 feet high.",
+   "s": "National Park Service: Thunder Hole",
+   "u": "https://www.nps.gov/places/thunder-hole.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-039",
+   "q": "Which was the first national park created to protect a cave?",
+   "a": "Wind Cave",
+   "w": [
+    "Mammoth Cave",
+    "Carlsbad Caverns",
+    "Jewel Cave"
+   ],
+   "f": "Theodore Roosevelt signed the bill on January 9, 1903, making Wind Cave the eighth national park.",
+   "s": "National Park Service: A National Park is Created",
+   "u": "https://www.nps.gov/wica/learn/historyculture/birth-of-a-national-park-a-national-park-is-created.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-045",
+   "q": "Which national park has more than 2,000 documented natural stone arches?",
+   "a": "Arches",
+   "w": [
+    "Canyonlands",
+    "Capitol Reef",
+    "Bryce Canyon"
+   ],
+   "f": "The park has the densest concentration of natural stone arches in the world. The longest, Landscape Arch, spans 306 feet.",
+   "s": "National Park Service: Arches",
+   "u": "https://www.nps.gov/arch/learn/nature/arches.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-105",
+   "d": "hard",
+   "q": "In 1995, only about how many Florida panthers were left in the wild?",
+   "a": "20 to 30",
+   "w": [
+    "2 or 3",
+    "200 to 300",
+    "2,000"
+   ],
+   "f": "A genetic rescue program helped, and in 2020 South Florida had an estimated 120 to 230.",
+   "s": "National Park Service: Florida Panther",
+   "u": "https://www.nps.gov/ever/learn/nature/floridapanther.htm"
+  },
+  {
+   "id": "np-107",
+   "d": "medium",
+   "q": "Kings Canyon is the deepest canyon in which mountain range?",
+   "a": "The Sierra Nevada",
+   "w": [
+    "The Rocky Mountains",
+    "The Cascades",
+    "The Appalachians"
+   ],
+   "f": "The Cedar Grove area sits at the heart of the canyon.",
+   "s": "National Park Service: Kings Canyon",
+   "u": "https://www.nps.gov/seki/planyourvisit/kings-canyon-national-park.htm"
+  },
+  {
+   "id": "np-072",
+   "q": "Carlsbad Caverns' Big Room is the largest what in North America?",
+   "a": "Cave chamber",
+   "w": [
+    "Underground lake",
+    "Stalactite",
+    "Bat colony"
+   ],
+   "f": "Its floor covers about 8.2 acres, and a self-guided trail loops around it.",
+   "s": "National Park Service: Carlsbad Cavern",
+   "u": "https://www.nps.gov/places/carlsbad-cavern.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-097",
+   "d": "easy",
+   "q": "Which is the only national park with working sled dogs?",
+   "a": "Denali",
+   "w": [
+    "Glacier Bay",
+    "Yellowstone",
+    "Gates of the Arctic"
+   ],
+   "f": "The kennels started in 1922, and the dogs still patrol the park's wilderness in winter.",
+   "s": "National Park Service: Denali Kennels",
+   "u": "https://www.nps.gov/dena/planyourvisit/kennels.htm"
   },
   {
    "id": "np-122",
@@ -1710,46 +1276,368 @@
    "u": "https://www.nps.gov/yose/learn/historyculture/explorers-and-recorders.htm"
   },
   {
-   "id": "np-123",
-   "d": "easy",
-   "q": "Grand Canyon National Park is in which state?",
-   "a": "Arizona",
-   "w": [
-    "Utah",
-    "Nevada",
-    "Colorado"
-   ],
-   "f": "The Colorado River carved the canyon, which is about a mile deep in places.",
-   "s": "National Park Service: Grand Canyon",
-   "u": "https://www.nps.gov/grca/index.htm"
-  },
-  {
-   "id": "np-124",
-   "d": "easy",
-   "q": "Acadia National Park is in which state?",
-   "a": "Maine",
-   "w": [
-    "Vermont",
-    "Massachusetts",
-    "New Hampshire"
-   ],
-   "f": "Most of the park is on Mount Desert Island, along the Atlantic coast.",
-   "s": "National Park Service: Acadia",
-   "u": "https://www.nps.gov/acad/index.htm"
-  },
-  {
-   "id": "np-125",
+   "id": "np-110",
    "d": "medium",
-   "q": "At its deepest, the Grand Canyon is about how deep?",
-   "a": "About a mile (6,000 feet)",
+   "q": "What is the highest peak in Rocky Mountain National Park?",
+   "a": "Longs Peak",
    "w": [
-    "About 600 feet",
-    "About 3 miles",
-    "About 10 miles"
+    "Pikes Peak",
+    "Mount Elbert",
+    "Hallett Peak"
    ],
-   "f": "It's 277 river miles long.",
-   "s": "National Park Service: Grand Canyon FAQs",
-   "u": "https://www.nps.gov/grca/faqs.htm"
+   "f": "At 14,259 feet, the Keyhole Route to its top is a long, exposed climb, not a simple hike.",
+   "s": "National Park Service: Longs Peak",
+   "u": "https://home.nps.gov/romo/planyourvisit/longspeak.htm"
+  },
+  {
+   "id": "np-078",
+   "q": "In 1978, Mesa Verde and which other park became the first U.S. World Heritage Sites?",
+   "a": "Yellowstone",
+   "w": [
+    "Grand Canyon",
+    "Yosemite",
+    "Everglades"
+   ],
+   "f": "Mesa Verde was recognized for its Ancestral Pueblo cliff dwellings, and Yellowstone for its geysers and wildlife.",
+   "s": "National Park Service: Mesa Verde World Heritage",
+   "u": "https://www.nps.gov/meve/learn/management/worldheritage_meve.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-114",
+   "d": "easy",
+   "q": "Which animal appears on the National Park Service arrowhead logo?",
+   "a": "A bison",
+   "w": [
+    "A bald eagle",
+    "A grizzly bear",
+    "A mountain lion"
+   ],
+   "f": "The bison stands for all the wildlife the parks protect.",
+   "s": "National Park Service: History of the NPS Arrowhead",
+   "u": "https://www.nps.gov/glac/learn/news/history-of-the-nps-arrowhead.htm"
+  },
+  {
+   "id": "np-068",
+   "q": "The highest peak in the contiguous United States sits on the edge of which national park?",
+   "a": "Sequoia",
+   "w": [
+    "Yosemite",
+    "Rocky Mountain",
+    "Mount Rainier"
+   ],
+   "f": "Mount Whitney rises to 14,505 feet on the park's eastern boundary.",
+   "s": "National Park Service: Mt. Whitney",
+   "u": "https://www.nps.gov/seki/planyourvisit/whitney.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-069",
+   "q": "Great Smoky Mountains National Park is nicknamed the world capital of which animal?",
+   "a": "Salamanders",
+   "w": [
+    "Black bears",
+    "Fireflies",
+    "Hummingbirds"
+   ],
+   "f": "The park has more salamander species than any other place on Earth, including the red-cheeked salamander, which lives nowhere else.",
+   "s": "National Park Service: Great Smoky Mountains FAQs",
+   "u": "https://www.nps.gov/grsm/faqs.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-037",
+   "q": "Which scenic road runs the full length of Shenandoah National Park?",
+   "a": "Skyline Drive",
+   "w": [
+    "Blue Ridge Parkway",
+    "Trail Ridge Road",
+    "Going-to-the-Sun Road"
+   ],
+   "f": "The drive runs 105 miles along the crest of the Blue Ridge Mountains, and it's the park's only public road.",
+   "s": "National Park Service: Driving Skyline Drive",
+   "u": "https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-070",
+   "q": "Petrified Forest's fossil logs date to which era of Earth's history?",
+   "a": "The Late Triassic, more than 200 million years ago",
+   "w": [
+    "The Ice Age, 20,000 years ago",
+    "The Cretaceous, 70 million years ago",
+    "The Cambrian, 500 million years ago"
+   ],
+   "f": "The trees fell into ancient rivers about 216 million years ago, then slowly turned to stone.",
+   "s": "National Park Service: Giant Logs",
+   "u": "https://www.nps.gov/places/giant-logs-trail-stop-1.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-016",
+   "q": "In what year was the National Park Service created?",
+   "a": "1916",
+   "w": [
+    "1872",
+    "1903",
+    "1933"
+   ],
+   "f": "Woodrow Wilson signed the Organic Act on August 25, 1916, and the NPS celebrates that date as its birthday. Stephen Mather was its first director.",
+   "s": "National Park Service: Creation of the National Park Service",
+   "u": "https://www.nps.gov/articles/npshistory-creation.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-015",
+   "q": "Which national park protects the world's longest known cave system?",
+   "a": "Mammoth Cave",
+   "w": [
+    "Carlsbad Caverns",
+    "Wind Cave",
+    "Great Basin"
+   ],
+   "f": "Officially, more than 420 miles of passages have been mapped, and explorers are still finding more.",
+   "s": "National Park Service: Additional Miles Added to Mammoth Cave",
+   "u": "https://www.nps.gov/maca/learn/news/mammoth-cave-national-park-adds-new-miles-to-cave-length.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-092",
+   "q": "What happens on Medano Creek at Great Sand Dunes in late spring?",
+   "a": "It flows in waves, like a beach",
+   "w": [
+    "It freezes solid",
+    "It turns red",
+    "It disappears underground"
+   ],
+   "f": "Tiny sand dams build up and break about every 20 seconds, sending small 'surge' waves down the creek.",
+   "s": "National Park Service: Medano Creek",
+   "u": "https://www.nps.gov/grsa/planyourvisit/medano-creek.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-095",
+   "d": "hard",
+   "q": "In 1864, Lincoln protected Yosemite Valley and which sequoia grove?",
+   "a": "Mariposa Grove",
+   "w": [
+    "Giant Forest",
+    "Grant Grove",
+    "Tuolumne Grove"
+   ],
+   "f": "The grove has more than 500 mature giant sequoias, including the Grizzly Giant.",
+   "s": "National Park Service: Mariposa Grove",
+   "u": "https://www.nps.gov/yose/planyourvisit/mg.htm"
+  },
+  {
+   "id": "np-076",
+   "q": "Alaska's Kennecott, inside Wrangell–St. Elias, is a historic mill town for mining which metal?",
+   "a": "Copper",
+   "w": [
+    "Gold",
+    "Silver",
+    "Coal"
+   ],
+   "f": "From 1911 to 1938, nearly $200 million worth of copper was processed in its 14-story mill.",
+   "s": "National Park Service: Kennecott Mines",
+   "u": "https://www.nps.gov/wrst/learn/historyculture/kennecott-mines-national-historic-landmark.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-018",
+   "q": "Which granite wall rises more than 3,000 feet above Yosemite Valley?",
+   "a": "El Capitan",
+   "w": [
+    "Half Dome",
+    "Glacier Point",
+    "Sentinel Dome"
+   ],
+   "f": "El Capitan is a favorite climb for experienced rock climbers.",
+   "s": "National Park Service: Rock Formations in Yosemite Valley",
+   "u": "https://www.nps.gov/yose/planyourvisit/formations.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-003",
+   "q": "Which park is often called the 'Galápagos of North America'?",
+   "a": "Channel Islands",
+   "w": [
+    "Dry Tortugas",
+    "Isle Royale",
+    "Biscayne"
+   ],
+   "f": "The islands are home to 145 plant and animal species found nowhere else, including the island fox.",
+   "s": "National Park Service: Island Fox",
+   "u": "https://www.nps.gov/chis/learn/nature/island-fox.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-073",
+   "q": "Since about 1750, Glacier Bay's ice has retreated roughly how far?",
+   "a": "About 65 miles",
+   "w": [
+    "About 6 miles",
+    "About 300 miles",
+    "It has grown"
+   ],
+   "f": "When Captain Vancouver's crew passed in 1794, the bay was just a small dent in a huge glacier.",
+   "s": "National Park Service: Glacier Bay's Glacial History",
+   "u": "https://www.nps.gov/glba/learn/nature/glacier-bay-s-glacial-history.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-112",
+   "d": "medium",
+   "q": "How did Death Valley's Badwater Basin get its name, according to a popular story?",
+   "a": "A surveyor's mule refused to drink the water",
+   "w": [
+    "Gold miners poisoned it",
+    "A flood ruined a town there",
+    "It glows green at night"
+   ],
+   "f": "The water isn't poisonous, just very salty.",
+   "s": "National Park Service: Badwater Basin",
+   "u": "https://www.nps.gov/places/badwater-basin.htm"
+  },
+  {
+   "id": "np-127",
+   "d": "easy",
+   "q": "What kind of tree is on the National Park Service arrowhead logo?",
+   "a": "A sequoia",
+   "w": [
+    "An oak",
+    "A palm",
+    "A maple"
+   ],
+   "f": "The tree stands for plants. Mountains and water stand for scenery and recreation, and the arrowhead shape for history.",
+   "s": "National Park Service: History of the NPS Arrowhead",
+   "u": "https://www.nps.gov/glac/learn/news/history-of-the-nps-arrowhead.htm"
+  },
+  {
+   "id": "np-059",
+   "q": "At which Utah national park can you pick fruit from historic orchards?",
+   "a": "Capitol Reef",
+   "w": [
+    "Arches",
+    "Zion",
+    "Canyonlands"
+   ],
+   "f": "You can eat ripe fruit in the Fruita orchards for free. Fruit you take with you is paid for at a self-pay station.",
+   "s": "National Park Service: Capitol Reef Orchards",
+   "u": "https://www.nps.gov/care/learn/historyculture/orchards.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-113",
+   "d": "hard",
+   "q": "The observation tower on Kuwohi (formerly Clingmans Dome) was built in what year?",
+   "a": "1959",
+   "w": [
+    "1909",
+    "1935",
+    "1999"
+   ],
+   "f": "The 45-foot tower has a 375-foot spiral ramp to the top.",
+   "s": "National Park Service: Kuwohi Observation Tower",
+   "u": "https://www.nps.gov/places/kuwohi-observation-tower.htm"
+  },
+  {
+   "id": "np-087",
+   "q": "Theodore Roosevelt National Park's South Unit is home to herds of which animal?",
+   "a": "Wild horses",
+   "w": [
+    "Camels",
+    "Mountain goats",
+    "Moose"
+   ],
+   "f": "They descend from ranch horses that escaped or were let go, and the park manages them as part of its history.",
+   "s": "National Park Service: Horses",
+   "u": "https://www.nps.gov/thro/learn/nature/horses.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-002",
+   "q": "In which national park do alligators and crocodiles live side by side?",
+   "a": "Everglades",
+   "w": [
+    "Big Cypress",
+    "Congaree",
+    "Biscayne"
+   ],
+   "f": "South Florida is the only place where America's two native crocodilian species live together.",
+   "s": "National Park Service: American Crocodile",
+   "u": "https://www.nps.gov/ever/learn/nature/crocodile.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-007",
+   "q": "About 95% of which Florida national park is water?",
+   "a": "Biscayne",
+   "w": [
+    "Everglades",
+    "Dry Tortugas",
+    "Big Cypress"
+   ],
+   "f": "To see most of the park beyond the visitor center, you need a boat.",
+   "s": "National Park Service: Biscayne National Park",
+   "u": "https://www.nps.gov/bisc/index.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-009",
+   "q": "At Saguaro National Park, about how old is a saguaro cactus when it grows its first arm?",
+   "a": "50 to 70 years",
+   "w": [
+    "5 to 10 years",
+    "20 years",
+    "200 years"
+   ],
+   "f": "In drier spots, it can take 100 years for a saguaro to grow an arm.",
+   "s": "National Park Service: Saguaro Arms Project",
+   "u": "https://www.nps.gov/sagu/learn/saguaro-arms-project.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-102",
+   "d": "medium",
+   "q": "How tall is the Gateway Arch in St. Louis?",
+   "a": "630 feet",
+   "w": [
+    "300 feet",
+    "555 feet",
+    "1,000 feet"
+   ],
+   "f": "It's also 630 feet wide at the base. The arch is the tallest human-built monument in the U.S.",
+   "s": "National Park Service: Gateway Arch",
+   "u": "https://www.nps.gov/places/gateway-arch-monument.htm"
+  },
+  {
+   "id": "np-089",
+   "q": "How did Olympic National Park's Hurricane Ridge get its name?",
+   "a": "From its winds, which can gust over 75 mph",
+   "w": [
+    "A 1938 hurricane",
+    "A ship named Hurricane",
+    "A fighter plane"
+   ],
+   "f": "The ridge sits at about 5,242 feet and has sweeping views of the Olympic Mountains.",
+   "s": "National Park Service: Hurricane Ridge Brochure",
+   "u": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge-area-brochure.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-024",
+   "q": "White Sands National Park's dunes are made of what?",
+   "a": "Gypsum",
+   "w": [
+    "Quartz",
+    "Salt",
+    "Crushed coral"
+   ],
+   "f": "The park protects much of the world's largest gypsum dunefield, which covers about 275 square miles.",
+   "s": "National Park Service: White Sands",
+   "u": "https://www.nps.gov/whsa/index.htm",
+   "d": "medium"
   },
   {
    "id": "np-126",
@@ -1766,18 +1654,130 @@
    "u": "https://www.nps.gov/katm/learn/nature/the-bears-of-brooks-river.htm"
   },
   {
-   "id": "np-127",
-   "d": "easy",
-   "q": "What kind of tree is on the National Park Service arrowhead logo?",
-   "a": "A sequoia",
+   "id": "np-103",
+   "d": "medium",
+   "q": "According to legend, Mormon pioneers named the Joshua tree after its branches looked like what?",
+   "a": "Joshua raising his arms",
    "w": [
-    "An oak",
-    "A palm",
-    "A maple"
+    "A ship's mast",
+    "A shepherd's staff",
+    "A candle holder"
    ],
-   "f": "The tree stands for plants. Mountains and water stand for scenery and recreation, and the arrowhead shape for history.",
-   "s": "National Park Service: History of the NPS Arrowhead",
-   "u": "https://www.nps.gov/glac/learn/news/history-of-the-nps-arrowhead.htm"
+   "f": "The NPS notes the story isn't backed by records, so it may be more myth than history.",
+   "s": "National Park Service: Joshua Trees",
+   "u": "https://www.nps.gov/jotr/learn/nature/jtrees.htm"
+  },
+  {
+   "id": "np-025",
+   "q": "What is the most glaciated peak in the contiguous United States?",
+   "a": "Mount Rainier",
+   "w": [
+    "Mount Hood",
+    "Mount Shasta",
+    "Grand Teton"
+   ],
+   "f": "Rainier has 28 named glaciers, which cover about 35 square miles.",
+   "s": "National Park Service: Mount Rainier Press Kit",
+   "u": "https://home.nps.gov/mora/learn/news/presskit.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-031",
+   "q": "Which national park has the deepest lake in the United States?",
+   "a": "Crater Lake",
+   "w": [
+    "Glacier",
+    "Yellowstone",
+    "Isle Royale"
+   ],
+   "f": "Crater Lake is 1,943 feet deep. It fills the caldera left when Mount Mazama erupted about 7,700 years ago.",
+   "s": "National Park Service: Crater Lake",
+   "u": "https://www.nps.gov/crla/learn/nature/crater-lake.htm",
+   "d": "easy"
+  },
+  {
+   "id": "np-019",
+   "q": "Exit Glacier, the only glacier you can drive to in Kenai Fjords, flows from which icefield?",
+   "a": "Harding Icefield",
+   "w": [
+    "Columbia Icefield",
+    "Juneau Icefield",
+    "Malaspina Icefield"
+   ],
+   "f": "The Harding Icefield and its glaciers cover about 700 square miles, and at least 38 glaciers flow out of it.",
+   "s": "National Park Service: The Harding Icefield",
+   "u": "https://www.nps.gov/kefj/learn/nature/the-harding-icefield.htm",
+   "d": "hard"
+  },
+  {
+   "id": "np-091",
+   "q": "Why isn't Bryce Canyon technically a canyon?",
+   "a": "No river carved it. It's a series of amphitheaters.",
+   "w": [
+    "It's too shallow",
+    "It's underground",
+    "It was made by a glacier"
+   ],
+   "f": "Rain and snowmelt eroded giant bowl-shaped amphitheaters filled with hoodoos.",
+   "s": "National Park Service: Bryce Amphitheater",
+   "u": "https://www.nps.gov/places/bryce-amphitheater-wayside.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-013",
+   "q": "Which national park is the only one with a stretch of historic Route 66?",
+   "a": "Petrified Forest",
+   "w": [
+    "Grand Canyon",
+    "Joshua Tree",
+    "Saguaro"
+   ],
+   "f": "A 1932 Studebaker marks the spot where Route 66 once crossed the park.",
+   "s": "National Park Service: Route 66 Pullout",
+   "u": "https://www.nps.gov/places/route-66-pullout.htm",
+   "d": "medium"
+  },
+  {
+   "id": "np-123",
+   "d": "easy",
+   "q": "Grand Canyon National Park is in which state?",
+   "a": "Arizona",
+   "w": [
+    "Utah",
+    "Nevada",
+    "Colorado"
+   ],
+   "f": "The Colorado River carved the canyon, which is about a mile deep in places.",
+   "s": "National Park Service: Grand Canyon",
+   "u": "https://www.nps.gov/grca/index.htm"
+  },
+  {
+   "id": "np-100",
+   "d": "hard",
+   "q": "About how many miles of wild Pacific coastline does Olympic National Park protect?",
+   "a": "73 miles",
+   "w": [
+    "7 miles",
+    "300 miles",
+    "1,000 miles"
+   ],
+   "f": "Most of the coast can only be reached on foot, and overnight hikers need a permit.",
+   "s": "National Park Service: Olympic Coast",
+   "u": "https://www.nps.gov/olym/learn/nature/coast.htm"
+  },
+  {
+   "id": "np-101",
+   "d": "medium",
+   "q": "In Sequoia National Park, what can you drive through on Crescent Meadow Road?",
+   "a": "A fallen giant sequoia",
+   "w": [
+    "A living giant sequoia",
+    "A rock arch",
+    "A glacier tunnel"
+   ],
+   "f": "The tree fell in 1937, and a tunnel was cut through it the next year. Taller vehicles use a bypass.",
+   "s": "National Park Service: Tunnel Log",
+   "u": "https://www.nps.gov/places/000/tunnel-log.htm"
   }
  ]
 }

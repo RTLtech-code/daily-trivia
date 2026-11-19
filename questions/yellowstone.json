@@ -58,73 +58,87 @@
    "d": "easy"
   },
   {
-   "id": "ys-050",
-   "q": "In 1877, which people crossed Yellowstone in 13 days while fleeing the U.S. Army?",
-   "a": "The Nez Perce",
+   "id": "ys-064",
+   "q": "In July 2024, a hydrothermal explosion destroyed a boardwalk in which Yellowstone geyser basin?",
+   "a": "Biscuit Basin",
    "w": [
-    "The Lakota",
-    "The Crow",
-    "The Blackfeet"
+    "Norris Geyser Basin",
+    "West Thumb Geyser Basin",
+    "Upper Geyser Basin"
    ],
-   "f": "About 800 men, women and children, with almost 2,000 horses, entered the park on August 23, 1877.",
-   "s": "National Park Service: Flight of the Nez Perce",
-   "u": "https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm",
+   "f": "Water beneath Black Diamond Pool suddenly flashed to steam, throwing rocks and debris hundreds of feet into the air. Nobody was hurt.",
+   "s": "U.S. Geological Survey: Biscuit Basin Explosion",
+   "u": "https://www.usgs.gov/observatories/yvo/news/july-23-2024-hydrothermal-explosion-biscuit-basin",
    "d": "medium"
   },
   {
-   "id": "ys-066",
-   "q": "About how long is the Grand Canyon of the Yellowstone?",
-   "a": "About 20 miles",
+   "id": "ys-097",
+   "d": "hard",
+   "q": "Echinus Geyser at Norris is the world's largest geyser of what kind?",
+   "a": "Acid geyser",
    "w": [
-    "About 2 miles",
-    "About 75 miles",
-    "About 277 miles"
+    "Mud geyser",
+    "Cold-water geyser",
+    "Underwater geyser"
    ],
-   "f": "It runs from the Upper Falls to the Tower Fall area and is 800 to 1,200 feet deep.",
-   "s": "National Park Service: Grand Canyon of the Yellowstone",
-   "u": "https://www.nps.gov/yell/learn/nature/grand-canyon.htm",
+   "f": "Its water is about as acidic as vinegar. Acid geysers are very rare, and most of the world's are at Norris.",
+   "s": "National Park Service: Echinus Geyser",
+   "u": "https://www.nps.gov/yell/learn/photosmultimedia/norris-tour-echinus-geyser.htm"
+  },
+  {
+   "id": "ys-004",
+   "q": "Which Yellowstone hotel, designed by Robert Reamer and built in 1903–04, is one of the few log hotels left in the U.S.?",
+   "a": "Old Faithful Inn",
+   "w": [
+    "Lake Yellowstone Hotel",
+    "Roosevelt Lodge",
+    "Mammoth Hot Springs Hotel"
+   ],
+   "f": "The inn is a National Historic Landmark. Its lobby ceiling is 65 feet high.",
+   "s": "National Park Service: Old Faithful",
+   "u": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-012",
+   "q": "The NPS calls Yellowstone's Lamar Buffalo Ranch the birthplace of what?",
+   "a": "Wildlife conservation",
+   "w": [
+    "The national park idea",
+    "The park ranger",
+    "Fly fishing"
+   ],
+   "f": "It was the first effort to save a wild species through intensive management.",
+   "s": "National Park Service: Lamar Buffalo Ranch",
+   "u": "https://www.nps.gov/places/lamar-buffalo-ranch.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-061",
+   "q": "About how old are the fossil forests on Yellowstone's Specimen Ridge?",
+   "a": "About 50 million years",
+   "w": [
+    "About 5,000 years",
+    "About 500,000 years",
+    "About 500 million years"
+   ],
+   "f": "Scientists have counted at least 27 layers of fossil trees stacked in the ridge, many still standing upright.",
+   "s": "National Park Service: Fossil Plants of Yellowstone",
+   "u": "https://www.nps.gov/articles/000/the-incredible-fossil-plants-of-yellowstone-national-park.htm",
    "d": "hard"
   },
   {
-   "id": "ys-072",
-   "q": "Which Yellowstone peak has a fire lookout staffed all summer that hikers can visit?",
-   "a": "Mount Washburn",
+   "id": "ys-009",
+   "q": "Which 1870 expedition gave Old Faithful its name?",
+   "a": "The Washburn Expedition",
    "w": [
-    "Eagle Peak",
-    "Electric Peak",
-    "Mount Sheridan"
+    "The Hayden Expedition",
+    "The Lewis and Clark Expedition",
+    "The Folsom Expedition"
    ],
-   "f": "A lookout lives at the 10,219-foot summit from mid-June until fire season ends, watching for smoke.",
-   "s": "National Park Service: Mount Washburn",
-   "u": "https://www.nps.gov/places/000/mount-washburn.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-101",
-   "d": "hard",
-   "q": "In late summer, grizzlies climb to high rocky slopes near Yellowstone to eat thousands of what?",
-   "a": "Moths",
-   "w": [
-    "Pinecones",
-    "Marmots",
-    "Snowberries"
-   ],
-   "f": "Army cutworm moths hide under rocks, and they're one of the richest foods a grizzly can find.",
-   "s": "National Park Service: Bear Food Habits",
-   "u": "https://www.nps.gov/articles/yell-wildlife-bear-food-habits.htm"
-  },
-  {
-   "id": "ys-045",
-   "q": "In what year were gray wolves brought back to Yellowstone?",
-   "a": "1995",
-   "w": [
-    "1972",
-    "1988",
-    "2005"
-   ],
-   "f": "The park's last wolf pack was killed in 1926. In 1995 and 1996, 31 gray wolves from western Canada were moved to Yellowstone.",
-   "s": "National Park Service: History of Wolf Management",
-   "u": "https://www.nps.gov/yell/learn/historyculture/wolf-management.htm",
+   "f": "The explorers named the geyser for how regularly it erupted.",
+   "s": "National Park Service: Old Faithful Geyser",
+   "u": "https://www.nps.gov/places/old-faithful-geyser.htm",
    "d": "medium"
   },
   {
@@ -142,155 +156,197 @@
    "d": "easy"
   },
   {
-   "id": "ys-078",
-   "q": "Why can't you soak in Yellowstone's Boiling River right now?",
-   "a": "It has been closed since the 2022 floods",
+   "id": "ys-058",
+   "q": "How tall is Yellowstone's Tower Fall?",
+   "a": "132 feet",
    "w": [
-    "It got too hot",
-    "Bison took it over",
-    "It dried up in an earthquake"
+    "48 feet",
+    "308 feet",
+    "520 feet"
    ],
-   "f": "The 2022 flood was called a 500-year event and changed the Gardner River where the Boiling River meets it.",
-   "s": "National Park Service: Swimming in Yellowstone",
-   "u": "https://www.nps.gov/yell/planyourvisit/swimming.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-030",
-   "q": "In 1901, about how many bison were counted in Yellowstone?",
-   "a": "About 25",
-   "w": [
-    "About 250",
-    "About 2,500",
-    "About 25,000"
-   ],
-   "f": "Congress then paid to buy 21 bison from private owners, and they were raised in the Lamar Valley to rebuild the herd.",
-   "s": "National Park Service: Lamar Buffalo Ranch",
-   "u": "https://www.nps.gov/places/lamar-buffalo-ranch.htm",
+   "f": "The waterfall is named for the tower-like rock spires at its brink.",
+   "s": "National Park Service: Tower–Roosevelt",
+   "u": "https://www.nps.gov/yell/planyourvisit/towerrplan.htm",
    "d": "hard"
   },
   {
-   "id": "ys-053",
-   "q": "Which non-native fish threatens native cutthroat trout in Yellowstone Lake?",
-   "a": "Lake trout",
+   "id": "ys-100",
+   "d": "medium",
+   "q": "About how much snow falls in Yellowstone in an average year?",
+   "a": "About 150 inches",
    "w": [
-    "Carp",
-    "Northern pike",
-    "Brown trout"
+    "About 15 inches",
+    "About 50 inches",
+    "About 1,000 inches"
    ],
-   "f": "Gillnetting is the park's main tool for reducing the lake trout population. Crews set the nets in deep water to avoid catching cutthroat.",
-   "s": "National Park Service: Fish Management",
-   "u": "https://www.nps.gov/yell/learn/management/fish.htm",
+   "f": "Higher elevations can get double that.",
+   "s": "National Park Service: Yellowstone Weather",
+   "u": "https://www.nps.gov/yell/planyourvisit/weather.htm"
+  },
+  {
+   "id": "ys-036",
+   "q": "How fast can a bison run?",
+   "a": "About 35 mph",
+   "w": [
+    "About 10 mph",
+    "About 20 mph",
+    "About 55 mph"
+   ],
+   "f": "Bison can also jump over objects about 5 feet high. Bulls weigh up to about 2,000 pounds.",
+   "s": "National Park Service: Bison",
+   "u": "https://www.nps.gov/yell/learn/nature/bison.htm",
    "d": "medium"
   },
   {
-   "id": "ys-079",
-   "q": "About how tall is Yellowstone's Fairy Falls?",
-   "a": "200 feet",
+   "id": "ys-122",
+   "d": "hard",
+   "q": "The 1959 Hebgen Lake earthquake near Yellowstone killed how many people?",
+   "a": "28",
    "w": [
-    "40 feet",
-    "90 feet",
-    "400 feet"
+    "2",
+    "150",
+    "None"
    ],
-   "f": "The trail to Fairy Falls also leads to the overlook with the famous view down onto Grand Prismatic Spring.",
-   "s": "National Park Service: Fairy Falls Trail",
-   "u": "https://www.nps.gov/thingstodo/yell-trail-fairy-falls.htm",
-   "d": "hard"
+   "f": "A huge landslide in Madison Canyon was part of the disaster.",
+   "s": "U.S. Geological Survey: Hebgen Lake Earthquake",
+   "u": "https://www.usgs.gov/news/60-years-1959-m73-hebgen-lake-earthquake-its-history-and-effects-yellowstone-region"
   },
   {
-   "id": "ys-035",
-   "q": "Which area has the most geysers in Yellowstone?",
-   "a": "Upper Geyser Basin",
+   "id": "ys-016",
+   "q": "Yellowstone stretches into three states. Which of these is NOT one of them?",
+   "a": "Colorado",
    "w": [
-    "Norris Geyser Basin",
-    "West Thumb Geyser Basin",
-    "Lower Geyser Basin"
+    "Wyoming",
+    "Montana",
+    "Idaho"
    ],
-   "f": "At least 150 hydrothermal features are packed into about one square mile around Old Faithful.",
-   "s": "National Park Service: Old Faithful",
-   "u": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-077",
-   "q": "Yellowstone's Roosevelt Lodge, finished in 1920, is built from what?",
-   "a": "Unpeeled logs",
-   "w": [
-    "Stone blocks",
-    "Adobe bricks",
-    "Steel and glass"
-   ],
-   "f": "Theodore Roosevelt camped nearby in 1903, though not at the lodge site itself.",
-   "s": "National Park Service: Roosevelt Lodge",
-   "u": "https://www.nps.gov/places/000/roosevelt-lodge.htm",
+   "f": "About 96% of the park is in Wyoming, 3% in Montana and 1% in Idaho.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
    "d": "easy"
   },
   {
-   "id": "ys-026",
-   "q": "How many Native American tribes have historic ties to Yellowstone?",
-   "a": "27",
+   "id": "ys-072",
+   "q": "Which Yellowstone peak has a fire lookout staffed all summer that hikers can visit?",
+   "a": "Mount Washburn",
    "w": [
-    "3",
-    "9",
-    "62"
-   ],
-   "f": "Yellowstone also has more than 1,800 known archeological sites.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-027",
-   "q": "About how much of Yellowstone is covered by forest?",
-   "a": "About 80%",
-   "w": [
-    "About 25%",
-    "About 50%",
-    "About 95%"
-   ],
-   "f": "More than 80% of that forest is lodgepole pine.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-081",
-   "q": "In 1872, Congress paid $10,000 for Thomas Moran's huge painting of what?",
-   "a": "The Grand Canyon of the Yellowstone",
-   "w": [
-    "Old Faithful",
-    "Yellowstone Lake",
-    "The Tetons"
-   ],
-   "f": "The 7-by-12-foot canvas was bought just months after Yellowstone became a park and hung in the U.S. Capitol.",
-   "s": "National Park Service: Artist Point",
-   "u": "https://www.nps.gov/places/000/grand-canyon-of-the-yellowstone-artist-point.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-017",
-   "q": "Which pass is the trailhead for the popular hike up Mount Washburn?",
-   "a": "Dunraven Pass",
-   "w": [
-    "Sylvan Pass",
-    "Craig Pass",
-    "Beartooth Pass"
-   ],
-   "f": "The trailhead parking lot is 4.5 miles north of Canyon Junction.",
-   "s": "National Park Service: Dunraven Pass–Mount Washburn Trail",
-   "u": "https://www.nps.gov/thingstodo/yell-trail-dunraven-pass-mount-washburn.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-002",
-   "q": "What is the highest point in Yellowstone National Park?",
-   "a": "Eagle Peak",
-   "w": [
-    "Mount Washburn",
+    "Eagle Peak",
     "Electric Peak",
-    "Grand Teton"
+    "Mount Sheridan"
    ],
-   "f": "Eagle Peak reaches 11,358 feet. The park's lowest point is Reese Creek, at 5,282 feet.",
+   "f": "A lookout lives at the 10,219-foot summit from mid-June until fire season ends, watching for smoke.",
+   "s": "National Park Service: Mount Washburn",
+   "u": "https://www.nps.gov/places/000/mount-washburn.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-037",
+   "q": "In 1959, a magnitude 7.3 earthquake struck just west of Yellowstone near which lake?",
+   "a": "Hebgen Lake",
+   "w": [
+    "Yellowstone Lake",
+    "Jackson Lake",
+    "Flathead Lake"
+   ],
+   "f": "By the next day, at least 289 springs in the Firehole River basins had erupted as geysers, and 160 of them had no record of ever erupting before.",
+   "s": "U.S. Geological Survey",
+   "u": "https://www.usgs.gov/news/60-years-1959-m73-hebgen-lake-earthquake-its-history-and-effects-yellowstone-region",
+   "d": "hard"
+  },
+  {
+   "id": "ys-080",
+   "q": "Which feature of Yellowstone's Old Faithful Visitor Education Center helps protect the land around it?",
+   "a": "It's a LEED-certified green building",
+   "w": [
+    "It floats on the river",
+    "It's built underground",
+    "It runs on geyser steam"
+   ],
+   "f": "It's also where you can check the next predicted eruption times.",
+   "s": "National Park Service: Old Faithful Visitor Education Center",
+   "u": "https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-113",
+   "d": "easy",
+   "q": "Which Yellowstone grizzlies usually leave their winter dens first?",
+   "a": "Adult males",
+   "w": [
+    "Mothers with cubs",
+    "Yearlings",
+    "They all wake up the same day"
+   ],
+   "f": "Males often come out in early March, and mothers with cubs follow in April and May.",
+   "s": "National Park Service: First Grizzly Sighting of 2026",
+   "u": "https://www.nps.gov/yell/learn/news/26003.htm"
+  },
+  {
+   "id": "ys-082",
+   "q": "Which animal lives in Yellowstone today but is NOT native to the Greater Yellowstone area?",
+   "a": "Mountain goat",
+   "w": [
+    "Bighorn sheep",
+    "Moose",
+    "Pronghorn"
+   ],
+   "f": "They descend from goats released in Montana mountain ranges in the 1940s and 1950s, and they reached the park in the 1990s.",
+   "s": "National Park Service: Mountain Goat",
+   "u": "https://www.nps.gov/yell/learn/nature/mountain-goat.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-071",
+   "q": "Excelsior Geyser Crater pours more than how much hot water per minute into the Firehole River?",
+   "a": "4,000 gallons",
+   "w": [
+    "40 gallons",
+    "400 gallons",
+    "40,000 gallons"
+   ],
+   "f": "Excelsior once erupted more than 300 feet high in the late 1800s. Today it acts as a giant hot spring.",
+   "s": "National Park Service: Excelsior Geyser Crater",
+   "u": "https://www.nps.gov/places/000/excelsior-geyser-crater.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-055",
+   "q": "Which Yellowstone entrance is open to regular cars all year?",
+   "a": "North Entrance",
+   "w": [
+    "West Entrance",
+    "East Entrance",
+    "South Entrance"
+   ],
+   "f": "The only road usually open to regular vehicles all year runs from the North Entrance at Gardiner, Montana, through Tower Junction to Cooke City.",
+   "s": "National Park Service: Park Roads",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkroads.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-007",
+   "q": "About how many mammal species live in Yellowstone?",
+   "a": "67",
+   "w": [
+    "12",
+    "25",
+    "150"
+   ],
+   "f": "They include two kinds of bears and seven native hoofed mammals.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-051",
+   "q": "How many entrances does Yellowstone have?",
+   "a": "Five",
+   "w": [
+    "Three",
+    "Four",
+    "Seven"
+   ],
+   "f": "The park has 392 miles of paved roads and more than 15 miles of boardwalk.",
    "s": "National Park Service: Park Facts",
    "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
    "d": "medium"
@@ -310,45 +366,73 @@
    "d": "easy"
   },
   {
-   "id": "ys-058",
-   "q": "How tall is Yellowstone's Tower Fall?",
-   "a": "132 feet",
+   "id": "ys-017",
+   "q": "Which pass is the trailhead for the popular hike up Mount Washburn?",
+   "a": "Dunraven Pass",
    "w": [
-    "48 feet",
-    "308 feet",
-    "520 feet"
+    "Sylvan Pass",
+    "Craig Pass",
+    "Beartooth Pass"
    ],
-   "f": "The waterfall is named for the tower-like rock spires at its brink.",
-   "s": "National Park Service: Tower–Roosevelt",
-   "u": "https://www.nps.gov/yell/planyourvisit/towerrplan.htm",
+   "f": "The trailhead parking lot is 4.5 miles north of Canyon Junction.",
+   "s": "National Park Service: Dunraven Pass–Mount Washburn Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-trail-dunraven-pass-mount-washburn.htm",
    "d": "hard"
   },
   {
-   "id": "ys-080",
-   "q": "Which feature of Yellowstone's Old Faithful Visitor Education Center helps protect the land around it?",
-   "a": "It's a LEED-certified green building",
+   "id": "ys-015",
+   "q": "Which group took charge of Yellowstone in 1886?",
+   "a": "The U.S. Army",
    "w": [
-    "It floats on the river",
-    "It's built underground",
-    "It runs on geyser steam"
+    "The State of Wyoming",
+    "The Northern Pacific Railway",
+    "The U.S. Forest Service"
    ],
-   "f": "It's also where you can check the next predicted eruption times.",
-   "s": "National Park Service: Old Faithful Visitor Education Center",
-   "u": "https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm",
+   "f": "The Army arrived on August 20, 1886, and later built Fort Yellowstone at Mammoth. Many of its red-roofed buildings are still in use.",
+   "s": "National Park Service: Birth of a National Park",
+   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
    "d": "medium"
   },
   {
-   "id": "ys-063",
-   "q": "Which Yellowstone lake is thought to be the largest lake in the lower 48 states that you can't reach by road?",
-   "a": "Shoshone Lake",
+   "id": "ys-070",
+   "q": "What is the largest wild waterfowl in North America, found in Yellowstone?",
+   "a": "Trumpeter swan",
    "w": [
-    "Lewis Lake",
-    "Heart Lake",
-    "Yellowstone Lake"
+    "Canada goose",
+    "Common loon",
+    "American white pelican"
    ],
-   "f": "Paddlers reach it from Lewis Lake. Motorboats aren't allowed on it.",
-   "s": "National Park Service: Shoshone Lake",
-   "u": "https://www.nps.gov/yell/learn/nature/shoshone-lake.htm",
+   "f": "Their wingspan can reach 8 feet. Around 1930, a small group in the Greater Yellowstone area helped the species survive.",
+   "s": "National Park Service: Trumpeter Swan",
+   "u": "https://www.nps.gov/yell/learn/nature/trumpeter-swan.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-046",
+   "q": "About how many hydrothermal features does Yellowstone have?",
+   "a": "More than 10,000",
+   "w": [
+    "About 500",
+    "About 2,000",
+    "More than 100,000"
+   ],
+   "f": "That count includes more than 500 active geysers, which is over half of all the geysers in the world.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-049",
+   "q": "Whose photographs, along with Thomas Moran's paintings, helped convince Congress to protect Yellowstone?",
+   "a": "William Henry Jackson",
+   "w": [
+    "Ansel Adams",
+    "Mathew Brady",
+    "Edward Curtis"
+   ],
+   "f": "Jackson's photographs and Moran's paintings showed lawmakers back East what the West really looked like.",
+   "s": "National Park Service: Birth of a National Park",
+   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
    "d": "hard"
   },
   {
@@ -366,174 +450,6 @@
    "d": "medium"
   },
   {
-   "id": "ys-033",
-   "q": "Which president signed the law creating Yellowstone National Park?",
-   "a": "Ulysses S. Grant",
-   "w": [
-    "Theodore Roosevelt",
-    "Abraham Lincoln",
-    "Rutherford B. Hayes"
-   ],
-   "f": "Grant signed the act on March 1, 1872, only six months after the Hayden Expedition explored the area.",
-   "s": "National Park Service: Birth of a National Park",
-   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-060",
-   "q": "About how often does Yellowstone's Lone Star Geyser erupt?",
-   "a": "About every 3 hours",
-   "w": [
-    "About every 10 minutes",
-    "About once a week",
-    "About once a year"
-   ],
-   "f": "It shoots 30 to 45 feet high from a 12-foot cone, at the end of a flat trail you can walk or bike.",
-   "s": "National Park Service: Lone Star Geyser Trail",
-   "u": "https://www.nps.gov/thingstodo/yell-trail-lone-star-geyser.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-004",
-   "q": "Which Yellowstone hotel, designed by Robert Reamer and built in 1903–04, is one of the few log hotels left in the U.S.?",
-   "a": "Old Faithful Inn",
-   "w": [
-    "Lake Yellowstone Hotel",
-    "Roosevelt Lodge",
-    "Mammoth Hot Springs Hotel"
-   ],
-   "f": "The inn is a National Historic Landmark. Its lobby ceiling is 65 feet high.",
-   "s": "National Park Service: Old Faithful",
-   "u": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-014",
-   "q": "How tall is the Lower Falls of the Yellowstone River?",
-   "a": "308 feet",
-   "w": [
-    "109 feet",
-    "190 feet",
-    "525 feet"
-   ],
-   "f": "Yellowstone has about 290 waterfalls, and the Lower Falls is the tallest one near a road.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-093",
-   "d": "hard",
-   "q": "Harry Yount, hired in Yellowstone in 1880, is often called the first what?",
-   "a": "National park ranger",
-   "w": [
-    "Park superintendent",
-    "Geyser gazer",
-    "Wildlife photographer"
-   ],
-   "f": "He was hired as a gamekeeper and spent the winter alone in a cabin, then recommended a paid force of rangers.",
-   "s": "National Park Service: Harry Yount",
-   "u": "https://www.nps.gov/parkhistory/hisnps/npshistory/yount.htm"
-  },
-  {
-   "id": "ys-082",
-   "q": "Which animal lives in Yellowstone today but is NOT native to the Greater Yellowstone area?",
-   "a": "Mountain goat",
-   "w": [
-    "Bighorn sheep",
-    "Moose",
-    "Pronghorn"
-   ],
-   "f": "They descend from goats released in Montana mountain ranges in the 1940s and 1950s, and they reached the park in the 1990s.",
-   "s": "National Park Service: Mountain Goat",
-   "u": "https://www.nps.gov/yell/learn/nature/mountain-goat.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-084",
-   "q": "How do most visitors reach Old Faithful in winter?",
-   "a": "On a guided snowcoach or snowmobile",
-   "w": [
-    "By car on plowed roads",
-    "By train",
-    "Only on skis"
-   ],
-   "f": "The oversnow season usually starts December 15. The only road open to regular cars all winter runs from Gardiner to Cooke City.",
-   "s": "National Park Service: Snowmobiling",
-   "u": "https://www.nps.gov/yell/planyourvisit/snowmobiling.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-025",
-   "q": "The NPS says the travertine terraces at Mammoth Hot Springs look like what?",
-   "a": "A cave turned inside out",
-   "w": [
-    "A frozen waterfall",
-    "A wedding cake",
-    "A coral reef"
-   ],
-   "f": "Hot water rising through limestone builds the terraces, and they can change shape surprisingly fast.",
-   "s": "National Park Service: Hydrothermal Features",
-   "u": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-008",
-   "q": "Yellowstone Lake is North America's largest freshwater lake above what elevation?",
-   "a": "7,000 feet",
-   "w": [
-    "5,000 feet",
-    "9,000 feet",
-    "10,000 feet"
-   ],
-   "f": "The lake sits at 7,733 feet. It has 141 miles of shoreline and is up to 430 feet deep.",
-   "s": "National Park Service: Yellowstone Lake",
-   "u": "https://www.nps.gov/yell/learn/nature/yellowstone-lake.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-023",
-   "q": "Which is the world's tallest active geyser?",
-   "a": "Steamboat Geyser",
-   "w": [
-    "Old Faithful",
-    "Grand Geyser",
-    "Castle Geyser"
-   ],
-   "f": "Steamboat's major eruptions shoot water more than 300 feet high. It's in the Norris Geyser Basin.",
-   "s": "National Park Service: Steamboat Geyser",
-   "u": "https://www.nps.gov/yell/learn/nature/steamboat-geyser.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-095",
-   "d": "hard",
-   "q": "Which bird plants whitebark pine forests by burying the seeds, a food grizzlies also love?",
-   "a": "Clark's nutcracker",
-   "w": [
-    "Steller's jay",
-    "Gray jay",
-    "Pine grosbeak"
-   ],
-   "f": "The bird carries seeds in a pouch under its tongue and buries them, sometimes miles away.",
-   "s": "National Park Service: Whitebark Pine",
-   "u": "https://www.nps.gov/articles/whitebark-pine-brief.htm"
-  },
-  {
-   "id": "ys-031",
-   "q": "Which is the oldest hotel still operating in Yellowstone?",
-   "a": "Lake Yellowstone Hotel",
-   "w": [
-    "Old Faithful Inn",
-    "Roosevelt Lodge",
-    "Canyon Lodge"
-   ],
-   "f": "It opened in 1891. Robert Reamer later added its signature columns and false balconies.",
-   "s": "National Park Service: Lake Hotel and Cabins",
-   "u": "https://www.nps.gov/places/000/lake-hotel-and-cabins.htm",
-   "d": "medium"
-  },
-  {
    "id": "ys-020",
    "q": "A microbe discovered in a Yellowstone hot spring made which scientific tool possible?",
    "a": "PCR DNA testing",
@@ -548,298 +464,60 @@
    "d": "hard"
   },
   {
-   "id": "ys-012",
-   "q": "The NPS calls Yellowstone's Lamar Buffalo Ranch the birthplace of what?",
-   "a": "Wildlife conservation",
-   "w": [
-    "The national park idea",
-    "The park ranger",
-    "Fly fishing"
-   ],
-   "f": "It was the first effort to save a wild species through intensive management.",
-   "s": "National Park Service: Lamar Buffalo Ranch",
-   "u": "https://www.nps.gov/places/lamar-buffalo-ranch.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-108",
-   "d": "easy",
-   "q": "Which clever Yellowstone bird has learned to unzip backpacks to steal food?",
-   "a": "Raven",
-   "w": [
-    "Bald eagle",
-    "Magpie",
-    "Pelican"
-   ],
-   "f": "Ravens have figured out many zippers and buckles, so never leave a pack with food unattended.",
-   "s": "National Park Service: Raven",
-   "u": "https://www.nps.gov/yell/learn/nature/raven.htm"
-  },
-  {
-   "id": "ys-102",
-   "d": "hard",
-   "q": "How much did Congress set aside for the 1871 Hayden survey of Yellowstone?",
-   "a": "$40,000",
-   "w": [
-    "$400",
-    "$4,000",
-    "$4 million"
-   ],
-   "f": "The survey's report, photos and paintings helped convince Congress to create the park in 1872.",
-   "s": "National Park Service: National Parks, The American Experience",
-   "u": "https://www.nps.gov/parkhistory/online_books/runte1/chap2.htm"
-  },
-  {
-   "id": "ys-057",
-   "q": "Why is fishing banned at Fishing Bridge?",
-   "a": "To protect spawning cutthroat trout",
-   "w": [
-    "The bridge was unsafe",
-    "Grizzlies kept stealing the catch",
-    "The water got too hot"
-   ],
-   "f": "Overfishing had helped cause the trout's decline, so the bridge closed to fishing in 1973. Now it's a good place to watch trout instead.",
-   "s": "National Park Service: Fishing Bridge",
-   "u": "https://www.nps.gov/places/000/fishing-bridge.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-015",
-   "q": "Which group took charge of Yellowstone in 1886?",
-   "a": "The U.S. Army",
-   "w": [
-    "The State of Wyoming",
-    "The Northern Pacific Railway",
-    "The U.S. Forest Service"
-   ],
-   "f": "The Army arrived on August 20, 1886, and later built Fort Yellowstone at Mammoth. Many of its red-roofed buildings are still in use.",
-   "s": "National Park Service: Birth of a National Park",
-   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-047",
-   "q": "Who was Yellowstone's first superintendent?",
-   "a": "Nathaniel P. Langford",
-   "w": [
-    "John Muir",
-    "Ferdinand Hayden",
-    "Stephen Mather"
-   ],
-   "f": "Langford took the job even though it came with no pay.",
-   "s": "National Park Service: Birth of a National Park",
-   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-088",
-   "q": "How did the cutthroat trout get its name?",
-   "a": "From a red slash under its jaw",
-   "w": [
-    "From its sharp teeth",
-    "From fighting other fish",
-    "From an old fishing knife"
-   ],
-   "f": "Yellowstone's native cutthroat also have dark spots, mostly toward the tail.",
-   "s": "National Park Service: Yellowstone Trout Facts",
-   "u": "https://www.nps.gov/yell/learn/ys-25-1-yellowstone-trout-facts.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-040",
-   "q": "What gives the Grand Canyon of the Yellowstone its yellow walls?",
-   "a": "Iron in rock altered by hot water",
-   "w": [
-    "Gold deposits",
-    "Pollen",
-    "Lichen"
-   ],
-   "f": "Hot water altered the rhyolite rock, and the iron in it oxidized. The NPS says most of the yellows come from iron and sulfur in the rock.",
-   "s": "National Park Service: Canyon Village and the Grand Canyon",
-   "u": "https://www.nps.gov/yell/planyourvisit/canyonplan.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-003",
-   "q": "About how many earthquakes does Yellowstone have each year?",
-   "a": "1,000 to 3,000",
-   "w": [
-    "About 10",
-    "About 100",
-    "More than 50,000"
-   ],
-   "f": "Yellowstone sits on an active volcano and has one of the world's largest calderas, about 45 by 30 miles.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-091",
-   "q": "Nearly all of Yellowstone's beaver colonies are found near which plant?",
-   "a": "Willow",
-   "w": [
-    "Aspen",
-    "Lodgepole pine",
-    "Sagebrush"
-   ],
-   "f": "Willow grows back quickly after beavers cut it. The park estimated 121 beaver colonies in 2024.",
-   "s": "National Park Service: Beaver",
-   "u": "https://www.nps.gov/yell/learn/nature/beaver.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-097",
-   "d": "hard",
-   "q": "Echinus Geyser at Norris is the world's largest geyser of what kind?",
-   "a": "Acid geyser",
-   "w": [
-    "Mud geyser",
-    "Cold-water geyser",
-    "Underwater geyser"
-   ],
-   "f": "Its water is about as acidic as vinegar. Acid geysers are very rare, and most of the world's are at Norris.",
-   "s": "National Park Service: Echinus Geyser",
-   "u": "https://www.nps.gov/yell/learn/photosmultimedia/norris-tour-echinus-geyser.htm"
-  },
-  {
-   "id": "ys-104",
-   "d": "medium",
-   "q": "How thick can the ice on Yellowstone Lake get in winter?",
-   "a": "More than 2 feet",
-   "w": [
-    "About 1 inch",
-    "About 6 inches",
-    "It never freezes"
-   ],
-   "f": "The lake usually freezes in late December or early January and thaws in late May or early June.",
-   "s": "National Park Service: Yellowstone Lake",
-   "u": "https://www.nps.gov/yell/learn/nature/yellowstone-lake.htm"
-  },
-  {
-   "id": "ys-070",
-   "q": "What is the largest wild waterfowl in North America, found in Yellowstone?",
-   "a": "Trumpeter swan",
-   "w": [
-    "Canada goose",
-    "Common loon",
-    "American white pelican"
-   ],
-   "f": "Their wingspan can reach 8 feet. Around 1930, a small group in the Greater Yellowstone area helped the species survive.",
-   "s": "National Park Service: Trumpeter Swan",
-   "u": "https://www.nps.gov/yell/learn/nature/trumpeter-swan.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-094",
-   "d": "medium",
-   "q": "Why does Yellowstone's Emerald Pool look green?",
-   "a": "Yellow microbes mixed with blue water",
-   "w": [
-    "Green dye from minerals",
-    "Algae from the river",
-    "Reflection of the forest"
-   ],
-   "f": "Microbes create many of Yellowstone's colors. As pools cool, they can turn orange and murky.",
-   "s": "National Park Service: Emerald Pool",
-   "u": "https://www.nps.gov/places/000/emerald-pool.htm"
-  },
-  {
-   "id": "ys-032",
-   "q": "Roughly when did the eruption that formed today's Yellowstone Caldera happen?",
-   "a": "About 631,000 years ago",
-   "w": [
-    "About 63,000 years ago",
-    "About 6.3 million years ago",
-    "About 12,000 years ago"
-   ],
-   "f": "The Lava Creek eruption threw out more than 1,000 cubic kilometers of material and left a caldera about 30 by 45 miles.",
-   "s": "National Park Service: Volcano",
-   "u": "https://www.nps.gov/yell/learn/nature/volcano.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-086",
-   "q": "Yellowstone's Petrified Tree, near Tower Junction, is an ancient what?",
-   "a": "Redwood",
-   "w": [
-    "Oak",
-    "Pine",
-    "Palm"
-   ],
-   "f": "Redwoods once grew here in a much warmer climate before volcanic mudflows buried them.",
-   "s": "National Park Service: Tower–Roosevelt",
-   "u": "https://www.nps.gov/yell/planyourvisit/towerrplan.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-071",
-   "q": "Excelsior Geyser Crater pours more than how much hot water per minute into the Firehole River?",
-   "a": "4,000 gallons",
-   "w": [
-    "40 gallons",
-    "400 gallons",
-    "40,000 gallons"
-   ],
-   "f": "Excelsior once erupted more than 300 feet high in the late 1800s. Today it acts as a giant hot spring.",
-   "s": "National Park Service: Excelsior Geyser Crater",
-   "u": "https://www.nps.gov/places/000/excelsior-geyser-crater.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-039",
-   "q": "What words are carved on the Roosevelt Arch at the North Entrance?",
-   "a": "For the benefit and enjoyment of the people",
-   "w": [
-    "This land is your land",
-    "Preserve and protect forever",
-    "Gateway to Wonderland"
-   ],
-   "f": "President Theodore Roosevelt placed the arch's cornerstone in 1903, and you can still drive through it all year.",
-   "s": "National Park Service: Mammoth Hot Springs and the North",
-   "u": "https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-085",
-   "q": "How did Yellowstone's Electric Peak get its name?",
-   "a": "Climbers got caught in a lightning storm near its top",
-   "w": [
-    "It has a power line on top",
-    "It glows at night",
-    "A mining company named it"
-   ],
-   "f": "Henry Gannett of the 1872 Hayden Survey was so shaken by the storm that he named the 10,969-foot peak for it.",
-   "s": "National Park Service: Electric Peak",
-   "u": "https://www.nps.gov/yell/blogs/electric-peak.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-103",
-   "d": "medium",
-   "q": "Which Upper Geyser Basin geyser has a cone thousands of years old and may be the oldest there?",
-   "a": "Castle Geyser",
+   "id": "ys-081",
+   "q": "In 1872, Congress paid $10,000 for Thomas Moran's huge painting of what?",
+   "a": "The Grand Canyon of the Yellowstone",
    "w": [
     "Old Faithful",
-    "Daisy Geyser",
-    "Riverside Geyser"
+    "Yellowstone Lake",
+    "The Tetons"
    ],
-   "f": "Its cone and the platform beneath it form one of the largest geyser deposits in the world.",
-   "s": "National Park Service: Castle Geyser",
-   "u": "https://www.nps.gov/places/000/castle-geyser.htm"
+   "f": "The 7-by-12-foot canvas was bought just months after Yellowstone became a park and hung in the U.S. Capitol.",
+   "s": "National Park Service: Artist Point",
+   "u": "https://www.nps.gov/places/000/grand-canyon-of-the-yellowstone-artist-point.htm",
+   "d": "medium"
   },
   {
-   "id": "ys-038",
-   "q": "People have been quarrying Yellowstone's Obsidian Cliff for toolmaking for more than how long?",
-   "a": "11,000 years",
+   "id": "ys-018",
+   "q": "Which animal is the most numerous large mammal in Yellowstone?",
+   "a": "Elk",
    "w": [
-    "500 years",
-    "2,000 years",
-    "100,000 years"
+    "Bison",
+    "Mule deer",
+    "Pronghorn"
    ],
-   "f": "Obsidian Cliff became a National Historic Landmark in 1996.",
-   "s": "National Park Service: Obsidian Cliff",
-   "u": "https://www.nps.gov/yell/learn/historyculture/obsidiancliff.htm",
-   "d": "hard"
+   "f": "In summer, 10,000 to 20,000 elk live in the park. Fewer than 2,000 stay through the winter.",
+   "s": "National Park Service: Elk",
+   "u": "https://www.nps.gov/yell/learn/nature/elk.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-092",
+   "d": "hard",
+   "q": "About how often does Grand Geyser erupt?",
+   "a": "Every 7 to 15 hours",
+   "w": [
+    "Every 15 minutes",
+    "Every 3 days",
+    "Once a month"
+   ],
+   "f": "Each eruption lasts 9 to 12 minutes, so rangers post predictions to help visitors catch it.",
+   "s": "National Park Service: Grand Geyser Stop",
+   "u": "https://www.nps.gov/features/yell/tours/oldfaithful/grandg.htm"
+  },
+  {
+   "id": "ys-078",
+   "q": "Why can't you soak in Yellowstone's Boiling River right now?",
+   "a": "It has been closed since the 2022 floods",
+   "w": [
+    "It got too hot",
+    "Bison took it over",
+    "It dried up in an earthquake"
+   ],
+   "f": "The 2022 flood was called a 500-year event and changed the Gardner River where the Boiling River meets it.",
+   "s": "National Park Service: Swimming in Yellowstone",
+   "u": "https://www.nps.gov/yell/planyourvisit/swimming.htm",
+   "d": "medium"
   },
   {
    "id": "ys-013",
@@ -856,31 +534,73 @@
    "d": "medium"
   },
   {
-   "id": "ys-037",
-   "q": "In 1959, a magnitude 7.3 earthquake struck just west of Yellowstone near which lake?",
-   "a": "Hebgen Lake",
+   "id": "ys-116",
+   "d": "hard",
+   "q": "About how many bison lived in Yellowstone before calving season in 2025?",
+   "a": "About 5,300",
    "w": [
-    "Yellowstone Lake",
-    "Jackson Lake",
-    "Flathead Lake"
+    "About 500",
+    "About 25,000",
+    "About 100,000"
    ],
-   "f": "By the next day, at least 289 springs in the Firehole River basins had erupted as geysers, and 160 of them had no record of ever erupting before.",
-   "s": "U.S. Geological Survey",
-   "u": "https://www.usgs.gov/news/60-years-1959-m73-hebgen-lake-earthquake-its-history-and-effects-yellowstone-region",
-   "d": "hard"
+   "f": "In 1901, only about 25 were counted, so the herd's comeback is a conservation success story.",
+   "s": "National Park Service: Bison",
+   "u": "https://www.nps.gov/yell/learn/nature/bison.htm"
   },
   {
-   "id": "ys-042",
-   "q": "How close can you legally get to bears and wolves in Yellowstone?",
-   "a": "No closer than 100 yards",
+   "id": "ys-054",
+   "q": "What is the largest hot spring in Yellowstone?",
+   "a": "Grand Prismatic Spring",
    "w": [
-    "25 yards",
-    "50 feet",
-    "10 yards"
+    "Morning Glory Pool",
+    "Mammoth Hot Springs",
+    "Abyss Pool"
    ],
-   "f": "Stay at least 25 yards from all other animals, including bison and elk.",
-   "s": "National Park Service: Safety",
-   "u": "https://www.nps.gov/yell/planyourvisit/safety.htm",
+   "f": "Grand Prismatic is 200 to 330 feet across and more than 121 feet deep. Its rainbow rings come from heat-loving microbes called thermophiles.",
+   "s": "National Park Service: Grand Prismatic Spring",
+   "u": "https://www.nps.gov/places/000/grand-prismatic-spring.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-098",
+   "d": "medium",
+   "q": "Which Yellowstone geyser is the tallest predictable geyser in the world?",
+   "a": "Grand Geyser",
+   "w": [
+    "Old Faithful",
+    "Steamboat Geyser",
+    "Castle Geyser"
+   ],
+   "f": "Grand erupts in powerful bursts up to about 200 feet. Steamboat goes higher, but nobody can predict when.",
+   "s": "National Park Service: Grand Geyser",
+   "u": "https://www.nps.gov/places/000/grand-geyser.htm"
+  },
+  {
+   "id": "ys-101",
+   "d": "hard",
+   "q": "In late summer, grizzlies climb to high rocky slopes near Yellowstone to eat thousands of what?",
+   "a": "Moths",
+   "w": [
+    "Pinecones",
+    "Marmots",
+    "Snowberries"
+   ],
+   "f": "Army cutworm moths hide under rocks, and they're one of the richest foods a grizzly can find.",
+   "s": "National Park Service: Bear Food Habits",
+   "u": "https://www.nps.gov/articles/yell-wildlife-bear-food-habits.htm"
+  },
+  {
+   "id": "ys-002",
+   "q": "What is the highest point in Yellowstone National Park?",
+   "a": "Eagle Peak",
+   "w": [
+    "Mount Washburn",
+    "Electric Peak",
+    "Grand Teton"
+   ],
+   "f": "Eagle Peak reaches 11,358 feet. The park's lowest point is Reese Creek, at 5,282 feet.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
    "d": "medium"
   },
   {
@@ -898,6 +618,48 @@
    "d": "easy"
   },
   {
+   "id": "ys-040",
+   "q": "What gives the Grand Canyon of the Yellowstone its yellow walls?",
+   "a": "Iron in rock altered by hot water",
+   "w": [
+    "Gold deposits",
+    "Pollen",
+    "Lichen"
+   ],
+   "f": "Hot water altered the rhyolite rock, and the iron in it oxidized. The NPS says most of the yellows come from iron and sulfur in the rock.",
+   "s": "National Park Service: Canyon Village and the Grand Canyon",
+   "u": "https://www.nps.gov/yell/planyourvisit/canyonplan.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-093",
+   "d": "hard",
+   "q": "Harry Yount, hired in Yellowstone in 1880, is often called the first what?",
+   "a": "National park ranger",
+   "w": [
+    "Park superintendent",
+    "Geyser gazer",
+    "Wildlife photographer"
+   ],
+   "f": "He was hired as a gamekeeper and spent the winter alone in a cabin, then recommended a paid force of rangers.",
+   "s": "National Park Service: Harry Yount",
+   "u": "https://www.nps.gov/parkhistory/hisnps/npshistory/yount.htm"
+  },
+  {
+   "id": "ys-062",
+   "q": "How fast can Yellowstone's pronghorn sprint?",
+   "a": "45 to 50 mph",
+   "w": [
+    "15 to 20 mph",
+    "25 to 30 mph",
+    "80 to 90 mph"
+   ],
+   "f": "That speed may be left over from a time when pronghorn had to outrun an American cheetah, which is now extinct.",
+   "s": "National Park Service: Pronghorn",
+   "u": "https://www.nps.gov/yell/learn/nature/pronghorn.htm",
+   "d": "medium"
+  },
+  {
    "id": "ys-029",
    "q": "About how many visits did Yellowstone get in 2024?",
    "a": "About 4.7 million",
@@ -912,143 +674,17 @@
    "d": "hard"
   },
   {
-   "id": "ys-064",
-   "q": "In July 2024, a hydrothermal explosion destroyed a boardwalk in which Yellowstone geyser basin?",
-   "a": "Biscuit Basin",
+   "id": "ys-084",
+   "q": "How do most visitors reach Old Faithful in winter?",
+   "a": "On a guided snowcoach or snowmobile",
    "w": [
-    "Norris Geyser Basin",
-    "West Thumb Geyser Basin",
-    "Upper Geyser Basin"
+    "By car on plowed roads",
+    "By train",
+    "Only on skis"
    ],
-   "f": "Water beneath Black Diamond Pool suddenly flashed to steam, throwing rocks and debris hundreds of feet into the air. Nobody was hurt.",
-   "s": "U.S. Geological Survey: Biscuit Basin Explosion",
-   "u": "https://www.usgs.gov/observatories/yvo/news/july-23-2024-hydrothermal-explosion-biscuit-basin",
-   "d": "medium"
-  },
-  {
-   "id": "ys-024",
-   "q": "Yellowstone is larger than which two states combined?",
-   "a": "Rhode Island and Delaware",
-   "w": [
-    "Connecticut and Delaware",
-    "New Jersey and Rhode Island",
-    "Vermont and New Hampshire"
-   ],
-   "f": "The park covers 3,472 square miles, or about 2.2 million acres.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-007",
-   "q": "About how many mammal species live in Yellowstone?",
-   "a": "67",
-   "w": [
-    "12",
-    "25",
-    "150"
-   ],
-   "f": "They include two kinds of bears and seven native hoofed mammals.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-089",
-   "q": "What makes many lodgepole pine cones open up and release their seeds?",
-   "a": "The heat of a fire",
-   "w": [
-    "Freezing winter nights",
-    "Spring rain",
-    "Squirrels chewing them"
-   ],
-   "f": "These cones are sealed shut with resin that melts at about 113°F, so a burned forest quickly reseeds itself.",
-   "s": "National Park Service: Ecological Consequences of Fire",
-   "u": "https://www.nps.gov/yell/learn/nature/ecological-consequences-of-fire.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-059",
-   "q": "Yellowstone's Hayden Valley was once covered by what?",
-   "a": "An arm of Yellowstone Lake",
-   "w": [
-    "A glacier-fed river delta",
-    "A lava lake",
-    "A desert dune field"
-   ],
-   "f": "Lake sediments hold water near the surface, which keeps the valley marshy and full of grass for bison.",
-   "s": "National Park Service: Hayden Valley",
-   "u": "https://www.nps.gov/places/000/hayden-valley-overlook-at-yellowstone-river.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-048",
-   "q": "French traders gave the Yellowstone River what name?",
-   "a": "Roche Jaune",
-   "w": [
-    "Pierre Dorée",
-    "Mont Jaune",
-    "Rivière d'Or"
-   ],
-   "f": "The Hidatsa named the river for the yellow sandstone bluffs along it in eastern Montana. French traders translated that name as 'Roche Jaune,' which means 'yellow rock.'",
-   "s": "National Park Service: Missouri/Yellowstone Confluence",
-   "u": "https://www.nps.gov/places/missouri-yellowstone-confluence.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-010",
-   "q": "Isa Lake, on the Continental Divide at Craig Pass, was once probably the only lake on Earth to drain naturally into what?",
-   "a": "Two oceans",
-   "w": [
-    "An underground cave",
-    "A geyser",
-    "Two countries"
-   ],
-   "f": "The NPS says this may now happen only at peak snowmelt after winters with deep snow.",
-   "s": "National Park Service: Isa Lake",
-   "u": "https://www.nps.gov/places/000/isa-lake.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-087",
-   "q": "Biscuit Basin was named for biscuit-shaped mineral formations around which pool?",
-   "a": "Sapphire Pool",
-   "w": [
-    "Morning Glory Pool",
-    "Black Pool",
-    "Emerald Pool"
-   ],
-   "f": "After the 1959 earthquake, Sapphire Pool erupted and blew most of the biscuits away.",
-   "s": "National Park Service: Biscuit Basin",
-   "u": "https://www.nps.gov/features/yell/ofvec/exhibits/treasures/ugb/biscuitbasin.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-098",
-   "d": "medium",
-   "q": "Which Yellowstone geyser is the tallest predictable geyser in the world?",
-   "a": "Grand Geyser",
-   "w": [
-    "Old Faithful",
-    "Steamboat Geyser",
-    "Castle Geyser"
-   ],
-   "f": "Grand erupts in powerful bursts up to about 200 feet. Steamboat goes higher, but nobody can predict when.",
-   "s": "National Park Service: Grand Geyser",
-   "u": "https://www.nps.gov/places/000/grand-geyser.htm"
-  },
-  {
-   "id": "ys-067",
-   "q": "Which Yellowstone hot spring belches steam out of a cave like a dragon breathing smoke?",
-   "a": "Dragon's Mouth Spring",
-   "w": [
-    "Black Growler",
-    "Beryl Spring",
-    "Crested Pool"
-   ],
-   "f": "It's next to Mud Volcano, just north of Yellowstone Lake. Earlier names included 'The Belcher.'",
-   "s": "National Park Service: Dragon's Mouth Spring",
-   "u": "https://www.nps.gov/places/000/dragons-mouth-spring.htm",
+   "f": "The oversnow season usually starts December 15. The only road open to regular cars all winter runs from Gardiner to Cooke City.",
+   "s": "National Park Service: Snowmobiling",
+   "u": "https://www.nps.gov/yell/planyourvisit/snowmobiling.htm",
    "d": "easy"
   },
   {
@@ -1080,101 +716,199 @@
    "u": "https://www.nps.gov/yell/blogs/the-superintendents-captain-moses-harris.htm"
   },
   {
-   "id": "ys-006",
-   "q": "Which Yellowstone hydrothermal features can reach temperatures as high as 280°F?",
-   "a": "Fumaroles (steam vents)",
+   "id": "ys-059",
+   "q": "Yellowstone's Hayden Valley was once covered by what?",
+   "a": "An arm of Yellowstone Lake",
    "w": [
-    "Mudpots",
-    "Travertine terraces",
-    "Hot spring runoff channels"
+    "A glacier-fed river delta",
+    "A lava lake",
+    "A desert dune field"
    ],
-   "f": "The NPS says steam vents are often superheated, reaching temperatures as high as 280°F.",
-   "s": "National Park Service: Hydrothermal Features",
-   "u": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm",
+   "f": "Lake sediments hold water near the surface, which keeps the valley marshy and full of grass for bison.",
+   "s": "National Park Service: Hayden Valley",
+   "u": "https://www.nps.gov/places/000/hayden-valley-overlook-at-yellowstone-river.htm",
    "d": "medium"
   },
   {
-   "id": "ys-096",
-   "d": "hard",
-   "q": "Which Yellowstone animal declined sharply after the 1988 fires burned its winter forests?",
-   "a": "Moose",
+   "id": "ys-125",
+   "d": "easy",
+   "q": "In fall, what loud call do bull elk make during mating season?",
+   "a": "A bugle",
    "w": [
-    "Elk",
-    "Bison",
-    "Pronghorn"
+    "A howl",
+    "A roar",
+    "A honk"
    ],
-   "f": "Unlike moose in many places, Yellowstone's moose rely on old fir forests to survive winter.",
-   "s": "National Park Service: Moose",
-   "u": "https://www.nps.gov/yell/learn/nature/moose.htm"
+   "f": "The rut runs from early September to mid-October. Bulls are aggressive then, so keep your distance.",
+   "s": "National Park Service: Elk",
+   "u": "https://www.nps.gov/yell/learn/nature/elk.htm"
   },
   {
-   "id": "ys-044",
-   "q": "Which gateway town sits at Yellowstone's North Entrance?",
-   "a": "Gardiner, Montana",
+   "id": "ys-074",
+   "q": "Yellowstone's Gibbon Falls tumbles over the remains of what?",
+   "a": "The rim of the Yellowstone Caldera",
    "w": [
-    "Bozeman, Montana",
-    "Cody, Wyoming",
-    "Jackson, Wyoming"
+    "An old Army dam",
+    "A glacier's edge",
+    "A lava tube"
    ],
-   "f": "The North Entrance is marked by the Roosevelt Arch, and Gardiner is also home to the park's Heritage and Research Center.",
-   "s": "National Park Service: Mammoth Hot Springs and the North",
-   "u": "https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm",
+   "f": "The falls drop 84 feet. The rock wall across the road is part of the caldera's inner rim.",
+   "s": "National Park Service: Gibbon Falls",
+   "u": "https://www.nps.gov/places/000/gibbon-falls.htm",
    "d": "medium"
   },
   {
-   "id": "ys-011",
-   "q": "Which animal became the official U.S. national mammal in 2016?",
-   "a": "American bison",
+   "id": "ys-008",
+   "q": "Yellowstone Lake is North America's largest freshwater lake above what elevation?",
+   "a": "7,000 feet",
    "w": [
-    "Grizzly bear",
-    "Bald eagle",
-    "Gray wolf"
+    "5,000 feet",
+    "9,000 feet",
+    "10,000 feet"
    ],
-   "f": "President Obama signed the National Bison Legacy Act on May 9, 2016.",
-   "s": "National Park Service: America's New National Mammal",
-   "u": "https://www.nps.gov/articles/bison-bellows-5-12-16.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-061",
-   "q": "About how old are the fossil forests on Yellowstone's Specimen Ridge?",
-   "a": "About 50 million years",
-   "w": [
-    "About 5,000 years",
-    "About 500,000 years",
-    "About 500 million years"
-   ],
-   "f": "Scientists have counted at least 27 layers of fossil trees stacked in the ridge, many still standing upright.",
-   "s": "National Park Service: Fossil Plants of Yellowstone",
-   "u": "https://www.nps.gov/articles/000/the-incredible-fossil-plants-of-yellowstone-national-park.htm",
+   "f": "The lake sits at 7,733 feet. It has 141 miles of shoreline and is up to 430 feet deep.",
+   "s": "National Park Service: Yellowstone Lake",
+   "u": "https://www.nps.gov/yell/learn/nature/yellowstone-lake.htm",
    "d": "hard"
   },
   {
-   "id": "ys-106",
-   "d": "medium",
-   "q": "Yellowstone's Black Sand Basin is named for sand made from what?",
-   "a": "Obsidian (volcanic glass)",
+   "id": "ys-031",
+   "q": "Which is the oldest hotel still operating in Yellowstone?",
+   "a": "Lake Yellowstone Hotel",
    "w": [
-    "Coal dust",
-    "Crushed lava rock from Hawaii",
-    "Iron filings"
+    "Old Faithful Inn",
+    "Roosevelt Lodge",
+    "Canyon Lodge"
    ],
-   "f": "The basin, about a mile from Old Faithful, has some of the park's most colorful hot springs.",
-   "s": "National Park Service: Black Sand Basin",
-   "u": "https://www.nps.gov/places/000/black-sand-basin-trailhead.htm"
+   "f": "It opened in 1891. Robert Reamer later added its signature columns and false balconies.",
+   "s": "National Park Service: Lake Hotel and Cabins",
+   "u": "https://www.nps.gov/places/000/lake-hotel-and-cabins.htm",
+   "d": "medium"
   },
   {
-   "id": "ys-034",
-   "q": "The terraces at Mammoth Hot Springs are made of what?",
-   "a": "Travertine",
+   "id": "ys-102",
+   "d": "hard",
+   "q": "How much did Congress set aside for the 1871 Hayden survey of Yellowstone?",
+   "a": "$40,000",
    "w": [
-    "Granite",
-    "Obsidian",
-    "Sandstone"
+    "$400",
+    "$4,000",
+    "$4 million"
    ],
-   "f": "The travertine terraces are always changing, sometimes within a single day.",
-   "s": "National Park Service: Mammoth Hot Springs and the North",
-   "u": "https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm",
+   "f": "The survey's report, photos and paintings helped convince Congress to create the park in 1872.",
+   "s": "National Park Service: National Parks, The American Experience",
+   "u": "https://www.nps.gov/parkhistory/online_books/runte1/chap2.htm"
+  },
+  {
+   "id": "ys-088",
+   "q": "How did the cutthroat trout get its name?",
+   "a": "From a red slash under its jaw",
+   "w": [
+    "From its sharp teeth",
+    "From fighting other fish",
+    "From an old fishing knife"
+   ],
+   "f": "Yellowstone's native cutthroat also have dark spots, mostly toward the tail.",
+   "s": "National Park Service: Yellowstone Trout Facts",
+   "u": "https://www.nps.gov/yell/learn/ys-25-1-yellowstone-trout-facts.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-120",
+   "d": "medium",
+   "q": "Most of the water at Yellowstone's Norris Geyser Basin is what?",
+   "a": "Acidic",
+   "w": [
+    "Salty",
+    "Frozen",
+    "Drinkable"
+   ],
+   "f": "Norris is home to rare acid geysers and is the park's hottest thermal area.",
+   "s": "National Park Service: Norris Geyser Basin",
+   "u": "https://www.nps.gov/yell/planyourvisit/norrisplan.htm"
+  },
+  {
+   "id": "ys-095",
+   "d": "hard",
+   "q": "Which bird plants whitebark pine forests by burying the seeds, a food grizzlies also love?",
+   "a": "Clark's nutcracker",
+   "w": [
+    "Steller's jay",
+    "Gray jay",
+    "Pine grosbeak"
+   ],
+   "f": "The bird carries seeds in a pouch under its tongue and buries them, sometimes miles away.",
+   "s": "National Park Service: Whitebark Pine",
+   "u": "https://www.nps.gov/articles/whitebark-pine-brief.htm"
+  },
+  {
+   "id": "ys-014",
+   "q": "How tall is the Lower Falls of the Yellowstone River?",
+   "a": "308 feet",
+   "w": [
+    "109 feet",
+    "190 feet",
+    "525 feet"
+   ],
+   "f": "Yellowstone has about 290 waterfalls, and the Lower Falls is the tallest one near a road.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-083",
+   "q": "The green and orange mats around Yellowstone's hot springs are mostly made of what?",
+   "a": "Heat-loving bacteria",
+   "w": [
+    "Moss",
+    "Rust from old pipes",
+    "Algae from the lake"
+   ],
+   "f": "Some of these cyanobacteria grow in water as hot as about 167°F. Their colors change as the water cools.",
+   "s": "National Park Service: Thermophilic Bacteria",
+   "u": "https://www.nps.gov/yell/learn/nature/thermophilic-bacteria.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-110",
+   "d": "medium",
+   "q": "Mystic Falls, near Biscuit Basin, drops about how far?",
+   "a": "70 feet",
+   "w": [
+    "7 feet",
+    "300 feet",
+    "700 feet"
+   ],
+   "f": "It's on the Little Firehole River, a short hike from the Old Faithful area.",
+   "s": "National Park Service: Mystic Falls Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-trail-mystic-falls.htm"
+  },
+  {
+   "id": "ys-073",
+   "q": "When grizzlies were listed as threatened in 1975, about how many lived in the Greater Yellowstone area?",
+   "a": "About 136",
+   "w": [
+    "About 12",
+    "About 1,000",
+    "About 5,000"
+   ],
+   "f": "By 2024 the population was estimated at about 1,030 bears.",
+   "s": "National Park Service: Forty Years of Grizzly Recovery",
+   "u": "https://www.nps.gov/yell/learn/forty-years-of-grizzly-bear-recovery.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-068",
+   "q": "The West Thumb of Yellowstone Lake is a caldera inside what?",
+   "a": "Another caldera",
+   "w": [
+    "A glacier valley",
+    "A meteor crater",
+    "An old riverbed"
+   ],
+   "f": "An eruption about 174,000 years ago created West Thumb, which is about the same size as Oregon's Crater Lake.",
+   "s": "National Park Service: West Thumb and the South",
+   "u": "https://www.nps.gov/yell/planyourvisit/westthumbgrantvillage.htm",
    "d": "medium"
   },
   {
@@ -1192,6 +926,160 @@
    "d": "hard"
   },
   {
+   "id": "ys-104",
+   "d": "medium",
+   "q": "How thick can the ice on Yellowstone Lake get in winter?",
+   "a": "More than 2 feet",
+   "w": [
+    "About 1 inch",
+    "About 6 inches",
+    "It never freezes"
+   ],
+   "f": "The lake usually freezes in late December or early January and thaws in late May or early June.",
+   "s": "National Park Service: Yellowstone Lake",
+   "u": "https://www.nps.gov/yell/learn/nature/yellowstone-lake.htm"
+  },
+  {
+   "id": "ys-115",
+   "d": "easy",
+   "q": "How many kinds of bears live in Yellowstone?",
+   "a": "Two: grizzly and black bears",
+   "w": [
+    "One: grizzly bears",
+    "Three: grizzly, black and polar bears",
+    "None"
+   ],
+   "f": "Yellowstone has 67 kinds of mammals, including both bear species.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
+  },
+  {
+   "id": "ys-124",
+   "d": "medium",
+   "q": "Rangers predict Old Faithful's next eruption mostly by measuring what?",
+   "a": "How long the last eruption lasted",
+   "w": [
+    "The air temperature",
+    "The phase of the moon",
+    "How many people are watching"
+   ],
+   "f": "Longer eruptions are followed by longer waits until the next one.",
+   "s": "National Park Service: Old Faithful Virtual Visitor Center",
+   "u": "https://www.nps.gov/features/yell/ofvec/exhibits/eruption/prediction/predict8.htm"
+  },
+  {
+   "id": "ys-076",
+   "q": "After waking up in 2018, Steamboat Geyser hit a record of how many eruptions in a single year?",
+   "a": "48",
+   "w": [
+    "3",
+    "12",
+    "300"
+   ],
+   "f": "It erupted 48 times in both 2019 and 2020, after barely erupting for years.",
+   "s": "National Park Service: Steamboat Geyser",
+   "u": "https://www.nps.gov/yell/learn/nature/steamboat-geyser.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-023",
+   "q": "Which is the world's tallest active geyser?",
+   "a": "Steamboat Geyser",
+   "w": [
+    "Old Faithful",
+    "Grand Geyser",
+    "Castle Geyser"
+   ],
+   "f": "Steamboat's major eruptions shoot water more than 300 feet high. It's in the Norris Geyser Basin.",
+   "s": "National Park Service: Steamboat Geyser",
+   "u": "https://www.nps.gov/yell/learn/nature/steamboat-geyser.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-117",
+   "d": "easy",
+   "q": "Which tree makes up most of Yellowstone's forests?",
+   "a": "Lodgepole pine",
+   "w": [
+    "Giant sequoia",
+    "Palm tree",
+    "Sugar maple"
+   ],
+   "f": "More than 80% of the park's forest is lodgepole pine.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
+  },
+  {
+   "id": "ys-048",
+   "q": "French traders gave the Yellowstone River what name?",
+   "a": "Roche Jaune",
+   "w": [
+    "Pierre Dorée",
+    "Mont Jaune",
+    "Rivière d'Or"
+   ],
+   "f": "The Hidatsa named the river for the yellow sandstone bluffs along it in eastern Montana. French traders translated that name as 'Roche Jaune,' which means 'yellow rock.'",
+   "s": "National Park Service: Missouri/Yellowstone Confluence",
+   "u": "https://www.nps.gov/places/missouri-yellowstone-confluence.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-034",
+   "q": "The terraces at Mammoth Hot Springs are made of what?",
+   "a": "Travertine",
+   "w": [
+    "Granite",
+    "Obsidian",
+    "Sandstone"
+   ],
+   "f": "The travertine terraces are always changing, sometimes within a single day.",
+   "s": "National Park Service: Mammoth Hot Springs and the North",
+   "u": "https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-060",
+   "q": "About how often does Yellowstone's Lone Star Geyser erupt?",
+   "a": "About every 3 hours",
+   "w": [
+    "About every 10 minutes",
+    "About once a week",
+    "About once a year"
+   ],
+   "f": "It shoots 30 to 45 feet high from a 12-foot cone, at the end of a flat trail you can walk or bike.",
+   "s": "National Park Service: Lone Star Geyser Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-trail-lone-star-geyser.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-027",
+   "q": "About how much of Yellowstone is covered by forest?",
+   "a": "About 80%",
+   "w": [
+    "About 25%",
+    "About 50%",
+    "About 95%"
+   ],
+   "f": "More than 80% of that forest is lodgepole pine.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-011",
+   "q": "Which animal became the official U.S. national mammal in 2016?",
+   "a": "American bison",
+   "w": [
+    "Grizzly bear",
+    "Bald eagle",
+    "Gray wolf"
+   ],
+   "f": "President Obama signed the National Bison Legacy Act on May 9, 2016.",
+   "s": "National Park Service: America's New National Mammal",
+   "u": "https://www.nps.gov/articles/bison-bellows-5-12-16.htm",
+   "d": "easy"
+  },
+  {
    "id": "ys-028",
    "q": "Roughly how often does Old Faithful erupt these days?",
    "a": "About every 100 minutes",
@@ -1201,6 +1089,132 @@
     "Once a day"
    ],
    "f": "As of January 2025, the median wait between eruptions was 102 minutes (give or take 10). Intervals ranged from 54 to 118 minutes.",
+   "s": "National Park Service: Old Faithful",
+   "u": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-032",
+   "q": "Roughly when did the eruption that formed today's Yellowstone Caldera happen?",
+   "a": "About 631,000 years ago",
+   "w": [
+    "About 63,000 years ago",
+    "About 6.3 million years ago",
+    "About 12,000 years ago"
+   ],
+   "f": "The Lava Creek eruption threw out more than 1,000 cubic kilometers of material and left a caldera about 30 by 45 miles.",
+   "s": "National Park Service: Volcano",
+   "u": "https://www.nps.gov/yell/learn/nature/volcano.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-010",
+   "q": "Isa Lake, on the Continental Divide at Craig Pass, was once probably the only lake on Earth to drain naturally into what?",
+   "a": "Two oceans",
+   "w": [
+    "An underground cave",
+    "A geyser",
+    "Two countries"
+   ],
+   "f": "The NPS says this may now happen only at peak snowmelt after winters with deep snow.",
+   "s": "National Park Service: Isa Lake",
+   "u": "https://www.nps.gov/places/000/isa-lake.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-109",
+   "d": "easy",
+   "q": "Yellowstone's geysers and hot springs are powered by heat from what?",
+   "a": "An active volcano",
+   "w": [
+    "The sun",
+    "Underground coal fires",
+    "A meteor crater"
+   ],
+   "f": "Yellowstone sits on one of the world's largest volcanic calderas.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
+  },
+  {
+   "id": "ys-096",
+   "d": "hard",
+   "q": "Which Yellowstone animal declined sharply after the 1988 fires burned its winter forests?",
+   "a": "Moose",
+   "w": [
+    "Elk",
+    "Bison",
+    "Pronghorn"
+   ],
+   "f": "Unlike moose in many places, Yellowstone's moose rely on old fir forests to survive winter.",
+   "s": "National Park Service: Moose",
+   "u": "https://www.nps.gov/yell/learn/nature/moose.htm"
+  },
+  {
+   "id": "ys-024",
+   "q": "Yellowstone is larger than which two states combined?",
+   "a": "Rhode Island and Delaware",
+   "w": [
+    "Connecticut and Delaware",
+    "New Jersey and Rhode Island",
+    "Vermont and New Hampshire"
+   ],
+   "f": "The park covers 3,472 square miles, or about 2.2 million acres.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-087",
+   "q": "Biscuit Basin was named for biscuit-shaped mineral formations around which pool?",
+   "a": "Sapphire Pool",
+   "w": [
+    "Morning Glory Pool",
+    "Black Pool",
+    "Emerald Pool"
+   ],
+   "f": "After the 1959 earthquake, Sapphire Pool erupted and blew most of the biscuits away.",
+   "s": "National Park Service: Biscuit Basin",
+   "u": "https://www.nps.gov/features/yell/ofvec/exhibits/treasures/ugb/biscuitbasin.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-006",
+   "q": "Which Yellowstone hydrothermal features can reach temperatures as high as 280°F?",
+   "a": "Fumaroles (steam vents)",
+   "w": [
+    "Mudpots",
+    "Travertine terraces",
+    "Hot spring runoff channels"
+   ],
+   "f": "The NPS says steam vents are often superheated, reaching temperatures as high as 280°F.",
+   "s": "National Park Service: Hydrothermal Features",
+   "u": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-067",
+   "q": "Which Yellowstone hot spring belches steam out of a cave like a dragon breathing smoke?",
+   "a": "Dragon's Mouth Spring",
+   "w": [
+    "Black Growler",
+    "Beryl Spring",
+    "Crested Pool"
+   ],
+   "f": "It's next to Mud Volcano, just north of Yellowstone Lake. Earlier names included 'The Belcher.'",
+   "s": "National Park Service: Dragon's Mouth Spring",
+   "u": "https://www.nps.gov/places/000/dragons-mouth-spring.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-035",
+   "q": "Which area has the most geysers in Yellowstone?",
+   "a": "Upper Geyser Basin",
+   "w": [
+    "Norris Geyser Basin",
+    "West Thumb Geyser Basin",
+    "Lower Geyser Basin"
+   ],
+   "f": "At least 150 hydrothermal features are packed into about one square mile around Old Faithful.",
    "s": "National Park Service: Old Faithful",
    "u": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
    "d": "medium"
@@ -1220,32 +1234,494 @@
    "u": "https://home.nps.gov/yell/learn/management/upload/20260917_Superintendent-s-Compendium-Yellowstone-National-Park.pdf"
   },
   {
-   "id": "ys-016",
-   "q": "Yellowstone stretches into three states. Which of these is NOT one of them?",
-   "a": "Colorado",
+   "id": "ys-091",
+   "q": "Nearly all of Yellowstone's beaver colonies are found near which plant?",
+   "a": "Willow",
    "w": [
-    "Wyoming",
-    "Montana",
-    "Idaho"
+    "Aspen",
+    "Lodgepole pine",
+    "Sagebrush"
    ],
-   "f": "About 96% of the park is in Wyoming, 3% in Montana and 1% in Idaho.",
+   "f": "Willow grows back quickly after beavers cut it. The park estimated 121 beaver colonies in 2024.",
+   "s": "National Park Service: Beaver",
+   "u": "https://www.nps.gov/yell/learn/nature/beaver.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-111",
+   "d": "easy",
+   "q": "Most of Yellowstone National Park is in which state?",
+   "a": "Wyoming",
+   "w": [
+    "Montana",
+    "Idaho",
+    "Colorado"
+   ],
+   "f": "About 96% of the park is in Wyoming. The rest is in Montana (3%) and Idaho (1%).",
    "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
+  },
+  {
+   "id": "ys-038",
+   "q": "People have been quarrying Yellowstone's Obsidian Cliff for toolmaking for more than how long?",
+   "a": "11,000 years",
+   "w": [
+    "500 years",
+    "2,000 years",
+    "100,000 years"
+   ],
+   "f": "Obsidian Cliff became a National Historic Landmark in 1996.",
+   "s": "National Park Service: Obsidian Cliff",
+   "u": "https://www.nps.gov/yell/learn/historyculture/obsidiancliff.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-033",
+   "q": "Which president signed the law creating Yellowstone National Park?",
+   "a": "Ulysses S. Grant",
+   "w": [
+    "Theodore Roosevelt",
+    "Abraham Lincoln",
+    "Rutherford B. Hayes"
+   ],
+   "f": "Grant signed the act on March 1, 1872, only six months after the Hayden Expedition explored the area.",
+   "s": "National Park Service: Birth of a National Park",
+   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-039",
+   "q": "What words are carved on the Roosevelt Arch at the North Entrance?",
+   "a": "For the benefit and enjoyment of the people",
+   "w": [
+    "This land is your land",
+    "Preserve and protect forever",
+    "Gateway to Wonderland"
+   ],
+   "f": "President Theodore Roosevelt placed the arch's cornerstone in 1903, and you can still drive through it all year.",
+   "s": "National Park Service: Mammoth Hot Springs and the North",
+   "u": "https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-079",
+   "q": "About how tall is Yellowstone's Fairy Falls?",
+   "a": "200 feet",
+   "w": [
+    "40 feet",
+    "90 feet",
+    "400 feet"
+   ],
+   "f": "The trail to Fairy Falls also leads to the overlook with the famous view down onto Grand Prismatic Spring.",
+   "s": "National Park Service: Fairy Falls Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-trail-fairy-falls.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-119",
+   "d": "easy",
+   "q": "Which Yellowstone valley is the world's top spot for watching wild wolves?",
+   "a": "Lamar Valley",
+   "w": [
+    "Hayden Valley",
+    "Paradise Valley",
+    "Death Valley"
+   ],
+   "f": "Wolves have been watched there since they returned in 1995. Early morning and evening are best.",
+   "s": "National Park Service: A Peak Experience Watching Wolves",
+   "u": "https://www.nps.gov/yell/learn/ys-24-1-a-peak-experience-watching-wolves-in-yellowstone-national-park.htm"
+  },
+  {
+   "id": "ys-045",
+   "q": "In what year were gray wolves brought back to Yellowstone?",
+   "a": "1995",
+   "w": [
+    "1972",
+    "1988",
+    "2005"
+   ],
+   "f": "The park's last wolf pack was killed in 1926. In 1995 and 1996, 31 gray wolves from western Canada were moved to Yellowstone.",
+   "s": "National Park Service: History of Wolf Management",
+   "u": "https://www.nps.gov/yell/learn/historyculture/wolf-management.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-066",
+   "q": "About how long is the Grand Canyon of the Yellowstone?",
+   "a": "About 20 miles",
+   "w": [
+    "About 2 miles",
+    "About 75 miles",
+    "About 277 miles"
+   ],
+   "f": "It runs from the Upper Falls to the Tower Fall area and is 800 to 1,200 feet deep.",
+   "s": "National Park Service: Grand Canyon of the Yellowstone",
+   "u": "https://www.nps.gov/yell/learn/nature/grand-canyon.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-114",
+   "d": "medium",
+   "q": "Yellowstone's West Thumb is about the same size as which famous lake?",
+   "a": "Crater Lake",
+   "w": [
+    "Lake Tahoe",
+    "Lake Superior",
+    "The Great Salt Lake"
+   ],
+   "f": "Both fill calderas left by volcanic eruptions.",
+   "s": "National Park Service: West Thumb and the South",
+   "u": "https://www.nps.gov/yell/planyourvisit/westthumbgrantvillage.htm"
+  },
+  {
+   "id": "ys-089",
+   "q": "What makes many lodgepole pine cones open up and release their seeds?",
+   "a": "The heat of a fire",
+   "w": [
+    "Freezing winter nights",
+    "Spring rain",
+    "Squirrels chewing them"
+   ],
+   "f": "These cones are sealed shut with resin that melts at about 113°F, so a burned forest quickly reseeds itself.",
+   "s": "National Park Service: Ecological Consequences of Fire",
+   "u": "https://www.nps.gov/yell/learn/nature/ecological-consequences-of-fire.htm",
    "d": "easy"
   },
   {
-   "id": "ys-074",
-   "q": "Yellowstone's Gibbon Falls tumbles over the remains of what?",
-   "a": "The rim of the Yellowstone Caldera",
+   "id": "ys-030",
+   "q": "In 1901, about how many bison were counted in Yellowstone?",
+   "a": "About 25",
    "w": [
-    "An old Army dam",
-    "A glacier's edge",
-    "A lava tube"
+    "About 250",
+    "About 2,500",
+    "About 25,000"
    ],
-   "f": "The falls drop 84 feet. The rock wall across the road is part of the caldera's inner rim.",
-   "s": "National Park Service: Gibbon Falls",
-   "u": "https://www.nps.gov/places/000/gibbon-falls.htm",
+   "f": "Congress then paid to buy 21 bison from private owners, and they were raised in the Lamar Valley to rebuild the herd.",
+   "s": "National Park Service: Lamar Buffalo Ranch",
+   "u": "https://www.nps.gov/places/lamar-buffalo-ranch.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-025",
+   "q": "The NPS says the travertine terraces at Mammoth Hot Springs look like what?",
+   "a": "A cave turned inside out",
+   "w": [
+    "A frozen waterfall",
+    "A wedding cake",
+    "A coral reef"
+   ],
+   "f": "Hot water rising through limestone builds the terraces, and they can change shape surprisingly fast.",
+   "s": "National Park Service: Hydrothermal Features",
+   "u": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm",
    "d": "medium"
+  },
+  {
+   "id": "ys-118",
+   "d": "medium",
+   "q": "About what share of the world's active geysers are in Yellowstone?",
+   "a": "More than half",
+   "w": [
+    "About 5%",
+    "About 20%",
+    "Every single one"
+   ],
+   "f": "Yellowstone has more than 500 active geysers.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
+  },
+  {
+   "id": "ys-026",
+   "q": "How many Native American tribes have historic ties to Yellowstone?",
+   "a": "27",
+   "w": [
+    "3",
+    "9",
+    "62"
+   ],
+   "f": "Yellowstone also has more than 1,800 known archeological sites.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-121",
+   "d": "easy",
+   "q": "How did Old Faithful get its name?",
+   "a": "It erupts on a regular schedule",
+   "w": [
+    "It never stops steaming",
+    "It's the oldest geyser on Earth",
+    "A ranger named Faith found it"
+   ],
+   "f": "An 1870 expedition named it after watching how dependably it erupted.",
+   "s": "National Park Service: Old Faithful Geyser",
+   "u": "https://www.nps.gov/places/old-faithful-geyser.htm"
+  },
+  {
+   "id": "ys-106",
+   "d": "medium",
+   "q": "Yellowstone's Black Sand Basin is named for sand made from what?",
+   "a": "Obsidian (volcanic glass)",
+   "w": [
+    "Coal dust",
+    "Crushed lava rock from Hawaii",
+    "Iron filings"
+   ],
+   "f": "The basin, about a mile from Old Faithful, has some of the park's most colorful hot springs.",
+   "s": "National Park Service: Black Sand Basin",
+   "u": "https://www.nps.gov/places/000/black-sand-basin-trailhead.htm"
+  },
+  {
+   "id": "ys-003",
+   "q": "About how many earthquakes does Yellowstone have each year?",
+   "a": "1,000 to 3,000",
+   "w": [
+    "About 10",
+    "About 100",
+    "More than 50,000"
+   ],
+   "f": "Yellowstone sits on an active volcano and has one of the world's largest calderas, about 45 by 30 miles.",
+   "s": "National Park Service: Park Facts",
+   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-053",
+   "q": "Which non-native fish threatens native cutthroat trout in Yellowstone Lake?",
+   "a": "Lake trout",
+   "w": [
+    "Carp",
+    "Northern pike",
+    "Brown trout"
+   ],
+   "f": "Gillnetting is the park's main tool for reducing the lake trout population. Crews set the nets in deep water to avoid catching cutthroat.",
+   "s": "National Park Service: Fish Management",
+   "u": "https://www.nps.gov/yell/learn/management/fish.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-107",
+   "d": "hard",
+   "q": "In 1896, Black soldiers of the 25th Infantry rode to Yellowstone from Fort Missoula on what?",
+   "a": "Bicycles",
+   "w": [
+    "Horses",
+    "Mules",
+    "A steam train"
+   ],
+   "f": "The Buffalo Soldier bicycle corps tested whether bikes could replace horses for the Army.",
+   "s": "National Park Service: 25th Infantry Bicycle Corps",
+   "u": "https://www.nps.gov/articles/000/the-twenty-fifth-infantry-bicycle-corps.htm"
+  },
+  {
+   "id": "ys-044",
+   "q": "Which gateway town sits at Yellowstone's North Entrance?",
+   "a": "Gardiner, Montana",
+   "w": [
+    "Bozeman, Montana",
+    "Cody, Wyoming",
+    "Jackson, Wyoming"
+   ],
+   "f": "The North Entrance is marked by the Roosevelt Arch, and Gardiner is also home to the park's Heritage and Research Center.",
+   "s": "National Park Service: Mammoth Hot Springs and the North",
+   "u": "https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-077",
+   "q": "Yellowstone's Roosevelt Lodge, finished in 1920, is built from what?",
+   "a": "Unpeeled logs",
+   "w": [
+    "Stone blocks",
+    "Adobe bricks",
+    "Steel and glass"
+   ],
+   "f": "Theodore Roosevelt camped nearby in 1903, though not at the lodge site itself.",
+   "s": "National Park Service: Roosevelt Lodge",
+   "u": "https://www.nps.gov/places/000/roosevelt-lodge.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-103",
+   "d": "medium",
+   "q": "Which Upper Geyser Basin geyser has a cone thousands of years old and may be the oldest there?",
+   "a": "Castle Geyser",
+   "w": [
+    "Old Faithful",
+    "Daisy Geyser",
+    "Riverside Geyser"
+   ],
+   "f": "Its cone and the platform beneath it form one of the largest geyser deposits in the world.",
+   "s": "National Park Service: Castle Geyser",
+   "u": "https://www.nps.gov/places/000/castle-geyser.htm"
+  },
+  {
+   "id": "ys-065",
+   "q": "In 1948, which Yellowstone mudpot exploded into the forest, blowing trees out by their roots?",
+   "a": "Black Dragon's Caldron",
+   "w": [
+    "Mud Volcano",
+    "Fountain Paint Pot",
+    "Artists' Paintpots"
+   ],
+   "f": "It covered the surrounding forest in mud and is still churning beside the Mud Volcano trail.",
+   "s": "National Park Service: Mud Volcano Trail",
+   "u": "https://www.nps.gov/thingstodo/yell-mud-volcano-trails.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-086",
+   "q": "Yellowstone's Petrified Tree, near Tower Junction, is an ancient what?",
+   "a": "Redwood",
+   "w": [
+    "Oak",
+    "Pine",
+    "Palm"
+   ],
+   "f": "Redwoods once grew here in a much warmer climate before volcanic mudflows buried them.",
+   "s": "National Park Service: Tower–Roosevelt",
+   "u": "https://www.nps.gov/yell/planyourvisit/towerrplan.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-108",
+   "d": "easy",
+   "q": "Which clever Yellowstone bird has learned to unzip backpacks to steal food?",
+   "a": "Raven",
+   "w": [
+    "Bald eagle",
+    "Magpie",
+    "Pelican"
+   ],
+   "f": "Ravens have figured out many zippers and buckles, so never leave a pack with food unattended.",
+   "s": "National Park Service: Raven",
+   "u": "https://www.nps.gov/yell/learn/nature/raven.htm"
+  },
+  {
+   "id": "ys-047",
+   "q": "Who was Yellowstone's first superintendent?",
+   "a": "Nathaniel P. Langford",
+   "w": [
+    "John Muir",
+    "Ferdinand Hayden",
+    "Stephen Mather"
+   ],
+   "f": "Langford took the job even though it came with no pay.",
+   "s": "National Park Service: Birth of a National Park",
+   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-050",
+   "q": "In 1877, which people crossed Yellowstone in 13 days while fleeing the U.S. Army?",
+   "a": "The Nez Perce",
+   "w": [
+    "The Lakota",
+    "The Crow",
+    "The Blackfeet"
+   ],
+   "f": "About 800 men, women and children, with almost 2,000 horses, entered the park on August 23, 1877.",
+   "s": "National Park Service: Flight of the Nez Perce",
+   "u": "https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-094",
+   "d": "medium",
+   "q": "Why does Yellowstone's Emerald Pool look green?",
+   "a": "Yellow microbes mixed with blue water",
+   "w": [
+    "Green dye from minerals",
+    "Algae from the river",
+    "Reflection of the forest"
+   ],
+   "f": "Microbes create many of Yellowstone's colors. As pools cool, they can turn orange and murky.",
+   "s": "National Park Service: Emerald Pool",
+   "u": "https://www.nps.gov/places/000/emerald-pool.htm"
+  },
+  {
+   "id": "ys-112",
+   "d": "hard",
+   "q": "Before Steamboat Geyser woke up in March 2018, how long had it been quiet?",
+   "a": "More than 3½ years",
+   "w": [
+    "About 3 days",
+    "About 3 weeks",
+    "More than 300 years"
+   ],
+   "f": "Its new active phase set records for eruptions per year.",
+   "s": "U.S. Geological Survey: Steamboat Geyser's 2018 Reawakening",
+   "u": "https://www.usgs.gov/publications/2018-reawakening-and-eruption-dynamics-steamboat-geyser-worlds-tallest-active-geyser"
+  },
+  {
+   "id": "ys-085",
+   "q": "How did Yellowstone's Electric Peak get its name?",
+   "a": "Climbers got caught in a lightning storm near its top",
+   "w": [
+    "It has a power line on top",
+    "It glows at night",
+    "A mining company named it"
+   ],
+   "f": "Henry Gannett of the 1872 Hayden Survey was so shaken by the storm that he named the 10,969-foot peak for it.",
+   "s": "National Park Service: Electric Peak",
+   "u": "https://www.nps.gov/yell/blogs/electric-peak.htm",
+   "d": "easy"
+  },
+  {
+   "id": "ys-057",
+   "q": "Why is fishing banned at Fishing Bridge?",
+   "a": "To protect spawning cutthroat trout",
+   "w": [
+    "The bridge was unsafe",
+    "Grizzlies kept stealing the catch",
+    "The water got too hot"
+   ],
+   "f": "Overfishing had helped cause the trout's decline, so the bridge closed to fishing in 1973. Now it's a good place to watch trout instead.",
+   "s": "National Park Service: Fishing Bridge",
+   "u": "https://www.nps.gov/places/000/fishing-bridge.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-063",
+   "q": "Which Yellowstone lake is thought to be the largest lake in the lower 48 states that you can't reach by road?",
+   "a": "Shoshone Lake",
+   "w": [
+    "Lewis Lake",
+    "Heart Lake",
+    "Yellowstone Lake"
+   ],
+   "f": "Paddlers reach it from Lewis Lake. Motorboats aren't allowed on it.",
+   "s": "National Park Service: Shoshone Lake",
+   "u": "https://www.nps.gov/yell/learn/nature/shoshone-lake.htm",
+   "d": "hard"
+  },
+  {
+   "id": "ys-042",
+   "q": "How close can you legally get to bears and wolves in Yellowstone?",
+   "a": "No closer than 100 yards",
+   "w": [
+    "25 yards",
+    "50 feet",
+    "10 yards"
+   ],
+   "f": "Stay at least 25 yards from all other animals, including bison and elk.",
+   "s": "National Park Service: Safety",
+   "u": "https://www.nps.gov/yell/planyourvisit/safety.htm",
+   "d": "medium"
+  },
+  {
+   "id": "ys-123",
+   "d": "easy",
+   "q": "Because of their orange-red color, baby bison are nicknamed what?",
+   "a": "Red dogs",
+   "w": [
+    "Rusty pups",
+    "Fire calves",
+    "Copper kids"
+   ],
+   "f": "Calves are born in spring and turn dark brown after a few months, when their humps start to grow.",
+   "s": "National Park Service: 15 Facts About Bison",
+   "u": "https://www.nps.gov/articles/15-facts-about-bison.htm"
   },
   {
    "id": "ys-005",
@@ -1274,482 +1750,6 @@
    "s": "National Park Service: Liberty Cap",
    "u": "https://www.nps.gov/places/000/liberty-cap.htm",
    "d": "medium"
-  },
-  {
-   "id": "ys-009",
-   "q": "Which 1870 expedition gave Old Faithful its name?",
-   "a": "The Washburn Expedition",
-   "w": [
-    "The Hayden Expedition",
-    "The Lewis and Clark Expedition",
-    "The Folsom Expedition"
-   ],
-   "f": "The explorers named the geyser for how regularly it erupted.",
-   "s": "National Park Service: Old Faithful Geyser",
-   "u": "https://www.nps.gov/places/old-faithful-geyser.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-049",
-   "q": "Whose photographs, along with Thomas Moran's paintings, helped convince Congress to protect Yellowstone?",
-   "a": "William Henry Jackson",
-   "w": [
-    "Ansel Adams",
-    "Mathew Brady",
-    "Edward Curtis"
-   ],
-   "f": "Jackson's photographs and Moran's paintings showed lawmakers back East what the West really looked like.",
-   "s": "National Park Service: Birth of a National Park",
-   "u": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-054",
-   "q": "What is the largest hot spring in Yellowstone?",
-   "a": "Grand Prismatic Spring",
-   "w": [
-    "Morning Glory Pool",
-    "Mammoth Hot Springs",
-    "Abyss Pool"
-   ],
-   "f": "Grand Prismatic is 200 to 330 feet across and more than 121 feet deep. Its rainbow rings come from heat-loving microbes called thermophiles.",
-   "s": "National Park Service: Grand Prismatic Spring",
-   "u": "https://www.nps.gov/places/000/grand-prismatic-spring.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-036",
-   "q": "How fast can a bison run?",
-   "a": "About 35 mph",
-   "w": [
-    "About 10 mph",
-    "About 20 mph",
-    "About 55 mph"
-   ],
-   "f": "Bison can also jump over objects about 5 feet high. Bulls weigh up to about 2,000 pounds.",
-   "s": "National Park Service: Bison",
-   "u": "https://www.nps.gov/yell/learn/nature/bison.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-107",
-   "d": "hard",
-   "q": "In 1896, Black soldiers of the 25th Infantry rode to Yellowstone from Fort Missoula on what?",
-   "a": "Bicycles",
-   "w": [
-    "Horses",
-    "Mules",
-    "A steam train"
-   ],
-   "f": "The Buffalo Soldier bicycle corps tested whether bikes could replace horses for the Army.",
-   "s": "National Park Service: 25th Infantry Bicycle Corps",
-   "u": "https://www.nps.gov/articles/000/the-twenty-fifth-infantry-bicycle-corps.htm"
-  },
-  {
-   "id": "ys-100",
-   "d": "medium",
-   "q": "About how much snow falls in Yellowstone in an average year?",
-   "a": "About 150 inches",
-   "w": [
-    "About 15 inches",
-    "About 50 inches",
-    "About 1,000 inches"
-   ],
-   "f": "Higher elevations can get double that.",
-   "s": "National Park Service: Yellowstone Weather",
-   "u": "https://www.nps.gov/yell/planyourvisit/weather.htm"
-  },
-  {
-   "id": "ys-092",
-   "d": "hard",
-   "q": "About how often does Grand Geyser erupt?",
-   "a": "Every 7 to 15 hours",
-   "w": [
-    "Every 15 minutes",
-    "Every 3 days",
-    "Once a month"
-   ],
-   "f": "Each eruption lasts 9 to 12 minutes, so rangers post predictions to help visitors catch it.",
-   "s": "National Park Service: Grand Geyser Stop",
-   "u": "https://www.nps.gov/features/yell/tours/oldfaithful/grandg.htm"
-  },
-  {
-   "id": "ys-055",
-   "q": "Which Yellowstone entrance is open to regular cars all year?",
-   "a": "North Entrance",
-   "w": [
-    "West Entrance",
-    "East Entrance",
-    "South Entrance"
-   ],
-   "f": "The only road usually open to regular vehicles all year runs from the North Entrance at Gardiner, Montana, through Tower Junction to Cooke City.",
-   "s": "National Park Service: Park Roads",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkroads.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-018",
-   "q": "Which animal is the most numerous large mammal in Yellowstone?",
-   "a": "Elk",
-   "w": [
-    "Bison",
-    "Mule deer",
-    "Pronghorn"
-   ],
-   "f": "In summer, 10,000 to 20,000 elk live in the park. Fewer than 2,000 stay through the winter.",
-   "s": "National Park Service: Elk",
-   "u": "https://www.nps.gov/yell/learn/nature/elk.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-051",
-   "q": "How many entrances does Yellowstone have?",
-   "a": "Five",
-   "w": [
-    "Three",
-    "Four",
-    "Seven"
-   ],
-   "f": "The park has 392 miles of paved roads and more than 15 miles of boardwalk.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-073",
-   "q": "When grizzlies were listed as threatened in 1975, about how many lived in the Greater Yellowstone area?",
-   "a": "About 136",
-   "w": [
-    "About 12",
-    "About 1,000",
-    "About 5,000"
-   ],
-   "f": "By 2024 the population was estimated at about 1,030 bears.",
-   "s": "National Park Service: Forty Years of Grizzly Recovery",
-   "u": "https://www.nps.gov/yell/learn/forty-years-of-grizzly-bear-recovery.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-062",
-   "q": "How fast can Yellowstone's pronghorn sprint?",
-   "a": "45 to 50 mph",
-   "w": [
-    "15 to 20 mph",
-    "25 to 30 mph",
-    "80 to 90 mph"
-   ],
-   "f": "That speed may be left over from a time when pronghorn had to outrun an American cheetah, which is now extinct.",
-   "s": "National Park Service: Pronghorn",
-   "u": "https://www.nps.gov/yell/learn/nature/pronghorn.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-065",
-   "q": "In 1948, which Yellowstone mudpot exploded into the forest, blowing trees out by their roots?",
-   "a": "Black Dragon's Caldron",
-   "w": [
-    "Mud Volcano",
-    "Fountain Paint Pot",
-    "Artists' Paintpots"
-   ],
-   "f": "It covered the surrounding forest in mud and is still churning beside the Mud Volcano trail.",
-   "s": "National Park Service: Mud Volcano Trail",
-   "u": "https://www.nps.gov/thingstodo/yell-mud-volcano-trails.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-068",
-   "q": "The West Thumb of Yellowstone Lake is a caldera inside what?",
-   "a": "Another caldera",
-   "w": [
-    "A glacier valley",
-    "A meteor crater",
-    "An old riverbed"
-   ],
-   "f": "An eruption about 174,000 years ago created West Thumb, which is about the same size as Oregon's Crater Lake.",
-   "s": "National Park Service: West Thumb and the South",
-   "u": "https://www.nps.gov/yell/planyourvisit/westthumbgrantvillage.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-083",
-   "q": "The green and orange mats around Yellowstone's hot springs are mostly made of what?",
-   "a": "Heat-loving bacteria",
-   "w": [
-    "Moss",
-    "Rust from old pipes",
-    "Algae from the lake"
-   ],
-   "f": "Some of these cyanobacteria grow in water as hot as about 167°F. Their colors change as the water cools.",
-   "s": "National Park Service: Thermophilic Bacteria",
-   "u": "https://www.nps.gov/yell/learn/nature/thermophilic-bacteria.htm",
-   "d": "easy"
-  },
-  {
-   "id": "ys-076",
-   "q": "After waking up in 2018, Steamboat Geyser hit a record of how many eruptions in a single year?",
-   "a": "48",
-   "w": [
-    "3",
-    "12",
-    "300"
-   ],
-   "f": "It erupted 48 times in both 2019 and 2020, after barely erupting for years.",
-   "s": "National Park Service: Steamboat Geyser",
-   "u": "https://www.nps.gov/yell/learn/nature/steamboat-geyser.htm",
-   "d": "hard"
-  },
-  {
-   "id": "ys-046",
-   "q": "About how many hydrothermal features does Yellowstone have?",
-   "a": "More than 10,000",
-   "w": [
-    "About 500",
-    "About 2,000",
-    "More than 100,000"
-   ],
-   "f": "That count includes more than 500 active geysers, which is over half of all the geysers in the world.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm",
-   "d": "medium"
-  },
-  {
-   "id": "ys-109",
-   "d": "easy",
-   "q": "Yellowstone's geysers and hot springs are powered by heat from what?",
-   "a": "An active volcano",
-   "w": [
-    "The sun",
-    "Underground coal fires",
-    "A meteor crater"
-   ],
-   "f": "Yellowstone sits on one of the world's largest volcanic calderas.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
-  },
-  {
-   "id": "ys-110",
-   "d": "medium",
-   "q": "Mystic Falls, near Biscuit Basin, drops about how far?",
-   "a": "70 feet",
-   "w": [
-    "7 feet",
-    "300 feet",
-    "700 feet"
-   ],
-   "f": "It's on the Little Firehole River, a short hike from the Old Faithful area.",
-   "s": "National Park Service: Mystic Falls Trail",
-   "u": "https://www.nps.gov/thingstodo/yell-trail-mystic-falls.htm"
-  },
-  {
-   "id": "ys-111",
-   "d": "easy",
-   "q": "Most of Yellowstone National Park is in which state?",
-   "a": "Wyoming",
-   "w": [
-    "Montana",
-    "Idaho",
-    "Colorado"
-   ],
-   "f": "About 96% of the park is in Wyoming. The rest is in Montana (3%) and Idaho (1%).",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
-  },
-  {
-   "id": "ys-112",
-   "d": "hard",
-   "q": "Before Steamboat Geyser woke up in March 2018, how long had it been quiet?",
-   "a": "More than 3½ years",
-   "w": [
-    "About 3 days",
-    "About 3 weeks",
-    "More than 300 years"
-   ],
-   "f": "Its new active phase set records for eruptions per year.",
-   "s": "U.S. Geological Survey: Steamboat Geyser's 2018 Reawakening",
-   "u": "https://www.usgs.gov/publications/2018-reawakening-and-eruption-dynamics-steamboat-geyser-worlds-tallest-active-geyser"
-  },
-  {
-   "id": "ys-113",
-   "d": "easy",
-   "q": "Which Yellowstone grizzlies usually leave their winter dens first?",
-   "a": "Adult males",
-   "w": [
-    "Mothers with cubs",
-    "Yearlings",
-    "They all wake up the same day"
-   ],
-   "f": "Males often come out in early March, and mothers with cubs follow in April and May.",
-   "s": "National Park Service: First Grizzly Sighting of 2026",
-   "u": "https://www.nps.gov/yell/learn/news/26003.htm"
-  },
-  {
-   "id": "ys-114",
-   "d": "medium",
-   "q": "Yellowstone's West Thumb is about the same size as which famous lake?",
-   "a": "Crater Lake",
-   "w": [
-    "Lake Tahoe",
-    "Lake Superior",
-    "The Great Salt Lake"
-   ],
-   "f": "Both fill calderas left by volcanic eruptions.",
-   "s": "National Park Service: West Thumb and the South",
-   "u": "https://www.nps.gov/yell/planyourvisit/westthumbgrantvillage.htm"
-  },
-  {
-   "id": "ys-115",
-   "d": "easy",
-   "q": "How many kinds of bears live in Yellowstone?",
-   "a": "Two: grizzly and black bears",
-   "w": [
-    "One: grizzly bears",
-    "Three: grizzly, black and polar bears",
-    "None"
-   ],
-   "f": "Yellowstone has 67 kinds of mammals, including both bear species.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
-  },
-  {
-   "id": "ys-116",
-   "d": "hard",
-   "q": "About how many bison lived in Yellowstone before calving season in 2025?",
-   "a": "About 5,300",
-   "w": [
-    "About 500",
-    "About 25,000",
-    "About 100,000"
-   ],
-   "f": "In 1901, only about 25 were counted, so the herd's comeback is a conservation success story.",
-   "s": "National Park Service: Bison",
-   "u": "https://www.nps.gov/yell/learn/nature/bison.htm"
-  },
-  {
-   "id": "ys-117",
-   "d": "easy",
-   "q": "Which tree makes up most of Yellowstone's forests?",
-   "a": "Lodgepole pine",
-   "w": [
-    "Giant sequoia",
-    "Palm tree",
-    "Sugar maple"
-   ],
-   "f": "More than 80% of the park's forest is lodgepole pine.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
-  },
-  {
-   "id": "ys-118",
-   "d": "medium",
-   "q": "About what share of the world's active geysers are in Yellowstone?",
-   "a": "More than half",
-   "w": [
-    "About 5%",
-    "About 20%",
-    "Every single one"
-   ],
-   "f": "Yellowstone has more than 500 active geysers.",
-   "s": "National Park Service: Park Facts",
-   "u": "https://www.nps.gov/yell/planyourvisit/parkfacts.htm"
-  },
-  {
-   "id": "ys-119",
-   "d": "easy",
-   "q": "Which Yellowstone valley is the world's top spot for watching wild wolves?",
-   "a": "Lamar Valley",
-   "w": [
-    "Hayden Valley",
-    "Paradise Valley",
-    "Death Valley"
-   ],
-   "f": "Wolves have been watched there since they returned in 1995. Early morning and evening are best.",
-   "s": "National Park Service: A Peak Experience Watching Wolves",
-   "u": "https://www.nps.gov/yell/learn/ys-24-1-a-peak-experience-watching-wolves-in-yellowstone-national-park.htm"
-  },
-  {
-   "id": "ys-120",
-   "d": "medium",
-   "q": "Most of the water at Yellowstone's Norris Geyser Basin is what?",
-   "a": "Acidic",
-   "w": [
-    "Salty",
-    "Frozen",
-    "Drinkable"
-   ],
-   "f": "Norris is home to rare acid geysers and is the park's hottest thermal area.",
-   "s": "National Park Service: Norris Geyser Basin",
-   "u": "https://www.nps.gov/yell/planyourvisit/norrisplan.htm"
-  },
-  {
-   "id": "ys-121",
-   "d": "easy",
-   "q": "How did Old Faithful get its name?",
-   "a": "It erupts on a regular schedule",
-   "w": [
-    "It never stops steaming",
-    "It's the oldest geyser on Earth",
-    "A ranger named Faith found it"
-   ],
-   "f": "An 1870 expedition named it after watching how dependably it erupted.",
-   "s": "National Park Service: Old Faithful Geyser",
-   "u": "https://www.nps.gov/places/old-faithful-geyser.htm"
-  },
-  {
-   "id": "ys-122",
-   "d": "hard",
-   "q": "The 1959 Hebgen Lake earthquake near Yellowstone killed how many people?",
-   "a": "28",
-   "w": [
-    "2",
-    "150",
-    "None"
-   ],
-   "f": "A huge landslide in Madison Canyon was part of the disaster.",
-   "s": "U.S. Geological Survey: Hebgen Lake Earthquake",
-   "u": "https://www.usgs.gov/news/60-years-1959-m73-hebgen-lake-earthquake-its-history-and-effects-yellowstone-region"
-  },
-  {
-   "id": "ys-123",
-   "d": "easy",
-   "q": "Because of their orange-red color, baby bison are nicknamed what?",
-   "a": "Red dogs",
-   "w": [
-    "Rusty pups",
-    "Fire calves",
-    "Copper kids"
-   ],
-   "f": "Calves are born in spring and turn dark brown after a few months, when their humps start to grow.",
-   "s": "National Park Service: 15 Facts About Bison",
-   "u": "https://www.nps.gov/articles/15-facts-about-bison.htm"
-  },
-  {
-   "id": "ys-124",
-   "d": "medium",
-   "q": "Rangers predict Old Faithful's next eruption mostly by measuring what?",
-   "a": "How long the last eruption lasted",
-   "w": [
-    "The air temperature",
-    "The phase of the moon",
-    "How many people are watching"
-   ],
-   "f": "Longer eruptions are followed by longer waits until the next one.",
-   "s": "National Park Service: Old Faithful Virtual Visitor Center",
-   "u": "https://www.nps.gov/features/yell/ofvec/exhibits/eruption/prediction/predict8.htm"
-  },
-  {
-   "id": "ys-125",
-   "d": "easy",
-   "q": "In fall, what loud call do bull elk make during mating season?",
-   "a": "A bugle",
-   "w": [
-    "A howl",
-    "A roar",
-    "A honk"
-   ],
-   "f": "The rut runs from early September to mid-October. Bulls are aggressive then, so keep your distance.",
-   "s": "National Park Service: Elk",
-   "u": "https://www.nps.gov/yell/learn/nature/elk.htm"
   }
  ]
 }
