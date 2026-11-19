@@ -1456,6 +1456,230 @@
    "s": "U.S. Forest Service: Black Hills FAQs",
    "u": "https://www.fs.usda.gov/r02/blackhills/about-area/faqs",
    "d": "medium"
+  },
+  {
+   "id": "rt-105",
+   "d": "easy",
+   "q": "Besides the 'Mother Road,' Route 66 is also nicknamed what?",
+   "a": "The Main Street of America",
+   "w": [
+    "The Sunshine Highway",
+    "The Great American Mile",
+    "The Golden Road"
+   ],
+   "f": "It linked the main streets of hundreds of towns between Chicago and Santa Monica.",
+   "s": "National Park Service: Historic Route 66",
+   "u": "https://www.nps.gov/pefo/learn/historyculture/historic-route-66.htm"
+  },
+  {
+   "id": "rt-106",
+   "d": "medium",
+   "q": "How long is Custer State Park's Wildlife Loop Road?",
+   "a": "18 miles",
+   "w": [
+    "3 miles",
+    "50 miles",
+    "100 miles"
+   ],
+   "f": "Early morning and evening are the best times to see bison.",
+   "s": "South Dakota Game, Fish & Parks: Scenic Drives",
+   "u": "https://gfp.sd.gov/csp-scenic-drives/"
+  },
+  {
+   "id": "rt-107",
+   "d": "easy",
+   "q": "What is the official color of San Francisco's Golden Gate Bridge called?",
+   "a": "International Orange",
+   "w": [
+    "Golden Gate Gold",
+    "Fire Engine Red",
+    "Sunset Copper"
+   ],
+   "f": "Architect Irving Morrow picked it to blend with the hills and stand out in the fog.",
+   "s": "National Park Service: Why Is the Golden Gate Bridge Orange?",
+   "u": "https://www.nps.gov/places/000/why-is-the-golden-gate-bridge-orange.htm"
+  },
+  {
+   "id": "rt-108",
+   "d": "medium",
+   "q": "What's the speed limit on most of the Natchez Trace Parkway?",
+   "a": "50 mph",
+   "w": [
+    "35 mph",
+    "65 mph",
+    "75 mph"
+   ],
+   "f": "Driving all 444 miles takes about 10 hours.",
+   "s": "National Park Service: Natchez Trace FAQs",
+   "u": "https://www.nps.gov/natr/faqs.htm"
+  },
+  {
+   "id": "rt-109",
+   "d": "hard",
+   "q": "Which insect, found nowhere else on Earth, lives at Coral Pink Sand Dunes near Kanab?",
+   "a": "Coral Pink tiger beetle",
+   "w": [
+    "Kanab monarch butterfly",
+    "Desert glow-worm",
+    "Sand dune firefly"
+   ],
+   "f": "The dunes can move up to 50 feet a year.",
+   "s": "Utah State Parks: Coral Pink Sand Dunes",
+   "u": "https://stateparks.utah.gov/parks/coral-pink/discover/"
+  },
+  {
+   "id": "rt-110",
+   "d": "easy",
+   "q": "Which famous road is nicknamed 'America's Favorite Drive'?",
+   "a": "Blue Ridge Parkway",
+   "w": [
+    "Route 66",
+    "Pacific Coast Highway",
+    "Going-to-the-Sun Road"
+   ],
+   "f": "It's built for slow touring, with a speed limit of 45 mph or less.",
+   "s": "National Park Service: Blue Ridge Parkway",
+   "u": "https://home.nps.gov/blri/planyourvisit/index.htm"
+  },
+  {
+   "id": "rt-111",
+   "d": "medium",
+   "q": "Alaska's Whittier Tunnel is also the state's only what?",
+   "a": "Toll road",
+   "w": [
+    "Paved road",
+    "Road with traffic lights",
+    "Road open year-round"
+   ],
+   "f": "It's Whittier's only road connection, and cars and trains take turns going through.",
+   "s": "Alaska DOT&PF: Whittier Tunnel",
+   "u": "https://dot.alaska.gov/creg/whittiertunnel/history.shtml"
+  },
+  {
+   "id": "rt-112",
+   "d": "easy",
+   "q": "The Overseas Highway through the Florida Keys ends in which town?",
+   "a": "Key West",
+   "w": [
+    "Miami",
+    "Key Largo",
+    "Tampa"
+   ],
+   "f": "Mile Marker 0 in Key West marks the southern end of US 1.",
+   "s": "Federal Highway Administration: U.S. 1",
+   "u": "https://highways.dot.gov/highway-history/general-highway-history/us-1-fort-kent-maine-key-west-florida"
+  },
+  {
+   "id": "rt-113",
+   "d": "easy",
+   "q": "The Blue Ridge Parkway runs through which two states?",
+   "a": "Virginia and North Carolina",
+   "w": [
+    "Tennessee and Kentucky",
+    "Georgia and South Carolina",
+    "Pennsylvania and Maryland"
+   ],
+   "f": "It runs along the crest of the Blue Ridge Mountains.",
+   "s": "National Park Service: Blue Ridge Parkway History",
+   "u": "https://home.nps.gov/blri/learn/historyculture/index.htm"
+  },
+  {
+   "id": "rt-114",
+   "d": "medium",
+   "q": "About how wide is the Needles Eye Tunnel on South Dakota's Needles Highway?",
+   "a": "About 8 feet",
+   "w": [
+    "About 4 feet",
+    "About 20 feet",
+    "About 40 feet"
+   ],
+   "f": "Measure your vehicle first. Big RVs won't fit.",
+   "s": "South Dakota Game, Fish & Parks: Scenic Drives",
+   "u": "https://gfp.sd.gov/csp-scenic-drives/"
+  },
+  {
+   "id": "rt-115",
+   "d": "easy",
+   "q": "The Icefields Parkway is in which Canadian province?",
+   "a": "Alberta",
+   "w": [
+    "British Columbia",
+    "Yukon",
+    "Ontario"
+   ],
+   "f": "It runs 232 km through Banff and Jasper national parks.",
+   "s": "Parks Canada: Travelling the Icefields Parkway",
+   "u": "https://parks.canada.ca/pn-np/ab/banff/visit/promenadedesglaciers-icefieldsparkway"
+  },
+  {
+   "id": "rt-116",
+   "d": "medium",
+   "q": "How many tunnels does the Blue Ridge Parkway have?",
+   "a": "26",
+   "w": [
+    "2",
+    "62",
+    "126"
+   ],
+   "f": "Most are south of Asheville, and the Parkway also has more than 250 overlooks.",
+   "s": "National Park Service: Blue Ridge Parkway Driving Safety",
+   "u": "https://www.nps.gov/blri/planyourvisit/driving-safety.htm"
+  },
+  {
+   "id": "rt-117",
+   "d": "hard",
+   "q": "Alaska's Richardson Highway is named for Wilds P. Richardson, who led what?",
+   "a": "The Alaska Road Commission",
+   "w": [
+    "The Klondike Gold Rush",
+    "The Alaska Railroad",
+    "The U.S. Coast Guard"
+   ],
+   "f": "The road grew from a gold-rush trail into Alaska's first major highway.",
+   "s": "Alaska DOT&PF: Richardson Highway",
+   "u": "https://dot.alaska.gov/highways/richardson/"
+  },
+  {
+   "id": "rt-118",
+   "d": "easy",
+   "q": "What color are Glacier National Park's historic tour buses?",
+   "a": "Red",
+   "w": [
+    "Yellow",
+    "Green",
+    "Blue"
+   ],
+   "f": "The buses date to the 1930s and still carry visitors over Going-to-the-Sun Road.",
+   "s": "National Park Service: Glacier's Red Bus Fleet",
+   "u": "https://www.nps.gov/glac/learn/news/park-intends-to-retain-red-bus-fleet.htm"
+  },
+  {
+   "id": "rt-119",
+   "d": "medium",
+   "q": "Who came up with the name 'Valley of Fire' in the 1920s?",
+   "a": "An AAA official driving through at sunset",
+   "w": [
+    "A Hollywood director",
+    "A Paiute chief",
+    "A Las Vegas casino owner"
+   ],
+   "f": "The red sandstone glows like fire when the sun is low.",
+   "s": "Nevada State Parks: Valley of Fire History",
+   "u": "https://parks.nv.gov/learn/park-histories/valley-of-fire-history"
+  },
+  {
+   "id": "rt-120",
+   "d": "easy",
+   "q": "California's Pacific Coast Highway is mostly which state highway?",
+   "a": "Highway 1",
+   "w": [
+    "Highway 5",
+    "Highway 66",
+    "Highway 99"
+   ],
+   "f": "Route 1 runs up the coast to Leggett, where it meets US 101.",
+   "s": "Federal Highway Administration: Pacific Coast Highway",
+   "u": "https://fhwaapps.fhwa.dot.gov/bywaysp/byway/12744"
   }
  ]
 }

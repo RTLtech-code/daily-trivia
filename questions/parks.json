@@ -1540,6 +1540,244 @@
    "s": "National Park Service: Kennecott Mines",
    "u": "https://www.nps.gov/wrst/learn/historyculture/kennecott-mines-national-historic-landmark.htm",
    "d": "medium"
+  },
+  {
+   "id": "np-111",
+   "d": "easy",
+   "q": "Which president is NOT carved into Mount Rushmore?",
+   "a": "Franklin D. Roosevelt",
+   "w": [
+    "George Washington",
+    "Abraham Lincoln",
+    "Theodore Roosevelt"
+   ],
+   "f": "The sculptor chose Washington, Jefferson, Theodore Roosevelt and Lincoln to represent the nation's birth, growth, development and preservation.",
+   "s": "National Park Service: Why These Four Presidents?",
+   "u": "https://www.nps.gov/moru/learn/historyculture/why-these-four-presidents.htm"
+  },
+  {
+   "id": "np-112",
+   "d": "medium",
+   "q": "How did Death Valley's Badwater Basin get its name, according to a popular story?",
+   "a": "A surveyor's mule refused to drink the water",
+   "w": [
+    "Gold miners poisoned it",
+    "A flood ruined a town there",
+    "It glows green at night"
+   ],
+   "f": "The water isn't poisonous, just very salty.",
+   "s": "National Park Service: Badwater Basin",
+   "u": "https://www.nps.gov/places/badwater-basin.htm"
+  },
+  {
+   "id": "np-113",
+   "d": "hard",
+   "q": "The observation tower on Kuwohi (formerly Clingmans Dome) was built in what year?",
+   "a": "1959",
+   "w": [
+    "1909",
+    "1935",
+    "1999"
+   ],
+   "f": "The 45-foot tower has a 375-foot spiral ramp to the top.",
+   "s": "National Park Service: Kuwohi Observation Tower",
+   "u": "https://www.nps.gov/places/kuwohi-observation-tower.htm"
+  },
+  {
+   "id": "np-114",
+   "d": "easy",
+   "q": "Which animal appears on the National Park Service arrowhead logo?",
+   "a": "A bison",
+   "w": [
+    "A bald eagle",
+    "A grizzly bear",
+    "A mountain lion"
+   ],
+   "f": "The bison stands for all the wildlife the parks protect.",
+   "s": "National Park Service: History of the NPS Arrowhead",
+   "u": "https://www.nps.gov/glac/learn/news/history-of-the-nps-arrowhead.htm"
+  },
+  {
+   "id": "np-115",
+   "d": "easy",
+   "q": "Which of these is a national memorial, not a national park?",
+   "a": "Mount Rushmore",
+   "w": [
+    "Zion",
+    "Acadia",
+    "Glacier"
+   ],
+   "f": "The National Park Service runs it, but it's officially a national memorial.",
+   "s": "National Park Service: Mount Rushmore National Memorial",
+   "u": "https://www.nps.gov/moru/index.htm"
+  },
+  {
+   "id": "np-116",
+   "d": "medium",
+   "q": "How tall is the opening under Delicate Arch?",
+   "a": "46 feet",
+   "w": [
+    "6 feet",
+    "146 feet",
+    "460 feet"
+   ],
+   "f": "It's the largest free-standing arch in Arches National Park.",
+   "s": "National Park Service: Delicate Arch",
+   "u": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm"
+  },
+  {
+   "id": "np-117",
+   "d": "easy",
+   "q": "Which very popular national park charges no entrance fee?",
+   "a": "Great Smoky Mountains",
+   "w": [
+    "Yellowstone",
+    "Grand Canyon",
+    "Yosemite"
+   ],
+   "f": "A 1951 agreement bars tolls on its main roads, but cars parked more than 15 minutes need a parking tag.",
+   "s": "National Park Service: Why No Entrance Fee?",
+   "u": "https://www.nps.gov/grsm/planyourvisit/whynoentrancefee.htm"
+  },
+  {
+   "id": "np-118",
+   "d": "hard",
+   "q": "About how big is Gates of the Arctic National Park, which has no trails at all?",
+   "a": "8.4 million acres",
+   "w": [
+    "84,000 acres",
+    "840,000 acres",
+    "84 million acres"
+   ],
+   "f": "Experienced hikers count six miles as a good day there.",
+   "s": "National Park Service: Gates of the Arctic",
+   "u": "https://www.nps.gov/gaar/index.htm"
+  },
+  {
+   "id": "np-119",
+   "d": "easy",
+   "q": "Which famous arch is a widely recognized symbol of Utah?",
+   "a": "Delicate Arch",
+   "w": [
+    "Landscape Arch",
+    "Rainbow Bridge",
+    "Gateway Arch"
+   ],
+   "f": "The 3-mile round-trip hike to it climbs about 480 feet.",
+   "s": "National Park Service: Delicate Arch",
+   "u": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm"
+  },
+  {
+   "id": "np-120",
+   "d": "medium",
+   "q": "What is the most famous tree in Yosemite's Mariposa Grove?",
+   "a": "The Grizzly Giant",
+   "w": [
+    "General Sherman",
+    "Hyperion",
+    "The Old Man"
+   ],
+   "f": "The giant sequoia is 209 feet tall and about 1,800 years old.",
+   "s": "National Park Service: Mariposa Grove",
+   "u": "https://www.nps.gov/yose/planyourvisit/mg.htm"
+  },
+  {
+   "id": "np-121",
+   "d": "easy",
+   "q": "What do kids usually earn for finishing a park's Junior Ranger activity book?",
+   "a": "A Junior Ranger badge",
+   "w": [
+    "A free campsite",
+    "A real ranger hat",
+    "A national parks pass"
+   ],
+   "f": "Most parks give the booklets out free at visitor centers, and many let you download them.",
+   "s": "National Park Service: Junior Ranger Programs",
+   "u": "https://www.nps.gov/thingstodo/junior-ranger-programs.htm"
+  },
+  {
+   "id": "np-122",
+   "d": "hard",
+   "q": "Who was the first guardian of Yosemite after Lincoln protected it in 1864?",
+   "a": "Galen Clark",
+   "w": [
+    "John Muir",
+    "Ansel Adams",
+    "Stephen Mather"
+   ],
+   "f": "He held the job for 24 years.",
+   "s": "National Park Service: Explorers and Recorders",
+   "u": "https://www.nps.gov/yose/learn/historyculture/explorers-and-recorders.htm"
+  },
+  {
+   "id": "np-123",
+   "d": "easy",
+   "q": "Grand Canyon National Park is in which state?",
+   "a": "Arizona",
+   "w": [
+    "Utah",
+    "Nevada",
+    "Colorado"
+   ],
+   "f": "The Colorado River carved the canyon, which is about a mile deep in places.",
+   "s": "National Park Service: Grand Canyon",
+   "u": "https://www.nps.gov/grca/index.htm"
+  },
+  {
+   "id": "np-124",
+   "d": "easy",
+   "q": "Acadia National Park is in which state?",
+   "a": "Maine",
+   "w": [
+    "Vermont",
+    "Massachusetts",
+    "New Hampshire"
+   ],
+   "f": "Most of the park is on Mount Desert Island, along the Atlantic coast.",
+   "s": "National Park Service: Acadia",
+   "u": "https://www.nps.gov/acad/index.htm"
+  },
+  {
+   "id": "np-125",
+   "d": "medium",
+   "q": "At its deepest, the Grand Canyon is about how deep?",
+   "a": "About a mile (6,000 feet)",
+   "w": [
+    "About 600 feet",
+    "About 3 miles",
+    "About 10 miles"
+   ],
+   "f": "It's 277 river miles long.",
+   "s": "National Park Service: Grand Canyon FAQs",
+   "u": "https://www.nps.gov/grca/faqs.htm"
+  },
+  {
+   "id": "np-126",
+   "d": "hard",
+   "q": "About how many sockeye salmon jump Brooks Falls in Katmai each year?",
+   "a": "200,000 to 400,000",
+   "w": [
+    "About 2,000",
+    "About 20,000",
+    "About 4 million"
+   ],
+   "f": "That's why so many brown bears gather at the falls in July.",
+   "s": "National Park Service: The Bears of Brooks River",
+   "u": "https://www.nps.gov/katm/learn/nature/the-bears-of-brooks-river.htm"
+  },
+  {
+   "id": "np-127",
+   "d": "easy",
+   "q": "What kind of tree is on the National Park Service arrowhead logo?",
+   "a": "A sequoia",
+   "w": [
+    "An oak",
+    "A palm",
+    "A maple"
+   ],
+   "f": "The tree stands for plants. Mountains and water stand for scenery and recreation, and the arrowhead shape for history.",
+   "s": "National Park Service: History of the NPS Arrowhead",
+   "u": "https://www.nps.gov/glac/learn/news/history-of-the-nps-arrowhead.htm"
   }
  ]
 }
